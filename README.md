@@ -16,6 +16,6 @@ The dataset contains product and supply chain information, including sales, reve
 - Python: pandas, Matplotlib, and scikit-learn
 - Power BI
 
-## docs
+## Docs
 - `Team Members.pdf` - Team member information
 - `PROJECT OVERVIEW.pdf` - Project description
