@@ -1,0 +1,1201 @@
+﻿LocationID,Country,Region,City,District,Lat,Lng
+1,Egypt,Middle East & Africa,Cairo,Central,30.04,31.24
+2,Egypt,Middle East & Africa,Alexandria,Central,31.2,29.92
+3,Egypt,Middle East & Africa,Giza,Central,30.01,31.21
+4,Egypt,Middle East & Africa,Port Said,Central,31.26,32.3
+5,Egypt,Middle East & Africa,Suez,Central,29.97,32.55
+6,Egypt,Middle East & Africa,Mansoura,Central,31.04,31.38
+7,Egypt,Middle East & Africa,Assiut,Central,27.18,31.18
+8,Egypt,Middle East & Africa,Luxor,Central,25.69,32.64
+9,Saudi Arabia,Middle East & Africa,Riyadh,Central,24.71,46.68
+10,Saudi Arabia,Middle East & Africa,Jeddah,Central,21.54,39.17
+11,Saudi Arabia,Middle East & Africa,Dammam,Central,26.43,50.1
+12,UAE,Middle East & Africa,Dubai,Central,25.2,55.27
+13,UAE,Middle East & Africa,Abu Dhabi,Central,24.45,54.38
+14,UAE,Middle East & Africa,Sharjah,Central,25.35,55.42
+15,Kuwait,Middle East & Africa,Kuwait City,Central,29.38,47.99
+16,Qatar,Middle East & Africa,Doha,Central,25.29,51.53
+17,Oman,Middle East & Africa,Muscat,Central,23.59,58.41
+18,Jordan,Middle East & Africa,Amman,Central,31.95,35.93
+19,Morocco,Middle East & Africa,Casablanca,Central,33.57,-7.59
+20,Nigeria,Middle East & Africa,Lagos,Central,6.52,3.38
+21,South Africa,Middle East & Africa,Johannesburg,Central,-26.2,28.05
+22,Turkey,Europe,Istanbul,Central,41.01,28.98
+23,Turkey,Europe,Ankara,Central,39.93,32.86
+24,Turkey,Europe,Izmir,Central,38.42,27.14
+25,Germany,Europe,Berlin,Central,52.52,13.4
+26,Germany,Europe,Hamburg,Central,53.55,9.99
+27,Germany,Europe,Munich,Central,48.14,11.58
+28,UK,Europe,London,Central,51.51,-0.13
+29,UK,Europe,Manchester,Central,53.48,-2.24
+30,France,Europe,Paris,Central,48.86,2.35
+31,Italy,Europe,Milan,Central,45.46,9.19
+32,Italy,Europe,Rome,Central,41.9,12.5
+33,Spain,Europe,Madrid,Central,40.42,-3.7
+34,Spain,Europe,Barcelona,Central,41.39,2.17
+35,Netherlands,Europe,Rotterdam,Central,51.92,4.48
+36,USA,North America,New York,Central,40.71,-74.01
+37,USA,North America,Chicago,Central,41.88,-87.63
+38,USA,North America,Los Angeles,Central,34.05,-118.24
+39,USA,North America,Houston,Central,29.76,-95.37
+40,USA,North America,Miami,Central,25.76,-80.19
+41,Canada,North America,Toronto,Central,43.65,-79.38
+42,Mexico,Latin America,Mexico City,Central,19.43,-99.13
+43,Brazil,Latin America,Sao Paulo,Central,-23.55,-46.63
+44,China,Asia Pacific,Shanghai,Central,31.23,121.47
+45,China,Asia Pacific,Shenzhen,Central,22.54,114.06
+46,China,Asia Pacific,Guangzhou,Central,23.13,113.26
+47,China,Asia Pacific,Beijing,Central,39.9,116.41
+48,India,Asia Pacific,Mumbai,Central,19.08,72.88
+49,India,Asia Pacific,Delhi,Central,28.61,77.21
+50,India,Asia Pacific,Chennai,Central,13.08,80.27
+51,Singapore,Asia Pacific,Singapore,Central,1.35,103.82
+52,Japan,Asia Pacific,Tokyo,Central,35.68,139.69
+53,South Korea,Asia Pacific,Seoul,Central,37.57,126.98
+54,Australia,Asia Pacific,Sydney,Central,-33.87,151.21
+55,Egypt,Middle East & Africa,Cairo,District 1,30.07657,31.1152
+56,Egypt,Middle East & Africa,Alexandria,District 1,31.29005,30.03287
+57,Egypt,Middle East & Africa,Giza,District 1,29.77588,31.05374
+58,Egypt,Middle East & Africa,Port Said,District 1,31.27534,32.26205
+59,Egypt,Middle East & Africa,Suez,District 1,29.96798,32.44763
+60,Egypt,Middle East & Africa,Mansoura,District 1,31.14553,31.47334
+61,Egypt,Middle East & Africa,Assiut,District 1,27.18792,31.31527
+62,Egypt,Middle East & Africa,Luxor,District 1,25.7461,32.53688
+63,Saudi Arabia,Middle East & Africa,Riyadh,District 1,24.75425,46.56493
+64,Saudi Arabia,Middle East & Africa,Jeddah,District 1,21.64541,39.16401
+65,Saudi Arabia,Middle East & Africa,Dammam,District 1,26.40782,50.01829
+66,UAE,Middle East & Africa,Dubai,District 1,25.3467,55.25146
+67,UAE,Middle East & Africa,Abu Dhabi,District 1,24.3986,54.33774
+68,UAE,Middle East & Africa,Sharjah,District 1,25.41388,55.46385
+69,Kuwait,Middle East & Africa,Kuwait City,District 1,29.42953,48.0417
+70,Qatar,Middle East & Africa,Doha,District 1,25.547,51.48123
+71,Oman,Middle East & Africa,Muscat,District 1,23.52853,58.31235
+72,Jordan,Middle East & Africa,Amman,District 1,32.02392,36.06548
+73,Morocco,Middle East & Africa,Casablanca,District 1,33.55633,-7.69082
+74,Nigeria,Middle East & Africa,Lagos,District 1,6.42106,3.45807
+75,South Africa,Middle East & Africa,Johannesburg,District 1,-26.11081,28.11518
+76,Turkey,Europe,Istanbul,District 1,40.93014,29.00786
+77,Turkey,Europe,Ankara,District 1,39.944,32.88624
+78,Turkey,Europe,Izmir,District 1,38.52457,27.16683
+79,Germany,Europe,Berlin,District 1,52.60147,13.40811
+80,Germany,Europe,Hamburg,District 1,53.58469,10.06575
+81,Germany,Europe,Munich,District 1,47.96514,11.54164
+82,UK,Europe,London,District 1,51.45356,-0.20667
+83,UK,Europe,Manchester,District 1,53.44698,-2.06061
+84,France,Europe,Paris,District 1,48.7561,2.46619
+85,Italy,Europe,Milan,District 1,45.25806,9.14981
+86,Italy,Europe,Rome,District 1,41.91953,12.57035
+87,Spain,Europe,Madrid,District 1,40.50535,-3.6048
+88,Spain,Europe,Barcelona,District 1,41.34815,2.11452
+89,Netherlands,Europe,Rotterdam,District 1,52.02296,4.45704
+90,USA,North America,New York,District 1,40.55692,-74.14599
+91,USA,North America,Chicago,District 1,41.76967,-87.57034
+92,USA,North America,Los Angeles,District 1,34.06709,-118.15714
+93,USA,North America,Houston,District 1,29.70873,-95.35098
+94,USA,North America,Miami,District 1,25.83507,-80.22712
+95,Canada,North America,Toronto,District 1,43.70481,-79.45943
+96,Mexico,Latin America,Mexico City,District 1,19.38643,-99.17581
+97,Brazil,Latin America,Sao Paulo,District 1,-23.6935,-46.57156
+98,China,Asia Pacific,Shanghai,District 1,31.17367,121.4715
+99,China,Asia Pacific,Shenzhen,District 1,22.59769,114.11358
+100,China,Asia Pacific,Guangzhou,District 1,23.20985,113.24818
+101,China,Asia Pacific,Beijing,District 1,39.8492,116.40043
+102,India,Asia Pacific,Mumbai,District 1,18.87752,72.70635
+103,India,Asia Pacific,Delhi,District 1,28.45128,77.09033
+104,India,Asia Pacific,Chennai,District 1,13.12797,80.16134
+105,Singapore,Asia Pacific,Singapore,District 1,1.30462,103.97591
+106,Japan,Asia Pacific,Tokyo,District 1,35.63725,139.7785
+107,South Korea,Asia Pacific,Seoul,District 1,37.45797,126.95535
+108,Australia,Asia Pacific,Sydney,District 1,-33.984,151.16932
+109,Egypt,Middle East & Africa,Cairo,District 2,30.14084,31.03272
+110,Egypt,Middle East & Africa,Alexandria,District 2,31.25213,29.94853
+111,Egypt,Middle East & Africa,Giza,District 2,29.9387,31.03647
+112,Egypt,Middle East & Africa,Port Said,District 2,31.26866,32.23646
+113,Egypt,Middle East & Africa,Suez,District 2,29.99792,32.55262
+114,Egypt,Middle East & Africa,Mansoura,District 2,31.23221,31.35128
+115,Egypt,Middle East & Africa,Assiut,District 2,27.05718,31.20151
+116,Egypt,Middle East & Africa,Luxor,District 2,25.7164,32.8031
+117,Saudi Arabia,Middle East & Africa,Riyadh,District 2,24.81021,46.72282
+118,Saudi Arabia,Middle East & Africa,Jeddah,District 2,21.7156,39.02735
+119,Saudi Arabia,Middle East & Africa,Dammam,District 2,26.35323,49.98881
+120,UAE,Middle East & Africa,Dubai,District 2,25.15322,55.1048
+121,UAE,Middle East & Africa,Abu Dhabi,District 2,24.52622,54.35333
+122,UAE,Middle East & Africa,Sharjah,District 2,25.1735,55.29813
+123,Kuwait,Middle East & Africa,Kuwait City,District 2,29.41762,48.09058
+124,Qatar,Middle East & Africa,Doha,District 2,25.52961,51.87966
+125,Oman,Middle East & Africa,Muscat,District 2,23.63973,58.29126
+126,Jordan,Middle East & Africa,Amman,District 2,31.69415,35.96213
+127,Morocco,Middle East & Africa,Casablanca,District 2,33.47245,-7.63984
+128,Nigeria,Middle East & Africa,Lagos,District 2,6.44655,3.36311
+129,South Africa,Middle East & Africa,Johannesburg,District 2,-26.07208,28.06885
+130,Turkey,Europe,Istanbul,District 2,40.99096,28.85572
+131,Turkey,Europe,Ankara,District 2,39.72904,32.80164
+132,Turkey,Europe,Izmir,District 2,38.41355,27.35215
+133,Germany,Europe,Berlin,District 2,52.53563,13.51793
+134,Germany,Europe,Hamburg,District 2,53.49008,9.84781
+135,Germany,Europe,Munich,District 2,48.02419,11.49297
+136,UK,Europe,London,District 2,51.76542,-0.22857
+137,UK,Europe,Manchester,District 2,53.58062,-2.34835
+138,France,Europe,Paris,District 2,48.97179,2.39619
+139,Italy,Europe,Milan,District 2,45.4412,9.18511
+140,Italy,Europe,Rome,District 2,41.82143,12.55353
+141,Spain,Europe,Madrid,District 2,40.3654,-3.84707
+142,Spain,Europe,Barcelona,District 2,41.23665,2.19071
+143,Netherlands,Europe,Rotterdam,District 2,52.10949,4.4992
+144,USA,North America,New York,District 2,40.69576,-73.9757
+145,USA,North America,Chicago,District 2,42.03672,-87.60367
+146,USA,North America,Los Angeles,District 2,34.00069,-118.10725
+147,USA,North America,Houston,District 2,29.81145,-95.18571
+148,USA,North America,Miami,District 2,25.78199,-80.33694
+149,Canada,North America,Toronto,District 2,43.48582,-79.18189
+150,Mexico,Latin America,Mexico City,District 2,19.63684,-99.15154
+151,Brazil,Latin America,Sao Paulo,District 2,-23.59598,-46.45463
+152,China,Asia Pacific,Shanghai,District 2,31.09715,121.36263
+153,China,Asia Pacific,Shenzhen,District 2,22.6172,114.01265
+154,China,Asia Pacific,Guangzhou,District 2,23.12939,113.24039
+155,China,Asia Pacific,Beijing,District 2,39.94051,116.5789
+156,India,Asia Pacific,Mumbai,District 2,19.09087,72.95727
+157,India,Asia Pacific,Delhi,District 2,28.36398,77.20415
+158,India,Asia Pacific,Chennai,District 2,12.97881,80.12374
+159,Singapore,Asia Pacific,Singapore,District 2,1.24462,103.77991
+160,Japan,Asia Pacific,Tokyo,District 2,35.78991,139.53083
+161,South Korea,Asia Pacific,Seoul,District 2,37.57368,126.9219
+162,Australia,Asia Pacific,Sydney,District 2,-33.90932,151.33033
+163,Egypt,Middle East & Africa,Cairo,District 3,30.10457,31.40049
+164,Egypt,Middle East & Africa,Alexandria,District 3,31.18146,29.83649
+165,Egypt,Middle East & Africa,Giza,District 3,29.98314,31.2391
+166,Egypt,Middle East & Africa,Port Said,District 3,31.28119,32.16987
+167,Egypt,Middle East & Africa,Suez,District 3,29.98086,32.57739
+168,Egypt,Middle East & Africa,Mansoura,District 3,31.3421,31.60522
+169,Egypt,Middle East & Africa,Assiut,District 3,27.07761,31.14551
+170,Egypt,Middle East & Africa,Luxor,District 3,25.51439,32.56912
+171,Saudi Arabia,Middle East & Africa,Riyadh,District 3,24.74787,46.8247
+172,Saudi Arabia,Middle East & Africa,Jeddah,District 3,21.45251,39.0915
+173,Saudi Arabia,Middle East & Africa,Dammam,District 3,26.17233,50.08048
+174,UAE,Middle East & Africa,Dubai,District 3,25.07251,55.20647
+175,UAE,Middle East & Africa,Abu Dhabi,District 3,24.34478,54.36869
+176,UAE,Middle East & Africa,Sharjah,District 3,25.13907,55.24395
+177,Kuwait,Middle East & Africa,Kuwait City,District 3,29.63551,47.83551
+178,Qatar,Middle East & Africa,Doha,District 3,25.15839,51.75043
+179,Oman,Middle East & Africa,Muscat,District 3,23.93861,58.26941
+180,Jordan,Middle East & Africa,Amman,District 3,31.90581,35.97099
+181,Morocco,Middle East & Africa,Casablanca,District 3,33.77744,-7.70842
+182,Nigeria,Middle East & Africa,Lagos,District 3,6.49057,3.47328
+183,South Africa,Middle East & Africa,Johannesburg,District 3,-26.14783,28.00486
+184,Turkey,Europe,Istanbul,District 3,40.99394,28.81501
+185,Turkey,Europe,Ankara,District 3,39.90142,32.82803
+186,Turkey,Europe,Izmir,District 3,38.44786,27.07336
+187,Germany,Europe,Berlin,District 3,52.57658,13.52153
+188,Germany,Europe,Hamburg,District 3,53.56865,10.03221
+189,Germany,Europe,Munich,District 3,48.14638,11.58001
+190,UK,Europe,London,District 3,51.42341,-0.09202
+191,UK,Europe,Manchester,District 3,53.46833,-1.98882
+192,France,Europe,Paris,District 3,49.0488,2.3963
+193,Italy,Europe,Milan,District 3,45.36843,9.05651
+194,Italy,Europe,Rome,District 3,42.04294,12.53153
+195,Spain,Europe,Madrid,District 3,40.47762,-3.90935
+196,Spain,Europe,Barcelona,District 3,41.50129,2.22453
+197,Netherlands,Europe,Rotterdam,District 3,51.78675,4.42342
+198,USA,North America,New York,District 3,40.74165,-74.0037
+199,USA,North America,Chicago,District 3,41.84494,-87.64242
+200,USA,North America,Los Angeles,District 3,34.01976,-118.22169
+201,USA,North America,Houston,District 3,29.93658,-95.678
+202,USA,North America,Miami,District 3,25.73158,-80.16882
+203,Canada,North America,Toronto,District 3,43.68552,-79.42463
+204,Mexico,Latin America,Mexico City,District 3,19.21919,-99.09064
+205,Brazil,Latin America,Sao Paulo,District 3,-23.34272,-46.81406
+206,China,Asia Pacific,Shanghai,District 3,31.33366,121.43058
+207,China,Asia Pacific,Shenzhen,District 3,22.53264,113.93365
+208,China,Asia Pacific,Guangzhou,District 3,23.08987,113.41601
+209,China,Asia Pacific,Beijing,District 3,39.96992,116.61788
+210,India,Asia Pacific,Mumbai,District 3,19.22129,72.93269
+211,India,Asia Pacific,Delhi,District 3,28.81927,77.26268
+212,India,Asia Pacific,Chennai,District 3,13.17936,80.23441
+213,Singapore,Asia Pacific,Singapore,District 3,1.35799,103.73631
+214,Japan,Asia Pacific,Tokyo,District 3,35.79875,139.5486
+215,South Korea,Asia Pacific,Seoul,District 3,37.66388,126.95712
+216,Australia,Asia Pacific,Sydney,District 3,-33.72945,151.3001
+217,Egypt,Middle East & Africa,Cairo,District 4,30.25848,31.32769
+218,Egypt,Middle East & Africa,Alexandria,District 4,31.01136,29.91197
+219,Egypt,Middle East & Africa,Giza,District 4,29.86936,31.14781
+220,Egypt,Middle East & Africa,Port Said,District 4,31.44135,32.3765
+221,Egypt,Middle East & Africa,Suez,District 4,29.88613,32.42835
+222,Egypt,Middle East & Africa,Mansoura,District 4,31.04393,31.23401
+223,Egypt,Middle East & Africa,Assiut,District 4,27.09946,31.21744
+224,Egypt,Middle East & Africa,Luxor,District 4,25.82864,32.71305
+225,Saudi Arabia,Middle East & Africa,Riyadh,District 4,24.43505,46.71652
+226,Saudi Arabia,Middle East & Africa,Jeddah,District 4,21.54864,39.21967
+227,Saudi Arabia,Middle East & Africa,Dammam,District 4,26.62395,49.85241
+228,UAE,Middle East & Africa,Dubai,District 4,25.12907,55.34091
+229,UAE,Middle East & Africa,Abu Dhabi,District 4,24.26021,54.55711
+230,UAE,Middle East & Africa,Sharjah,District 4,25.3942,55.52159
+231,Kuwait,Middle East & Africa,Kuwait City,District 4,29.31149,48.08765
+232,Qatar,Middle East & Africa,Doha,District 4,25.41822,51.55795
+233,Oman,Middle East & Africa,Muscat,District 4,23.61813,58.44244
+234,Jordan,Middle East & Africa,Amman,District 4,31.8464,35.9123
+235,Morocco,Middle East & Africa,Casablanca,District 4,33.5517,-7.54399
+236,Nigeria,Middle East & Africa,Lagos,District 4,6.63998,3.25298
+237,South Africa,Middle East & Africa,Johannesburg,District 4,-26.215,28.22777
+238,Turkey,Europe,Istanbul,District 4,40.92077,28.88133
+239,Turkey,Europe,Ankara,District 4,39.95428,32.96133
+240,Turkey,Europe,Izmir,District 4,38.42137,27.29948
+241,Germany,Europe,Berlin,District 4,52.62282,13.50102
+242,Germany,Europe,Hamburg,District 4,53.61649,10.26932
+243,Germany,Europe,Munich,District 4,48.11538,11.33958
+244,UK,Europe,London,District 4,51.70251,-0.18492
+245,UK,Europe,Manchester,District 4,53.49295,-2.08285
+246,France,Europe,Paris,District 4,48.66773,2.1998
+247,Italy,Europe,Milan,District 4,45.26785,9.0947
+248,Italy,Europe,Rome,District 4,41.95276,12.5629
+249,Spain,Europe,Madrid,District 4,40.45315,-3.86953
+250,Spain,Europe,Barcelona,District 4,41.11279,2.17652
+251,Netherlands,Europe,Rotterdam,District 4,51.86339,4.53513
+252,USA,North America,New York,District 4,40.79423,-73.99341
+253,USA,North America,Chicago,District 4,41.97122,-87.60249
+254,USA,North America,Los Angeles,District 4,34.11361,-118.32456
+255,USA,North America,Houston,District 4,29.73845,-95.34639
+256,USA,North America,Miami,District 4,25.85846,-80.23725
+257,Canada,North America,Toronto,District 4,43.71254,-79.4119
+258,Mexico,Latin America,Mexico City,District 4,19.41589,-99.03046
+259,Brazil,Latin America,Sao Paulo,District 4,-23.78917,-46.78558
+260,China,Asia Pacific,Shanghai,District 4,31.05214,121.18997
+261,China,Asia Pacific,Shenzhen,District 4,22.45861,114.14993
+262,China,Asia Pacific,Guangzhou,District 4,23.09581,113.28373
+263,China,Asia Pacific,Beijing,District 4,40.03071,116.56932
+264,India,Asia Pacific,Mumbai,District 4,19.0717,73.04243
+265,India,Asia Pacific,Delhi,District 4,28.62106,77.10951
+266,India,Asia Pacific,Chennai,District 4,13.00867,80.09234
+267,Singapore,Asia Pacific,Singapore,District 4,1.24342,103.77704
+268,Japan,Asia Pacific,Tokyo,District 4,35.77643,139.89649
+269,South Korea,Asia Pacific,Seoul,District 4,37.40414,127.02714
+270,Australia,Asia Pacific,Sydney,District 4,-33.99487,151.26696
+271,Egypt,Middle East & Africa,Cairo,District 5,30.02427,31.02029
+272,Egypt,Middle East & Africa,Alexandria,District 5,31.3114,29.8474
+273,Egypt,Middle East & Africa,Giza,District 5,29.94593,31.08163
+274,Egypt,Middle East & Africa,Port Said,District 5,31.18149,32.35135
+275,Egypt,Middle East & Africa,Suez,District 5,29.94729,32.58944
+276,Egypt,Middle East & Africa,Mansoura,District 5,31.08343,31.53848
+277,Egypt,Middle East & Africa,Assiut,District 5,27.13887,31.00278
+278,Egypt,Middle East & Africa,Luxor,District 5,25.81807,32.60022
+279,Saudi Arabia,Middle East & Africa,Riyadh,District 5,24.84375,46.72601
+280,Saudi Arabia,Middle East & Africa,Jeddah,District 5,21.52426,39.21185
+281,Saudi Arabia,Middle East & Africa,Dammam,District 5,26.66412,50.34924
+282,UAE,Middle East & Africa,Dubai,District 5,25.20833,55.28922
+283,UAE,Middle East & Africa,Abu Dhabi,District 5,24.57915,54.27852
+284,UAE,Middle East & Africa,Sharjah,District 5,25.38997,55.4169
+285,Kuwait,Middle East & Africa,Kuwait City,District 5,29.41767,47.89
+286,Qatar,Middle East & Africa,Doha,District 5,25.09925,51.28124
+287,Oman,Middle East & Africa,Muscat,District 5,23.45591,58.35496
+288,Jordan,Middle East & Africa,Amman,District 5,31.91482,36.16247
+289,Morocco,Middle East & Africa,Casablanca,District 5,33.70272,-7.70545
+290,Nigeria,Middle East & Africa,Lagos,District 5,6.56173,3.33115
+291,South Africa,Middle East & Africa,Johannesburg,District 5,-26.23412,28.07224
+292,Turkey,Europe,Istanbul,District 5,41.0843,28.93929
+293,Turkey,Europe,Ankara,District 5,40.05766,32.72297
+294,Turkey,Europe,Izmir,District 5,38.42076,27.45172
+295,Germany,Europe,Berlin,District 5,52.54677,13.57199
+296,Germany,Europe,Hamburg,District 5,53.56098,10.05969
+297,Germany,Europe,Munich,District 5,48.13319,11.55955
+298,UK,Europe,London,District 5,51.41646,-0.07836
+299,UK,Europe,Manchester,District 5,53.37782,-2.16013
+300,France,Europe,Paris,District 5,48.99023,2.39398
+301,Italy,Europe,Milan,District 5,45.42565,9.24448
+302,Italy,Europe,Rome,District 5,41.86296,12.61227
+303,Spain,Europe,Madrid,District 5,40.20023,-3.74027
+304,Spain,Europe,Barcelona,District 5,41.1511,1.99059
+305,Netherlands,Europe,Rotterdam,District 5,52.08366,4.58742
+306,USA,North America,New York,District 5,40.62366,-74.1903
+307,USA,North America,Chicago,District 5,41.52426,-87.69522
+308,USA,North America,Los Angeles,District 5,34.34045,-118.18781
+309,USA,North America,Houston,District 5,29.69285,-95.31419
+310,USA,North America,Miami,District 5,25.57268,-80.22568
+311,Canada,North America,Toronto,District 5,43.66194,-79.39033
+312,Mexico,Latin America,Mexico City,District 5,19.5249,-99.08864
+313,Brazil,Latin America,Sao Paulo,District 5,-23.4698,-46.7126
+314,China,Asia Pacific,Shanghai,District 5,31.33774,121.66547
+315,China,Asia Pacific,Shenzhen,District 5,22.42358,113.95348
+316,China,Asia Pacific,Guangzhou,District 5,23.29029,113.23704
+317,China,Asia Pacific,Beijing,District 5,40.06846,116.3569
+318,India,Asia Pacific,Mumbai,District 5,19.25461,72.89578
+319,India,Asia Pacific,Delhi,District 5,28.64099,77.39777
+320,India,Asia Pacific,Chennai,District 5,13.03659,80.15707
+321,Singapore,Asia Pacific,Singapore,District 5,1.29617,103.87428
+322,Japan,Asia Pacific,Tokyo,District 5,35.49211,139.7665
+323,South Korea,Asia Pacific,Seoul,District 5,37.50535,127.11774
+324,Australia,Asia Pacific,Sydney,District 5,-34.15731,151.11561
+325,Egypt,Middle East & Africa,Cairo,District 6,29.83762,31.14085
+326,Egypt,Middle East & Africa,Alexandria,District 6,31.22972,29.89849
+327,Egypt,Middle East & Africa,Giza,District 6,29.97959,31.1909
+328,Egypt,Middle East & Africa,Port Said,District 6,31.28441,32.17898
+329,Egypt,Middle East & Africa,Suez,District 6,30.05482,32.62952
+330,Egypt,Middle East & Africa,Mansoura,District 6,31.0862,31.44678
+331,Egypt,Middle East & Africa,Assiut,District 6,27.21557,31.42421
+332,Egypt,Middle East & Africa,Luxor,District 6,25.67955,32.60315
+333,Saudi Arabia,Middle East & Africa,Riyadh,District 6,24.61958,46.55613
+334,Saudi Arabia,Middle East & Africa,Jeddah,District 6,21.39066,39.06334
+335,Saudi Arabia,Middle East & Africa,Dammam,District 6,26.42152,50.14012
+336,UAE,Middle East & Africa,Dubai,District 6,25.20614,55.17814
+337,UAE,Middle East & Africa,Abu Dhabi,District 6,24.55802,54.46873
+338,UAE,Middle East & Africa,Sharjah,District 6,25.33084,55.34165
+339,Kuwait,Middle East & Africa,Kuwait City,District 6,29.44581,48.01256
+340,Qatar,Middle East & Africa,Doha,District 6,25.11622,51.52184
+341,Oman,Middle East & Africa,Muscat,District 6,23.62144,58.30204
+342,Jordan,Middle East & Africa,Amman,District 6,31.97278,35.75542
+343,Morocco,Middle East & Africa,Casablanca,District 6,33.73034,-7.44025
+344,Nigeria,Middle East & Africa,Lagos,District 6,6.4897,3.42361
+345,South Africa,Middle East & Africa,Johannesburg,District 6,-26.48919,27.91124
+346,Turkey,Europe,Istanbul,District 6,40.97475,28.85134
+347,Turkey,Europe,Ankara,District 6,40.01573,33.09968
+348,Turkey,Europe,Izmir,District 6,38.27881,27.0395
+349,Germany,Europe,Berlin,District 6,52.54825,13.59333
+350,Germany,Europe,Hamburg,District 6,53.40332,10.01988
+351,Germany,Europe,Munich,District 6,48.35856,11.38179
+352,UK,Europe,London,District 6,51.35627,-0.18083
+353,UK,Europe,Manchester,District 6,53.41753,-2.14249
+354,France,Europe,Paris,District 6,48.889,2.137
+355,Italy,Europe,Milan,District 6,45.52185,9.1207
+356,Italy,Europe,Rome,District 6,42.05293,12.42469
+357,Spain,Europe,Madrid,District 6,40.34361,-3.63506
+358,Spain,Europe,Barcelona,District 6,41.48155,2.22377
+359,Netherlands,Europe,Rotterdam,District 6,51.71773,4.54456
+360,USA,North America,New York,District 6,40.58588,-73.98177
+361,USA,North America,Chicago,District 6,41.70915,-87.57644
+362,USA,North America,Los Angeles,District 6,33.95321,-118.39392
+363,USA,North America,Houston,District 6,29.84566,-95.341
+364,USA,North America,Miami,District 6,25.68632,-80.01586
+365,Canada,North America,Toronto,District 6,43.59712,-79.37615
+366,Mexico,Latin America,Mexico City,District 6,19.46227,-99.20436
+367,Brazil,Latin America,Sao Paulo,District 6,-23.49346,-46.69401
+368,China,Asia Pacific,Shanghai,District 6,31.1806,121.63352
+369,China,Asia Pacific,Shenzhen,District 6,22.41513,113.77047
+370,China,Asia Pacific,Guangzhou,District 6,23.32331,113.56592
+371,China,Asia Pacific,Beijing,District 6,39.85137,116.17758
+372,India,Asia Pacific,Mumbai,District 6,19.04274,72.84565
+373,India,Asia Pacific,Delhi,District 6,28.58721,77.07639
+374,India,Asia Pacific,Chennai,District 6,13.14955,80.33294
+375,Singapore,Asia Pacific,Singapore,District 6,1.17067,103.9039
+376,Japan,Asia Pacific,Tokyo,District 6,35.92632,139.71064
+377,South Korea,Asia Pacific,Seoul,District 6,37.52952,126.96296
+378,Australia,Asia Pacific,Sydney,District 6,-33.79617,151.00232
+379,Egypt,Middle East & Africa,Cairo,District 7,30.05973,31.19314
+380,Egypt,Middle East & Africa,Alexandria,District 7,31.42174,29.8991
+381,Egypt,Middle East & Africa,Giza,District 7,30.21015,31.07755
+382,Egypt,Middle East & Africa,Port Said,District 7,31.33047,32.33833
+383,Egypt,Middle East & Africa,Suez,District 7,29.86571,32.57129
+384,Egypt,Middle East & Africa,Mansoura,District 7,31.1855,31.34114
+385,Egypt,Middle East & Africa,Assiut,District 7,26.97696,31.17789
+386,Egypt,Middle East & Africa,Luxor,District 7,25.58171,32.59892
+387,Saudi Arabia,Middle East & Africa,Riyadh,District 7,24.70021,46.47532
+388,Saudi Arabia,Middle East & Africa,Jeddah,District 7,21.34612,39.22785
+389,Saudi Arabia,Middle East & Africa,Dammam,District 7,26.36727,49.79223
+390,UAE,Middle East & Africa,Dubai,District 7,25.29418,55.30268
+391,UAE,Middle East & Africa,Abu Dhabi,District 7,24.36434,54.22198
+392,UAE,Middle East & Africa,Sharjah,District 7,25.4503,55.46192
+393,Kuwait,Middle East & Africa,Kuwait City,District 7,29.66591,48.04042
+394,Qatar,Middle East & Africa,Doha,District 7,25.33652,51.50997
+395,Oman,Middle East & Africa,Muscat,District 7,23.68801,58.48501
+396,Jordan,Middle East & Africa,Amman,District 7,32.10021,35.86744
+397,Morocco,Middle East & Africa,Casablanca,District 7,33.51775,-7.64749
+398,Nigeria,Middle East & Africa,Lagos,District 7,6.6149,3.5598
+399,South Africa,Middle East & Africa,Johannesburg,District 7,-26.25506,27.99903
+400,Turkey,Europe,Istanbul,District 7,41.04769,28.95051
+401,Turkey,Europe,Ankara,District 7,40.04425,32.58979
+402,Turkey,Europe,Izmir,District 7,38.3208,27.04611
+403,Germany,Europe,Berlin,District 7,52.24156,13.28436
+404,Germany,Europe,Hamburg,District 7,53.44018,9.96587
+405,Germany,Europe,Munich,District 7,48.27356,11.55059
+406,UK,Europe,London,District 7,51.3863,-0.13683
+407,UK,Europe,Manchester,District 7,53.6059,-2.35712
+408,France,Europe,Paris,District 7,48.75073,2.41703
+409,Italy,Europe,Milan,District 7,45.43342,9.2677
+410,Italy,Europe,Rome,District 7,41.89836,12.5842
+411,Spain,Europe,Madrid,District 7,40.29579,-3.70145
+412,Spain,Europe,Barcelona,District 7,41.36472,2.02409
+413,Netherlands,Europe,Rotterdam,District 7,51.73238,4.56229
+414,USA,North America,New York,District 7,40.66789,-74.13267
+415,USA,North America,Chicago,District 7,41.86846,-87.49464
+416,USA,North America,Los Angeles,District 7,33.77631,-118.4196
+417,USA,North America,Houston,District 7,29.64925,-95.19466
+418,USA,North America,Miami,District 7,25.79391,-80.09792
+419,Canada,North America,Toronto,District 7,43.51318,-79.51434
+420,Mexico,Latin America,Mexico City,District 7,19.48374,-99.12301
+421,Brazil,Latin America,Sao Paulo,District 7,-23.48415,-46.65252
+422,China,Asia Pacific,Shanghai,District 7,31.26338,121.48897
+423,China,Asia Pacific,Shenzhen,District 7,22.63333,114.15684
+424,China,Asia Pacific,Guangzhou,District 7,22.93562,112.99033
+425,China,Asia Pacific,Beijing,District 7,40.02021,116.55253
+426,India,Asia Pacific,Mumbai,District 7,18.95753,72.65682
+427,India,Asia Pacific,Delhi,District 7,28.62188,77.3217
+428,India,Asia Pacific,Chennai,District 7,13.29571,80.33196
+429,Singapore,Asia Pacific,Singapore,District 7,1.30539,103.71282
+430,Japan,Asia Pacific,Tokyo,District 7,35.68137,139.65409
+431,South Korea,Asia Pacific,Seoul,District 7,37.44819,127.22585
+432,Australia,Asia Pacific,Sydney,District 7,-33.65578,151.34633
+433,Egypt,Middle East & Africa,Cairo,District 8,29.9295,31.3426
+434,Egypt,Middle East & Africa,Alexandria,District 8,31.27676,29.97311
+435,Egypt,Middle East & Africa,Giza,District 8,30.15996,31.28624
+436,Egypt,Middle East & Africa,Port Said,District 8,31.3488,32.37643
+437,Egypt,Middle East & Africa,Suez,District 8,30.01089,32.33597
+438,Egypt,Middle East & Africa,Mansoura,District 8,31.05003,31.31326
+439,Egypt,Middle East & Africa,Assiut,District 8,27.02642,31.38182
+440,Egypt,Middle East & Africa,Luxor,District 8,25.89748,32.80311
+441,Saudi Arabia,Middle East & Africa,Riyadh,District 8,24.74063,46.84208
+442,Saudi Arabia,Middle East & Africa,Jeddah,District 8,21.54145,39.19434
+443,Saudi Arabia,Middle East & Africa,Dammam,District 8,26.29878,50.14764
+444,UAE,Middle East & Africa,Dubai,District 8,25.20725,55.11368
+445,UAE,Middle East & Africa,Abu Dhabi,District 8,24.44386,54.37043
+446,UAE,Middle East & Africa,Sharjah,District 8,25.56571,55.52731
+447,Kuwait,Middle East & Africa,Kuwait City,District 8,29.38137,48.01985
+448,Qatar,Middle East & Africa,Doha,District 8,25.29531,51.50565
+449,Oman,Middle East & Africa,Muscat,District 8,23.46011,58.39187
+450,Jordan,Middle East & Africa,Amman,District 8,31.86047,35.77996
+451,Morocco,Middle East & Africa,Casablanca,District 8,33.63135,-7.54305
+452,Nigeria,Middle East & Africa,Lagos,District 8,6.3056,3.36528
+453,South Africa,Middle East & Africa,Johannesburg,District 8,-26.08052,28.17711
+454,Turkey,Europe,Istanbul,District 8,41.1331,28.98467
+455,Turkey,Europe,Ankara,District 8,39.82859,32.72996
+456,Turkey,Europe,Izmir,District 8,38.46135,27.18551
+457,Germany,Europe,Berlin,District 8,52.67448,13.532
+458,Germany,Europe,Hamburg,District 8,53.53413,9.8407
+459,Germany,Europe,Munich,District 8,48.10171,11.60607
+460,UK,Europe,London,District 8,51.48575,-0.19935
+461,UK,Europe,Manchester,District 8,53.51035,-2.30047
+462,France,Europe,Paris,District 8,48.78463,2.38737
+463,Italy,Europe,Milan,District 8,45.41176,9.21929
+464,Italy,Europe,Rome,District 8,41.93278,12.36327
+465,Spain,Europe,Madrid,District 8,40.36225,-3.52747
+466,Spain,Europe,Barcelona,District 8,41.25055,1.916
+467,Netherlands,Europe,Rotterdam,District 8,51.69658,4.48349
+468,USA,North America,New York,District 8,40.71371,-74.02411
+469,USA,North America,Chicago,District 8,42.0257,-87.95074
+470,USA,North America,Los Angeles,District 8,34.09751,-118.05263
+471,USA,North America,Houston,District 8,29.62467,-95.41558
+472,USA,North America,Miami,District 8,25.66965,-80.29732
+473,Canada,North America,Toronto,District 8,43.61085,-79.2087
+474,Mexico,Latin America,Mexico City,District 8,19.65049,-99.17031
+475,Brazil,Latin America,Sao Paulo,District 8,-23.32139,-46.62573
+476,China,Asia Pacific,Shanghai,District 8,31.44044,121.4588
+477,China,Asia Pacific,Shenzhen,District 8,22.55573,114.10386
+478,China,Asia Pacific,Guangzhou,District 8,23.51146,113.36215
+479,China,Asia Pacific,Beijing,District 8,39.81513,116.52628
+480,India,Asia Pacific,Mumbai,District 8,19.03658,72.82123
+481,India,Asia Pacific,Delhi,District 8,28.71903,77.21373
+482,India,Asia Pacific,Chennai,District 8,13.11343,80.27168
+483,Singapore,Asia Pacific,Singapore,District 8,1.39039,103.871
+484,Japan,Asia Pacific,Tokyo,District 8,35.44756,139.76999
+485,South Korea,Asia Pacific,Seoul,District 8,37.45216,126.80692
+486,Australia,Asia Pacific,Sydney,District 8,-33.87701,151.22008
+487,Egypt,Middle East & Africa,Cairo,District 9,29.95678,31.33972
+488,Egypt,Middle East & Africa,Alexandria,District 9,31.03894,29.87117
+489,Egypt,Middle East & Africa,Giza,District 9,29.93982,31.20441
+490,Egypt,Middle East & Africa,Port Said,District 9,31.29346,32.17905
+491,Egypt,Middle East & Africa,Suez,District 9,30.05691,32.55756
+492,Egypt,Middle East & Africa,Mansoura,District 9,30.81297,31.14497
+493,Egypt,Middle East & Africa,Assiut,District 9,27.17852,31.15348
+494,Egypt,Middle East & Africa,Luxor,District 9,25.67759,32.63664
+495,Saudi Arabia,Middle East & Africa,Riyadh,District 9,24.73707,46.79372
+496,Saudi Arabia,Middle East & Africa,Jeddah,District 9,21.40667,39.02936
+497,Saudi Arabia,Middle East & Africa,Dammam,District 9,26.2988,50.13467
+498,UAE,Middle East & Africa,Dubai,District 9,25.34939,55.21824
+499,UAE,Middle East & Africa,Abu Dhabi,District 9,24.1498,54.17552
+500,UAE,Middle East & Africa,Sharjah,District 9,25.25004,55.35307
+501,Kuwait,Middle East & Africa,Kuwait City,District 9,29.33099,47.99463
+502,Qatar,Middle East & Africa,Doha,District 9,25.25259,51.65592
+503,Oman,Middle East & Africa,Muscat,District 9,23.50888,58.30652
+504,Jordan,Middle East & Africa,Amman,District 9,32.00747,35.74572
+505,Morocco,Middle East & Africa,Casablanca,District 9,33.61676,-7.57769
+506,Nigeria,Middle East & Africa,Lagos,District 9,6.50231,3.57059
+507,South Africa,Middle East & Africa,Johannesburg,District 9,-26.27466,28.29724
+508,Turkey,Europe,Istanbul,District 9,40.98295,28.82676
+509,Turkey,Europe,Ankara,District 9,39.93839,32.73085
+510,Turkey,Europe,Izmir,District 9,38.32979,27.18764
+511,Germany,Europe,Berlin,District 9,52.58667,13.32534
+512,Germany,Europe,Hamburg,District 9,53.66849,10.1289
+513,Germany,Europe,Munich,District 9,48.31236,11.64353
+514,UK,Europe,London,District 9,51.67361,-0.3557
+515,UK,Europe,Manchester,District 9,53.44185,-2.34404
+516,France,Europe,Paris,District 9,48.87431,2.28143
+517,Italy,Europe,Milan,District 9,45.44006,9.41586
+518,Italy,Europe,Rome,District 9,41.87963,12.54966
+519,Spain,Europe,Madrid,District 9,40.39213,-3.69091
+520,Spain,Europe,Barcelona,District 9,41.39072,2.2238
+521,Netherlands,Europe,Rotterdam,District 9,52.05984,4.67769
+522,USA,North America,New York,District 9,40.74715,-73.93925
+523,USA,North America,Chicago,District 9,41.7419,-87.64055
+524,USA,North America,Los Angeles,District 9,34.16283,-118.13608
+525,USA,North America,Houston,District 9,29.78539,-95.26363
+526,USA,North America,Miami,District 9,25.81889,-80.04596
+527,Canada,North America,Toronto,District 9,43.68472,-79.42268
+528,Mexico,Latin America,Mexico City,District 9,19.4703,-99.48167
+529,Brazil,Latin America,Sao Paulo,District 9,-23.50405,-47.06781
+530,China,Asia Pacific,Shanghai,District 9,31.02318,121.52421
+531,China,Asia Pacific,Shenzhen,District 9,22.5973,113.92051
+532,China,Asia Pacific,Guangzhou,District 9,23.04455,113.42446
+533,China,Asia Pacific,Beijing,District 9,39.84192,116.67915
+534,India,Asia Pacific,Mumbai,District 9,19.07977,72.92896
+535,India,Asia Pacific,Delhi,District 9,28.80402,77.22572
+536,India,Asia Pacific,Chennai,District 9,12.95972,80.25683
+537,Singapore,Asia Pacific,Singapore,District 9,1.34573,103.65623
+538,Japan,Asia Pacific,Tokyo,District 9,35.6493,139.60094
+539,South Korea,Asia Pacific,Seoul,District 9,37.68092,126.98415
+540,Australia,Asia Pacific,Sydney,District 9,-33.90394,151.19726
+541,Egypt,Middle East & Africa,Cairo,District 10,30.06677,31.31402
+542,Egypt,Middle East & Africa,Alexandria,District 10,31.08003,29.79501
+543,Egypt,Middle East & Africa,Giza,District 10,30.14256,31.16052
+544,Egypt,Middle East & Africa,Port Said,District 10,31.08998,32.35326
+545,Egypt,Middle East & Africa,Suez,District 10,30.0256,32.36631
+546,Egypt,Middle East & Africa,Mansoura,District 10,31.06754,31.46827
+547,Egypt,Middle East & Africa,Assiut,District 10,27.22493,31.25584
+548,Egypt,Middle East & Africa,Luxor,District 10,25.52149,32.67972
+549,Saudi Arabia,Middle East & Africa,Riyadh,District 10,24.67369,46.62207
+550,Saudi Arabia,Middle East & Africa,Jeddah,District 10,21.64447,39.34751
+551,Saudi Arabia,Middle East & Africa,Dammam,District 10,26.64532,50.25778
+552,UAE,Middle East & Africa,Dubai,District 10,25.18683,55.31233
+553,UAE,Middle East & Africa,Abu Dhabi,District 10,24.54202,54.39454
+554,UAE,Middle East & Africa,Sharjah,District 10,25.36569,55.51885
+555,Kuwait,Middle East & Africa,Kuwait City,District 10,29.37289,47.90249
+556,Qatar,Middle East & Africa,Doha,District 10,25.24026,51.60607
+557,Oman,Middle East & Africa,Muscat,District 10,23.59036,58.45083
+558,Jordan,Middle East & Africa,Amman,District 10,32.03041,35.88502
+559,Morocco,Middle East & Africa,Casablanca,District 10,33.66075,-7.54454
+560,Nigeria,Middle East & Africa,Lagos,District 10,6.37182,3.55308
+561,South Africa,Middle East & Africa,Johannesburg,District 10,-26.26009,27.85139
+562,Turkey,Europe,Istanbul,District 10,40.88459,28.85747
+563,Turkey,Europe,Ankara,District 10,39.93626,32.82714
+564,Turkey,Europe,Izmir,District 10,38.37958,27.21436
+565,Germany,Europe,Berlin,District 10,52.56079,13.43793
+566,Germany,Europe,Hamburg,District 10,53.59918,10.06394
+567,Germany,Europe,Munich,District 10,47.88705,11.53627
+568,UK,Europe,London,District 10,51.24837,-0.12567
+569,UK,Europe,Manchester,District 10,53.47944,-2.11454
+570,France,Europe,Paris,District 10,49.00252,2.37433
+571,Italy,Europe,Milan,District 10,45.39996,9.24822
+572,Italy,Europe,Rome,District 10,41.83665,12.49983
+573,Spain,Europe,Madrid,District 10,40.53834,-3.76693
+574,Spain,Europe,Barcelona,District 10,41.48668,2.25129
+575,Netherlands,Europe,Rotterdam,District 10,51.80542,4.59687
+576,USA,North America,New York,District 10,40.79383,-73.99777
+577,USA,North America,Chicago,District 10,41.78852,-87.7331
+578,USA,North America,Los Angeles,District 10,33.98548,-118.17489
+579,USA,North America,Houston,District 10,29.64532,-95.3175
+580,USA,North America,Miami,District 10,25.61099,-80.21449
+581,Canada,North America,Toronto,District 10,43.66316,-79.08658
+582,Mexico,Latin America,Mexico City,District 10,19.26472,-98.95336
+583,Brazil,Latin America,Sao Paulo,District 10,-23.53202,-46.58066
+584,China,Asia Pacific,Shanghai,District 10,31.2442,121.52337
+585,China,Asia Pacific,Shenzhen,District 10,22.52156,114.23449
+586,China,Asia Pacific,Guangzhou,District 10,23.07522,113.39587
+587,China,Asia Pacific,Beijing,District 10,39.82268,116.40277
+588,India,Asia Pacific,Mumbai,District 10,18.95136,72.9346
+589,India,Asia Pacific,Delhi,District 10,28.78342,77.20072
+590,India,Asia Pacific,Chennai,District 10,13.05637,80.13625
+591,Singapore,Asia Pacific,Singapore,District 10,1.32248,103.62886
+592,Japan,Asia Pacific,Tokyo,District 10,35.57045,139.71721
+593,South Korea,Asia Pacific,Seoul,District 10,37.72828,127.31711
+594,Australia,Asia Pacific,Sydney,District 10,-33.94039,151.38224
+595,Egypt,Middle East & Africa,Cairo,District 11,30.06925,31.22185
+596,Egypt,Middle East & Africa,Alexandria,District 11,31.25191,29.92743
+597,Egypt,Middle East & Africa,Giza,District 11,30.02325,31.161
+598,Egypt,Middle East & Africa,Port Said,District 11,31.09223,32.11476
+599,Egypt,Middle East & Africa,Suez,District 11,30.04839,32.5168
+600,Egypt,Middle East & Africa,Mansoura,District 11,30.96847,31.38102
+601,Egypt,Middle East & Africa,Assiut,District 11,27.27539,31.20164
+602,Egypt,Middle East & Africa,Luxor,District 11,25.61127,32.78716
+603,Saudi Arabia,Middle East & Africa,Riyadh,District 11,24.8995,46.73935
+604,Saudi Arabia,Middle East & Africa,Jeddah,District 11,21.65684,39.31904
+605,Saudi Arabia,Middle East & Africa,Dammam,District 11,26.56561,50.17369
+606,UAE,Middle East & Africa,Dubai,District 11,25.2718,55.33236
+607,UAE,Middle East & Africa,Abu Dhabi,District 11,24.31832,54.46409
+608,UAE,Middle East & Africa,Sharjah,District 11,25.1873,55.32465
+609,Kuwait,Middle East & Africa,Kuwait City,District 11,29.53643,48.09083
+610,Qatar,Middle East & Africa,Doha,District 11,25.46849,51.4974
+611,Oman,Middle East & Africa,Muscat,District 11,23.45173,58.38115
+612,Jordan,Middle East & Africa,Amman,District 11,31.96224,35.93948
+613,Morocco,Middle East & Africa,Casablanca,District 11,33.70604,-7.63335
+614,Nigeria,Middle East & Africa,Lagos,District 11,6.56224,3.26136
+615,South Africa,Middle East & Africa,Johannesburg,District 11,-26.14596,28.05037
+616,Turkey,Europe,Istanbul,District 11,40.92002,28.9517
+617,Turkey,Europe,Ankara,District 11,39.9079,32.82758
+618,Turkey,Europe,Izmir,District 11,38.63256,27.12819
+619,Germany,Europe,Berlin,District 11,52.49073,13.14831
+620,Germany,Europe,Hamburg,District 11,53.4427,9.95843
+621,Germany,Europe,Munich,District 11,48.0577,11.7458
+622,UK,Europe,London,District 11,51.49021,0.02461
+623,UK,Europe,Manchester,District 11,53.4874,-2.23553
+624,France,Europe,Paris,District 11,48.84934,2.35046
+625,Italy,Europe,Milan,District 11,45.66626,8.91165
+626,Italy,Europe,Rome,District 11,41.65981,12.43482
+627,Spain,Europe,Madrid,District 11,40.42174,-3.61719
+628,Spain,Europe,Barcelona,District 11,41.44677,2.12389
+629,Netherlands,Europe,Rotterdam,District 11,52.04229,4.60362
+630,USA,North America,New York,District 11,40.73209,-73.89448
+631,USA,North America,Chicago,District 11,41.91272,-87.69738
+632,USA,North America,Los Angeles,District 11,34.13374,-118.22673
+633,USA,North America,Houston,District 11,29.76016,-95.19325
+634,USA,North America,Miami,District 11,25.4659,-80.36012
+635,Canada,North America,Toronto,District 11,43.50755,-79.42359
+636,Mexico,Latin America,Mexico City,District 11,19.39945,-99.31088
+637,Brazil,Latin America,Sao Paulo,District 11,-23.66822,-46.7333
+638,China,Asia Pacific,Shanghai,District 11,31.52489,121.68621
+639,China,Asia Pacific,Shenzhen,District 11,22.49059,114.01637
+640,China,Asia Pacific,Guangzhou,District 11,22.9921,113.03102
+641,China,Asia Pacific,Beijing,District 11,39.88597,116.29026
+642,India,Asia Pacific,Mumbai,District 11,19.06982,72.68798
+643,India,Asia Pacific,Delhi,District 11,28.51856,77.22784
+644,India,Asia Pacific,Chennai,District 11,13.12395,80.3201
+645,Singapore,Asia Pacific,Singapore,District 11,1.19154,103.92256
+646,Japan,Asia Pacific,Tokyo,District 11,35.58397,139.76594
+647,South Korea,Asia Pacific,Seoul,District 11,37.56872,126.81483
+648,Australia,Asia Pacific,Sydney,District 11,-33.90794,151.25384
+649,Egypt,Middle East & Africa,Cairo,District 12,30.11356,31.22308
+650,Egypt,Middle East & Africa,Alexandria,District 12,31.38381,30.0409
+651,Egypt,Middle East & Africa,Giza,District 12,29.9792,31.30001
+652,Egypt,Middle East & Africa,Port Said,District 12,31.49206,32.53526
+653,Egypt,Middle East & Africa,Suez,District 12,29.82264,32.43882
+654,Egypt,Middle East & Africa,Mansoura,District 12,31.21819,31.25301
+655,Egypt,Middle East & Africa,Assiut,District 12,27.0213,31.12166
+656,Egypt,Middle East & Africa,Luxor,District 12,25.74043,32.62771
+657,Saudi Arabia,Middle East & Africa,Riyadh,District 12,24.63193,46.59909
+658,Saudi Arabia,Middle East & Africa,Jeddah,District 12,21.45452,39.06446
+659,Saudi Arabia,Middle East & Africa,Dammam,District 12,26.7038,50.1357
+660,UAE,Middle East & Africa,Dubai,District 12,25.30641,55.21131
+661,UAE,Middle East & Africa,Abu Dhabi,District 12,24.42769,54.29437
+662,UAE,Middle East & Africa,Sharjah,District 12,25.03179,55.25464
+663,Kuwait,Middle East & Africa,Kuwait City,District 12,29.16273,47.72003
+664,Qatar,Middle East & Africa,Doha,District 12,25.14656,51.68899
+665,Oman,Middle East & Africa,Muscat,District 12,23.58467,58.56487
+666,Jordan,Middle East & Africa,Amman,District 12,31.99932,36.02391
+667,Morocco,Middle East & Africa,Casablanca,District 12,33.46189,-7.52713
+668,Nigeria,Middle East & Africa,Lagos,District 12,6.60745,3.3108
+669,South Africa,Middle East & Africa,Johannesburg,District 12,-26.13286,28.11794
+670,Turkey,Europe,Istanbul,District 12,40.94405,28.84527
+671,Turkey,Europe,Ankara,District 12,39.7879,32.87038
+672,Turkey,Europe,Izmir,District 12,38.45924,27.0449
+673,Germany,Europe,Berlin,District 12,52.52319,13.46846
+674,Germany,Europe,Hamburg,District 12,53.62418,10.17623
+675,Germany,Europe,Munich,District 12,48.29324,11.45985
+676,UK,Europe,London,District 12,51.71203,-0.19372
+677,UK,Europe,Manchester,District 12,53.60538,-2.23184
+678,France,Europe,Paris,District 12,48.81054,2.13308
+679,Italy,Europe,Milan,District 12,45.43941,9.00287
+680,Italy,Europe,Rome,District 12,42.01608,12.68202
+681,Spain,Europe,Madrid,District 12,40.32437,-3.66376
+682,Spain,Europe,Barcelona,District 12,41.30295,2.09458
+683,Netherlands,Europe,Rotterdam,District 12,52.01294,4.47538
+684,USA,North America,New York,District 12,40.91876,-74.06787
+685,USA,North America,Chicago,District 12,41.99992,-87.61831
+686,USA,North America,Los Angeles,District 12,34.14549,-118.29366
+687,USA,North America,Houston,District 12,29.75405,-95.38386
+688,USA,North America,Miami,District 12,25.65967,-80.11055
+689,Canada,North America,Toronto,District 12,43.72803,-79.30877
+690,Mexico,Latin America,Mexico City,District 12,19.61444,-98.95608
+691,Brazil,Latin America,Sao Paulo,District 12,-23.59499,-46.58523
+692,China,Asia Pacific,Shanghai,District 12,31.15517,121.4728
+693,China,Asia Pacific,Shenzhen,District 12,22.46803,114.25441
+694,China,Asia Pacific,Guangzhou,District 12,23.17364,113.23384
+695,China,Asia Pacific,Beijing,District 12,40.04323,116.14953
+696,India,Asia Pacific,Mumbai,District 12,18.83831,72.9755
+697,India,Asia Pacific,Delhi,District 12,28.61726,77.24005
+698,India,Asia Pacific,Chennai,District 12,12.92083,80.26721
+699,Singapore,Asia Pacific,Singapore,District 12,1.59042,103.9189
+700,Japan,Asia Pacific,Tokyo,District 12,35.70036,139.63731
+701,South Korea,Asia Pacific,Seoul,District 12,37.52265,126.7245
+702,Australia,Asia Pacific,Sydney,District 12,-33.83908,151.31146
+703,Egypt,Middle East & Africa,Cairo,District 13,29.85093,31.16063
+704,Egypt,Middle East & Africa,Alexandria,District 13,31.0611,29.80416
+705,Egypt,Middle East & Africa,Giza,District 13,30.01642,30.95987
+706,Egypt,Middle East & Africa,Port Said,District 13,31.33371,32.39046
+707,Egypt,Middle East & Africa,Suez,District 13,29.93987,32.25231
+708,Egypt,Middle East & Africa,Mansoura,District 13,30.92043,31.52795
+709,Egypt,Middle East & Africa,Assiut,District 13,26.84664,31.1383
+710,Egypt,Middle East & Africa,Luxor,District 13,25.5484,32.73655
+711,Saudi Arabia,Middle East & Africa,Riyadh,District 13,24.62899,46.72847
+712,Saudi Arabia,Middle East & Africa,Jeddah,District 13,21.60786,39.39035
+713,Saudi Arabia,Middle East & Africa,Dammam,District 13,26.40565,50.14513
+714,UAE,Middle East & Africa,Dubai,District 13,25.02179,55.41285
+715,UAE,Middle East & Africa,Abu Dhabi,District 13,24.35874,54.31271
+716,UAE,Middle East & Africa,Sharjah,District 13,25.34733,55.23245
+717,Kuwait,Middle East & Africa,Kuwait City,District 13,29.40745,48.1061
+718,Qatar,Middle East & Africa,Doha,District 13,25.32515,51.33933
+719,Oman,Middle East & Africa,Muscat,District 13,23.57514,58.49904
+720,Jordan,Middle East & Africa,Amman,District 13,31.72464,35.80103
+721,Morocco,Middle East & Africa,Casablanca,District 13,33.67519,-7.55759
+722,Nigeria,Middle East & Africa,Lagos,District 13,6.56944,3.60314
+723,South Africa,Middle East & Africa,Johannesburg,District 13,-26.14377,28.12895
+724,Turkey,Europe,Istanbul,District 13,41.33529,28.95434
+725,Turkey,Europe,Ankara,District 13,39.83425,32.91134
+726,Turkey,Europe,Izmir,District 13,38.47268,27.07679
+727,Germany,Europe,Berlin,District 13,52.39611,13.67718
+728,Germany,Europe,Hamburg,District 13,53.58922,9.90213
+729,Germany,Europe,Munich,District 13,48.24991,11.5669
+730,UK,Europe,London,District 13,51.47965,-0.06253
+731,UK,Europe,Manchester,District 13,53.32497,-2.19768
+732,France,Europe,Paris,District 13,49.08955,2.40594
+733,Italy,Europe,Milan,District 13,45.41485,9.12915
+734,Italy,Europe,Rome,District 13,41.85076,12.46952
+735,Spain,Europe,Madrid,District 13,40.37466,-3.59004
+736,Spain,Europe,Barcelona,District 13,41.18201,2.27344
+737,Netherlands,Europe,Rotterdam,District 13,51.87444,4.52523
+738,USA,North America,New York,District 13,40.57476,-73.85056
+739,USA,North America,Chicago,District 13,42.02948,-87.51485
+740,USA,North America,Los Angeles,District 13,33.86823,-118.14051
+741,USA,North America,Houston,District 13,29.80858,-95.56263
+742,USA,North America,Miami,District 13,25.75708,-80.14626
+743,Canada,North America,Toronto,District 13,43.71673,-79.35873
+744,Mexico,Latin America,Mexico City,District 13,19.46495,-98.95317
+745,Brazil,Latin America,Sao Paulo,District 13,-23.40288,-46.97405
+746,China,Asia Pacific,Shanghai,District 13,31.19191,121.45024
+747,China,Asia Pacific,Shenzhen,District 13,22.32975,114.0713
+748,China,Asia Pacific,Guangzhou,District 13,23.27985,113.12961
+749,China,Asia Pacific,Beijing,District 13,39.94037,116.3001
+750,India,Asia Pacific,Mumbai,District 13,18.99937,73.05729
+751,India,Asia Pacific,Delhi,District 13,28.54489,77.26547
+752,India,Asia Pacific,Chennai,District 13,12.85545,80.49348
+753,Singapore,Asia Pacific,Singapore,District 13,1.42232,103.7981
+754,Japan,Asia Pacific,Tokyo,District 13,35.74907,139.52082
+755,South Korea,Asia Pacific,Seoul,District 13,37.7119,126.94112
+756,Australia,Asia Pacific,Sydney,District 13,-33.89449,151.151
+757,Egypt,Middle East & Africa,Cairo,District 14,29.97032,31.32336
+758,Egypt,Middle East & Africa,Alexandria,District 14,31.23071,29.99821
+759,Egypt,Middle East & Africa,Giza,District 14,30.00894,31.27158
+760,Egypt,Middle East & Africa,Port Said,District 14,31.20974,32.56757
+761,Egypt,Middle East & Africa,Suez,District 14,29.78185,32.70131
+762,Egypt,Middle East & Africa,Mansoura,District 14,31.20415,31.27774
+763,Egypt,Middle East & Africa,Assiut,District 14,27.44751,31.29946
+764,Egypt,Middle East & Africa,Luxor,District 14,25.80654,32.64336
+765,Saudi Arabia,Middle East & Africa,Riyadh,District 14,24.68393,46.65487
+766,Saudi Arabia,Middle East & Africa,Jeddah,District 14,21.58686,39.33814
+767,Saudi Arabia,Middle East & Africa,Dammam,District 14,26.45176,49.99063
+768,UAE,Middle East & Africa,Dubai,District 14,25.29893,55.38054
+769,UAE,Middle East & Africa,Abu Dhabi,District 14,24.52856,54.46946
+770,UAE,Middle East & Africa,Sharjah,District 14,25.31749,55.30852
+771,Kuwait,Middle East & Africa,Kuwait City,District 14,29.27582,47.79374
+772,Qatar,Middle East & Africa,Doha,District 14,25.31843,51.51999
+773,Oman,Middle East & Africa,Muscat,District 14,23.5372,58.05533
+774,Jordan,Middle East & Africa,Amman,District 14,31.80032,36.0645
+775,Morocco,Middle East & Africa,Casablanca,District 14,33.49024,-7.54673
+776,Nigeria,Middle East & Africa,Lagos,District 14,6.35312,3.55264
+777,South Africa,Middle East & Africa,Johannesburg,District 14,-26.21728,28.0848
+778,Turkey,Europe,Istanbul,District 14,41.28909,29.16197
+779,Turkey,Europe,Ankara,District 14,39.89321,32.78881
+780,Turkey,Europe,Izmir,District 14,38.38093,27.20119
+781,Germany,Europe,Berlin,District 14,52.50737,13.35257
+782,Germany,Europe,Hamburg,District 14,53.72606,9.97629
+783,Germany,Europe,Munich,District 14,48.41595,11.59089
+784,UK,Europe,London,District 14,51.72424,-0.08712
+785,UK,Europe,Manchester,District 14,53.59556,-2.32695
+786,France,Europe,Paris,District 14,48.75755,2.40516
+787,Italy,Europe,Milan,District 14,45.57863,9.19483
+788,Italy,Europe,Rome,District 14,41.74563,12.33677
+789,Spain,Europe,Madrid,District 14,40.24874,-3.91211
+790,Spain,Europe,Barcelona,District 14,41.40314,2.30501
+791,Netherlands,Europe,Rotterdam,District 14,51.91839,4.20875
+792,USA,North America,New York,District 14,40.68711,-74.02954
+793,USA,North America,Chicago,District 14,42.13152,-87.80486
+794,USA,North America,Los Angeles,District 14,34.00312,-118.0353
+795,USA,North America,Houston,District 14,29.814,-95.3024
+796,USA,North America,Miami,District 14,25.77375,-80.15041
+797,Canada,North America,Toronto,District 14,43.74331,-79.47714
+798,Mexico,Latin America,Mexico City,District 14,19.53537,-99.29476
+799,Brazil,Latin America,Sao Paulo,District 14,-23.5106,-46.60855
+800,China,Asia Pacific,Shanghai,District 14,31.15604,121.46728
+801,China,Asia Pacific,Shenzhen,District 14,22.4653,113.9314
+802,China,Asia Pacific,Guangzhou,District 14,23.08757,113.12752
+803,China,Asia Pacific,Beijing,District 14,39.93874,116.27199
+804,India,Asia Pacific,Mumbai,District 14,19.16544,72.73822
+805,India,Asia Pacific,Delhi,District 14,28.54204,77.13505
+806,India,Asia Pacific,Chennai,District 14,13.23902,80.30963
+807,Singapore,Asia Pacific,Singapore,District 14,1.32459,103.87985
+808,Japan,Asia Pacific,Tokyo,District 14,35.42714,139.68482
+809,South Korea,Asia Pacific,Seoul,District 14,37.8097,126.99588
+810,Australia,Asia Pacific,Sydney,District 14,-33.86185,151.27578
+811,Egypt,Middle East & Africa,Cairo,District 15,30.14747,31.0003
+812,Egypt,Middle East & Africa,Alexandria,District 15,30.99812,29.94523
+813,Egypt,Middle East & Africa,Giza,District 15,29.92421,31.36744
+814,Egypt,Middle East & Africa,Port Said,District 15,31.22218,32.06786
+815,Egypt,Middle East & Africa,Suez,District 15,29.81784,32.22004
+816,Egypt,Middle East & Africa,Mansoura,District 15,31.0119,31.35739
+817,Egypt,Middle East & Africa,Assiut,District 15,27.12906,31.30947
+818,Egypt,Middle East & Africa,Luxor,District 15,25.83382,32.61955
+819,Saudi Arabia,Middle East & Africa,Riyadh,District 15,24.45384,46.75407
+820,Saudi Arabia,Middle East & Africa,Jeddah,District 15,21.60664,39.20713
+821,Saudi Arabia,Middle East & Africa,Dammam,District 15,26.54778,49.96022
+822,UAE,Middle East & Africa,Dubai,District 15,25.44105,55.15487
+823,UAE,Middle East & Africa,Abu Dhabi,District 15,24.53991,54.17752
+824,UAE,Middle East & Africa,Sharjah,District 15,25.23837,55.60196
+825,Kuwait,Middle East & Africa,Kuwait City,District 15,29.34869,48.09079
+826,Qatar,Middle East & Africa,Doha,District 15,25.31843,51.51741
+827,Oman,Middle East & Africa,Muscat,District 15,23.75366,58.3816
+828,Jordan,Middle East & Africa,Amman,District 15,31.73631,35.83361
+829,Morocco,Middle East & Africa,Casablanca,District 15,33.63614,-7.54254
+830,Nigeria,Middle East & Africa,Lagos,District 15,6.33195,3.29308
+831,South Africa,Middle East & Africa,Johannesburg,District 15,-26.26981,28.00614
+832,Turkey,Europe,Istanbul,District 15,40.84489,28.9046
+833,Turkey,Europe,Ankara,District 15,39.84257,32.95258
+834,Turkey,Europe,Izmir,District 15,38.51709,27.1225
+835,Germany,Europe,Berlin,District 15,52.47296,13.41679
+836,Germany,Europe,Hamburg,District 15,53.45201,9.85238
+837,Germany,Europe,Munich,District 15,48.02717,11.50382
+838,UK,Europe,London,District 15,51.37038,-0.11055
+839,UK,Europe,Manchester,District 15,53.56757,-2.43045
+840,France,Europe,Paris,District 15,48.86302,2.32361
+841,Italy,Europe,Milan,District 15,45.50098,9.18845
+842,Italy,Europe,Rome,District 15,41.72557,12.34851
+843,Spain,Europe,Madrid,District 15,40.42353,-3.57655
+844,Spain,Europe,Barcelona,District 15,41.1243,2.21149
+845,Netherlands,Europe,Rotterdam,District 15,52.06275,4.46164
+846,USA,North America,New York,District 15,40.77602,-74.09437
+847,USA,North America,Chicago,District 15,41.86568,-87.82451
+848,USA,North America,Los Angeles,District 15,33.76868,-118.12687
+849,USA,North America,Houston,District 15,29.6418,-95.42466
+850,USA,North America,Miami,District 15,25.59363,-80.3592
+851,Canada,North America,Toronto,District 15,43.62914,-79.46755
+852,Mexico,Latin America,Mexico City,District 15,19.47536,-99.0757
+853,Brazil,Latin America,Sao Paulo,District 15,-23.5115,-46.60137
+854,China,Asia Pacific,Shanghai,District 15,31.41933,121.34189
+855,China,Asia Pacific,Shenzhen,District 15,22.53341,114.19592
+856,China,Asia Pacific,Guangzhou,District 15,23.28174,113.08939
+857,China,Asia Pacific,Beijing,District 15,39.86252,116.57297
+858,India,Asia Pacific,Mumbai,District 15,19.14097,72.90343
+859,India,Asia Pacific,Delhi,District 15,28.58388,77.16394
+860,India,Asia Pacific,Chennai,District 15,13.11459,80.23972
+861,Singapore,Asia Pacific,Singapore,District 15,1.34489,103.82943
+862,Japan,Asia Pacific,Tokyo,District 15,35.59863,139.75386
+863,South Korea,Asia Pacific,Seoul,District 15,37.91971,126.76676
+864,Australia,Asia Pacific,Sydney,District 15,-33.83112,151.11878
+865,Egypt,Middle East & Africa,Cairo,District 16,30.10929,31.24559
+866,Egypt,Middle East & Africa,Alexandria,District 16,31.29142,30.06106
+867,Egypt,Middle East & Africa,Giza,District 16,30.03309,31.34585
+868,Egypt,Middle East & Africa,Port Said,District 16,30.97868,32.49085
+869,Egypt,Middle East & Africa,Suez,District 16,30.01501,32.67934
+870,Egypt,Middle East & Africa,Mansoura,District 16,30.89361,31.28031
+871,Egypt,Middle East & Africa,Assiut,District 16,27.19751,31.17796
+872,Egypt,Middle East & Africa,Luxor,District 16,25.72397,32.77014
+873,Saudi Arabia,Middle East & Africa,Riyadh,District 16,24.49817,46.79686
+874,Saudi Arabia,Middle East & Africa,Jeddah,District 16,21.54099,39.14555
+875,Saudi Arabia,Middle East & Africa,Dammam,District 16,26.25347,50.16037
+876,UAE,Middle East & Africa,Dubai,District 16,24.91031,55.34781
+877,UAE,Middle East & Africa,Abu Dhabi,District 16,24.27095,54.38641
+878,UAE,Middle East & Africa,Sharjah,District 16,25.3357,55.56034
+879,Kuwait,Middle East & Africa,Kuwait City,District 16,29.35856,47.9067
+880,Qatar,Middle East & Africa,Doha,District 16,25.22921,51.68275
+881,Oman,Middle East & Africa,Muscat,District 16,23.65436,58.36372
+882,Jordan,Middle East & Africa,Amman,District 16,31.92163,35.74194
+883,Morocco,Middle East & Africa,Casablanca,District 16,33.61662,-7.80118
+884,Nigeria,Middle East & Africa,Lagos,District 16,6.61022,3.39543
+885,South Africa,Middle East & Africa,Johannesburg,District 16,-25.91357,27.91798
+886,Turkey,Europe,Istanbul,District 16,40.99768,29.19579
+887,Turkey,Europe,Ankara,District 16,40.07297,32.77645
+888,Turkey,Europe,Izmir,District 16,38.44688,27.14024
+889,Germany,Europe,Berlin,District 16,52.55383,13.31616
+890,Germany,Europe,Hamburg,District 16,53.53928,9.79823
+891,Germany,Europe,Munich,District 16,48.15621,11.634
+892,UK,Europe,London,District 16,51.48271,-0.32381
+893,UK,Europe,Manchester,District 16,53.59862,-2.19626
+894,France,Europe,Paris,District 16,48.77288,2.31633
+895,Italy,Europe,Milan,District 16,45.27992,9.06695
+896,Italy,Europe,Rome,District 16,41.83546,12.64741
+897,Spain,Europe,Madrid,District 16,40.34326,-3.62317
+898,Spain,Europe,Barcelona,District 16,41.3254,2.19975
+899,Netherlands,Europe,Rotterdam,District 16,51.90303,4.58477
+900,USA,North America,New York,District 16,40.64582,-74.1987
+901,USA,North America,Chicago,District 16,41.71417,-87.69383
+902,USA,North America,Los Angeles,District 16,33.90011,-118.19077
+903,USA,North America,Houston,District 16,29.70411,-95.08505
+904,USA,North America,Miami,District 16,25.55147,-80.16556
+905,Canada,North America,Toronto,District 16,43.51465,-79.43921
+906,Mexico,Latin America,Mexico City,District 16,19.44697,-99.40904
+907,Brazil,Latin America,Sao Paulo,District 16,-23.52158,-46.40165
+908,China,Asia Pacific,Shanghai,District 16,31.17559,121.50118
+909,China,Asia Pacific,Shenzhen,District 16,22.66299,114.04033
+910,China,Asia Pacific,Guangzhou,District 16,23.06028,112.98691
+911,China,Asia Pacific,Beijing,District 16,39.97692,116.39642
+912,India,Asia Pacific,Mumbai,District 16,18.95848,72.89519
+913,India,Asia Pacific,Delhi,District 16,28.53996,77.14659
+914,India,Asia Pacific,Chennai,District 16,13.15275,80.10939
+915,Singapore,Asia Pacific,Singapore,District 16,1.47568,103.65228
+916,Japan,Asia Pacific,Tokyo,District 16,35.60048,139.92075
+917,South Korea,Asia Pacific,Seoul,District 16,37.70528,126.99171
+918,Australia,Asia Pacific,Sydney,District 16,-33.98286,151.14649
+919,Egypt,Middle East & Africa,Cairo,District 17,30.04879,31.2445
+920,Egypt,Middle East & Africa,Alexandria,District 17,31.1891,29.9163
+921,Egypt,Middle East & Africa,Giza,District 17,29.98427,31.03696
+922,Egypt,Middle East & Africa,Port Said,District 17,31.19802,32.40975
+923,Egypt,Middle East & Africa,Suez,District 17,29.8058,32.52725
+924,Egypt,Middle East & Africa,Mansoura,District 17,30.94163,31.39336
+925,Egypt,Middle East & Africa,Assiut,District 17,27.13336,31.35729
+926,Egypt,Middle East & Africa,Luxor,District 17,25.75079,32.48258
+927,Saudi Arabia,Middle East & Africa,Riyadh,District 17,24.79055,46.58704
+928,Saudi Arabia,Middle East & Africa,Jeddah,District 17,21.47076,39.20766
+929,Saudi Arabia,Middle East & Africa,Dammam,District 17,26.37099,50.20714
+930,UAE,Middle East & Africa,Dubai,District 17,25.10706,55.19573
+931,UAE,Middle East & Africa,Abu Dhabi,District 17,24.37124,54.31212
+932,UAE,Middle East & Africa,Sharjah,District 17,25.4819,55.49546
+933,Kuwait,Middle East & Africa,Kuwait City,District 17,29.58519,48.26212
+934,Qatar,Middle East & Africa,Doha,District 17,25.16631,51.53845
+935,Oman,Middle East & Africa,Muscat,District 17,23.44886,58.31669
+936,Jordan,Middle East & Africa,Amman,District 17,31.87439,35.80314
+937,Morocco,Middle East & Africa,Casablanca,District 17,33.44377,-7.60731
+938,Nigeria,Middle East & Africa,Lagos,District 17,6.37399,3.48106
+939,South Africa,Middle East & Africa,Johannesburg,District 17,-26.31013,28.38715
+940,Turkey,Europe,Istanbul,District 17,40.95583,28.98864
+941,Turkey,Europe,Ankara,District 17,39.77456,33.06473
+942,Turkey,Europe,Izmir,District 17,38.55434,27.17563
+943,Germany,Europe,Berlin,District 17,52.35838,13.42528
+944,Germany,Europe,Hamburg,District 17,53.41543,10.16548
+945,Germany,Europe,Munich,District 17,48.2371,11.59145
+946,UK,Europe,London,District 17,51.21763,-0.24801
+947,UK,Europe,Manchester,District 17,53.56253,-2.09445
+948,France,Europe,Paris,District 17,48.9931,2.15896
+949,Italy,Europe,Milan,District 17,45.49619,9.31186
+950,Italy,Europe,Rome,District 17,41.701,12.49905
+951,Spain,Europe,Madrid,District 17,40.45286,-3.73609
+952,Spain,Europe,Barcelona,District 17,41.16774,2.13092
+953,Netherlands,Europe,Rotterdam,District 17,51.88072,4.46223
+954,USA,North America,New York,District 17,40.64238,-74.06316
+955,USA,North America,Chicago,District 17,41.87524,-87.57691
+956,USA,North America,Los Angeles,District 17,34.01347,-118.28916
+957,USA,North America,Houston,District 17,29.77108,-95.60051
+958,USA,North America,Miami,District 17,25.81724,-80.19007
+959,Canada,North America,Toronto,District 17,43.65476,-79.26471
+960,Mexico,Latin America,Mexico City,District 17,19.19566,-99.36686
+961,Brazil,Latin America,Sao Paulo,District 17,-23.51714,-46.63085
+962,China,Asia Pacific,Shanghai,District 17,31.25042,121.41454
+963,China,Asia Pacific,Shenzhen,District 17,22.61972,114.17192
+964,China,Asia Pacific,Guangzhou,District 17,23.18808,113.2287
+965,China,Asia Pacific,Beijing,District 17,39.64708,116.50231
+966,India,Asia Pacific,Mumbai,District 17,19.22661,72.95735
+967,India,Asia Pacific,Delhi,District 17,28.50444,77.29086
+968,India,Asia Pacific,Chennai,District 17,13.18326,80.45706
+969,Singapore,Asia Pacific,Singapore,District 17,1.24487,103.79283
+970,Japan,Asia Pacific,Tokyo,District 17,35.76967,139.69689
+971,South Korea,Asia Pacific,Seoul,District 17,37.43592,127.02975
+972,Australia,Asia Pacific,Sydney,District 17,-33.80056,151.22056
+973,Egypt,Middle East & Africa,Cairo,District 18,30.06635,31.20896
+974,Egypt,Middle East & Africa,Alexandria,District 18,31.37739,29.81192
+975,Egypt,Middle East & Africa,Giza,District 18,29.93952,31.21132
+976,Egypt,Middle East & Africa,Port Said,District 18,31.36547,32.12032
+977,Egypt,Middle East & Africa,Suez,District 18,29.81276,32.30547
+978,Egypt,Middle East & Africa,Mansoura,District 18,31.04392,31.2458
+979,Egypt,Middle East & Africa,Assiut,District 18,27.13385,31.25937
+980,Egypt,Middle East & Africa,Luxor,District 18,25.61301,32.66775
+981,Saudi Arabia,Middle East & Africa,Riyadh,District 18,24.67408,46.76065
+982,Saudi Arabia,Middle East & Africa,Jeddah,District 18,21.59702,39.08697
+983,Saudi Arabia,Middle East & Africa,Dammam,District 18,26.40976,50.22525
+984,UAE,Middle East & Africa,Dubai,District 18,25.24721,55.10236
+985,UAE,Middle East & Africa,Abu Dhabi,District 18,24.52867,54.24985
+986,UAE,Middle East & Africa,Sharjah,District 18,25.5195,55.54289
+987,Kuwait,Middle East & Africa,Kuwait City,District 18,29.41479,48.00887
+988,Qatar,Middle East & Africa,Doha,District 18,25.26492,51.61142
+989,Oman,Middle East & Africa,Muscat,District 18,23.54551,58.43827
+990,Jordan,Middle East & Africa,Amman,District 18,32.05463,35.86258
+991,Morocco,Middle East & Africa,Casablanca,District 18,33.49606,-7.73332
+992,Nigeria,Middle East & Africa,Lagos,District 18,6.39226,3.16059
+993,South Africa,Middle East & Africa,Johannesburg,District 18,-26.11242,28.26707
+994,Turkey,Europe,Istanbul,District 18,41.18104,28.78487
+995,Turkey,Europe,Ankara,District 18,40.01698,33.03065
+996,Turkey,Europe,Izmir,District 18,38.36518,27.15217
+997,Germany,Europe,Berlin,District 18,52.27905,13.43201
+998,Germany,Europe,Hamburg,District 18,53.42237,10.01396
+999,Germany,Europe,Munich,District 18,47.95266,11.64514
+1000,UK,Europe,London,District 18,51.63294,-0.22398
+1001,UK,Europe,Manchester,District 18,53.34357,-2.49872
+1002,France,Europe,Paris,District 18,48.82803,2.28021
+1003,Italy,Europe,Milan,District 18,45.27388,9.24436
+1004,Italy,Europe,Rome,District 18,41.846,12.37091
+1005,Spain,Europe,Madrid,District 18,40.35345,-3.57144
+1006,Spain,Europe,Barcelona,District 18,41.46235,2.1544
+1007,Netherlands,Europe,Rotterdam,District 18,51.99429,4.34069
+1008,USA,North America,New York,District 18,40.71388,-73.99232
+1009,USA,North America,Chicago,District 18,41.82362,-87.57774
+1010,USA,North America,Los Angeles,District 18,33.95635,-118.17882
+1011,USA,North America,Houston,District 18,29.82622,-95.72006
+1012,USA,North America,Miami,District 18,25.90284,-80.55572
+1013,Canada,North America,Toronto,District 18,43.57607,-79.25696
+1014,Mexico,Latin America,Mexico City,District 18,19.39193,-99.30594
+1015,Brazil,Latin America,Sao Paulo,District 18,-23.68125,-46.50677
+1016,China,Asia Pacific,Shanghai,District 18,30.99942,121.60548
+1017,China,Asia Pacific,Shenzhen,District 18,22.53339,113.91691
+1018,China,Asia Pacific,Guangzhou,District 18,23.06003,113.13793
+1019,China,Asia Pacific,Beijing,District 18,40.00395,116.49789
+1020,India,Asia Pacific,Mumbai,District 18,18.8737,72.83157
+1021,India,Asia Pacific,Delhi,District 18,28.50642,77.36522
+1022,India,Asia Pacific,Chennai,District 18,12.91799,80.46251
+1023,Singapore,Asia Pacific,Singapore,District 18,1.346,103.68057
+1024,Japan,Asia Pacific,Tokyo,District 18,35.59873,139.59381
+1025,South Korea,Asia Pacific,Seoul,District 18,37.41705,126.99138
+1026,Australia,Asia Pacific,Sydney,District 18,-34.01735,150.94836
+1027,Egypt,Middle East & Africa,Cairo,District 19,29.99444,31.02366
+1028,Egypt,Middle East & Africa,Alexandria,District 19,31.10974,29.81091
+1029,Egypt,Middle East & Africa,Giza,District 19,29.90545,31.45012
+1030,Egypt,Middle East & Africa,Port Said,District 19,31.26677,32.32944
+1031,Egypt,Middle East & Africa,Suez,District 19,29.75683,32.47152
+1032,Egypt,Middle East & Africa,Mansoura,District 19,31.06584,31.25706
+1033,Egypt,Middle East & Africa,Assiut,District 19,27.28897,31.03568
+1034,Egypt,Middle East & Africa,Luxor,District 19,25.65564,32.56967
+1035,Saudi Arabia,Middle East & Africa,Riyadh,District 19,24.72972,46.60314
+1036,Saudi Arabia,Middle East & Africa,Jeddah,District 19,21.50749,39.14166
+1037,Saudi Arabia,Middle East & Africa,Dammam,District 19,26.34187,50.15821
+1038,UAE,Middle East & Africa,Dubai,District 19,25.22861,55.25937
+1039,UAE,Middle East & Africa,Abu Dhabi,District 19,24.39834,54.47559
+1040,UAE,Middle East & Africa,Sharjah,District 19,25.3217,55.3832
+1041,Kuwait,Middle East & Africa,Kuwait City,District 19,29.39256,48.19359
+1042,Qatar,Middle East & Africa,Doha,District 19,25.12916,51.62238
+1043,Oman,Middle East & Africa,Muscat,District 19,23.36282,58.43607
+1044,Jordan,Middle East & Africa,Amman,District 19,32.13901,35.98864
+1045,Morocco,Middle East & Africa,Casablanca,District 19,33.59048,-7.65725
+1046,Nigeria,Middle East & Africa,Lagos,District 19,6.52373,3.34975
+1047,South Africa,Middle East & Africa,Johannesburg,District 19,-26.29432,28.01521
+1048,Turkey,Europe,Istanbul,District 19,41.03381,28.88793
+1049,Turkey,Europe,Ankara,District 19,39.83325,32.69677
+1050,Turkey,Europe,Izmir,District 19,38.46689,27.20544
+1051,Germany,Europe,Berlin,District 19,52.5478,13.51582
+1052,Germany,Europe,Hamburg,District 19,53.56054,10.03704
+1053,Germany,Europe,Munich,District 19,48.17646,11.56902
+1054,UK,Europe,London,District 19,51.4463,0.1357
+1055,UK,Europe,Manchester,District 19,53.42577,-2.31991
+1056,France,Europe,Paris,District 19,48.91208,2.38022
+1057,Italy,Europe,Milan,District 19,45.29143,9.32472
+1058,Italy,Europe,Rome,District 19,41.8887,12.36669
+1059,Spain,Europe,Madrid,District 19,40.56265,-3.62492
+1060,Spain,Europe,Barcelona,District 19,41.23825,2.38326
+1061,Netherlands,Europe,Rotterdam,District 19,51.99906,4.47878
+1062,USA,North America,New York,District 19,40.90083,-73.99088
+1063,USA,North America,Chicago,District 19,41.87663,-87.70924
+1064,USA,North America,Los Angeles,District 19,34.11982,-118.18281
+1065,USA,North America,Houston,District 19,29.76176,-95.4648
+1066,USA,North America,Miami,District 19,25.77559,-80.19838
+1067,Canada,North America,Toronto,District 19,43.48998,-79.55662
+1068,Mexico,Latin America,Mexico City,District 19,19.49782,-99.44223
+1069,Brazil,Latin America,Sao Paulo,District 19,-23.52535,-46.68737
+1070,China,Asia Pacific,Shanghai,District 19,31.38699,121.41078
+1071,China,Asia Pacific,Shenzhen,District 19,22.61914,114.01237
+1072,China,Asia Pacific,Guangzhou,District 19,23.14365,113.34842
+1073,China,Asia Pacific,Beijing,District 19,39.84449,116.52959
+1074,India,Asia Pacific,Mumbai,District 19,18.96076,72.91535
+1075,India,Asia Pacific,Delhi,District 19,28.72072,77.2892
+1076,India,Asia Pacific,Chennai,District 19,13.30997,80.17839
+1077,Singapore,Asia Pacific,Singapore,District 19,1.1845,103.70068
+1078,Japan,Asia Pacific,Tokyo,District 19,35.75925,139.74975
+1079,South Korea,Asia Pacific,Seoul,District 19,37.58227,126.84525
+1080,Australia,Asia Pacific,Sydney,District 19,-33.77798,151.06304
+1081,Egypt,Middle East & Africa,Cairo,District 20,30.17907,31.58289
+1082,Egypt,Middle East & Africa,Alexandria,District 20,31.24397,29.98997
+1083,Egypt,Middle East & Africa,Giza,District 20,29.95086,30.99277
+1084,Egypt,Middle East & Africa,Port Said,District 20,31.18767,32.16885
+1085,Egypt,Middle East & Africa,Suez,District 20,29.79636,32.75668
+1086,Egypt,Middle East & Africa,Mansoura,District 20,31.07274,31.42556
+1087,Egypt,Middle East & Africa,Assiut,District 20,27.14292,31.15926
+1088,Egypt,Middle East & Africa,Luxor,District 20,25.80575,32.63612
+1089,Saudi Arabia,Middle East & Africa,Riyadh,District 20,24.77368,46.65648
+1090,Saudi Arabia,Middle East & Africa,Jeddah,District 20,21.49894,39.00117
+1091,Saudi Arabia,Middle East & Africa,Dammam,District 20,26.19267,50.06861
+1092,UAE,Middle East & Africa,Dubai,District 20,25.20678,55.11566
+1093,UAE,Middle East & Africa,Abu Dhabi,District 20,24.44586,54.38645
+1094,UAE,Middle East & Africa,Sharjah,District 20,25.09128,55.31019
+1095,Kuwait,Middle East & Africa,Kuwait City,District 20,29.42887,48.03645
+1096,Qatar,Middle East & Africa,Doha,District 20,25.15156,51.54901
+1097,Oman,Middle East & Africa,Muscat,District 20,23.71269,58.50325
+1098,Jordan,Middle East & Africa,Amman,District 20,31.93857,35.87384
+1099,Morocco,Middle East & Africa,Casablanca,District 20,33.49448,-7.53386
+1100,Nigeria,Middle East & Africa,Lagos,District 20,6.54341,3.45553
+1101,South Africa,Middle East & Africa,Johannesburg,District 20,-26.18418,28.14825
+1102,Turkey,Europe,Istanbul,District 20,41.02135,29.07416
+1103,Turkey,Europe,Ankara,District 20,40.0345,32.76346
+1104,Turkey,Europe,Izmir,District 20,38.20302,27.32522
+1105,Germany,Europe,Berlin,District 20,52.5508,13.19426
+1106,Germany,Europe,Hamburg,District 20,53.46434,10.08262
+1107,Germany,Europe,Munich,District 20,48.10644,11.51855
+1108,UK,Europe,London,District 20,51.67811,-0.25567
+1109,UK,Europe,Manchester,District 20,53.38422,-2.21463
+1110,France,Europe,Paris,District 20,48.90685,2.40956
+1111,Italy,Europe,Milan,District 20,45.56935,9.21383
+1112,Italy,Europe,Rome,District 20,41.95873,12.46889
+1113,Spain,Europe,Madrid,District 20,40.42752,-3.6871
+1114,Spain,Europe,Barcelona,District 20,41.41581,2.2627
+1115,Netherlands,Europe,Rotterdam,District 20,51.98662,4.48531
+1116,USA,North America,New York,District 20,40.6129,-74.00188
+1117,USA,North America,Chicago,District 20,41.87664,-87.60682
+1118,USA,North America,Los Angeles,District 20,34.31478,-118.30285
+1119,USA,North America,Houston,District 20,29.81067,-95.24178
+1120,USA,North America,Miami,District 20,25.77176,-79.90946
+1121,Canada,North America,Toronto,District 20,43.60464,-79.34111
+1122,Mexico,Latin America,Mexico City,District 20,19.33414,-99.17218
+1123,Brazil,Latin America,Sao Paulo,District 20,-23.52013,-46.52844
+1124,China,Asia Pacific,Shanghai,District 20,31.26829,121.62109
+1125,China,Asia Pacific,Shenzhen,District 20,22.5286,114.02014
+1126,China,Asia Pacific,Guangzhou,District 20,23.45448,113.30731
+1127,China,Asia Pacific,Beijing,District 20,39.81366,116.32669
+1128,India,Asia Pacific,Mumbai,District 20,18.96688,72.99239
+1129,India,Asia Pacific,Delhi,District 20,28.56627,77.22528
+1130,India,Asia Pacific,Chennai,District 20,13.07238,80.35778
+1131,Singapore,Asia Pacific,Singapore,District 20,1.24839,103.69093
+1132,Japan,Asia Pacific,Tokyo,District 20,35.70692,139.76212
+1133,South Korea,Asia Pacific,Seoul,District 20,37.6099,126.88287
+1134,Australia,Asia Pacific,Sydney,District 20,-33.7887,151.12074
+1135,Egypt,Middle East & Africa,Cairo,District 21,29.97742,31.12673
+1136,Egypt,Middle East & Africa,Alexandria,District 21,31.35614,29.99601
+1137,Egypt,Middle East & Africa,Giza,District 21,30.0826,31.35967
+1138,Egypt,Middle East & Africa,Port Said,District 21,31.59752,32.09489
+1139,Egypt,Middle East & Africa,Suez,District 21,29.88139,32.47606
+1140,Egypt,Middle East & Africa,Mansoura,District 21,30.9379,31.25069
+1141,Egypt,Middle East & Africa,Assiut,District 21,27.14404,31.03401
+1142,Egypt,Middle East & Africa,Luxor,District 21,25.73021,32.6462
+1143,Saudi Arabia,Middle East & Africa,Riyadh,District 21,24.76772,46.74093
+1144,Saudi Arabia,Middle East & Africa,Jeddah,District 21,21.61236,39.12519
+1145,Saudi Arabia,Middle East & Africa,Dammam,District 21,26.68454,50.12813
+1146,UAE,Middle East & Africa,Dubai,District 21,24.9765,55.14971
+1147,UAE,Middle East & Africa,Abu Dhabi,District 21,24.24114,54.38208
+1148,UAE,Middle East & Africa,Sharjah,District 21,25.33538,55.36379
+1149,Kuwait,Middle East & Africa,Kuwait City,District 21,29.62131,48.05588
+1150,Qatar,Middle East & Africa,Doha,District 21,25.37713,51.41827
+1151,Oman,Middle East & Africa,Muscat,District 21,23.4701,58.41442
+1152,Jordan,Middle East & Africa,Amman,District 21,31.97076,35.70724
+1153,Morocco,Middle East & Africa,Casablanca,District 21,33.54836,-7.58831
+1154,Nigeria,Middle East & Africa,Lagos,District 21,6.49418,3.28239
+1155,South Africa,Middle East & Africa,Johannesburg,District 21,-26.26474,28.02878
+1156,Turkey,Europe,Istanbul,District 21,41.0209,29.05257
+1157,Turkey,Europe,Ankara,District 21,40.0597,32.82468
+1158,Turkey,Europe,Izmir,District 21,38.36526,27.19252
+1159,Germany,Europe,Berlin,District 21,52.5933,13.3479
+1160,Germany,Europe,Hamburg,District 21,53.64485,10.10755
+1161,Germany,Europe,Munich,District 21,48.295,11.7934
+1162,UK,Europe,London,District 21,51.40603,-0.12833
+1163,UK,Europe,Manchester,District 21,53.48135,-2.25177
+1164,France,Europe,Paris,District 21,48.78209,2.17173
+1165,Italy,Europe,Milan,District 21,45.47112,9.0978
+1166,Italy,Europe,Rome,District 21,41.91032,12.40471
+1167,Spain,Europe,Madrid,District 21,40.28804,-3.67188
+1168,Spain,Europe,Barcelona,District 21,41.40811,2.23951
+1169,Netherlands,Europe,Rotterdam,District 21,52.1823,4.51327
+1170,USA,North America,New York,District 21,40.76821,-74.13931
+1171,USA,North America,Chicago,District 21,41.72557,-87.44006
+1172,USA,North America,Los Angeles,District 21,33.93918,-118.36527
+1173,USA,North America,Houston,District 21,29.75531,-95.38082
+1174,USA,North America,Miami,District 21,25.6517,-80.2266
+1175,Canada,North America,Toronto,District 21,43.79753,-79.47672
+1176,Mexico,Latin America,Mexico City,District 21,19.26276,-99.01689
+1177,Brazil,Latin America,Sao Paulo,District 21,-23.49092,-46.70446
+1178,China,Asia Pacific,Shanghai,District 21,31.04014,121.38065
+1179,China,Asia Pacific,Shenzhen,District 21,22.53344,114.19988
+1180,China,Asia Pacific,Guangzhou,District 21,23.00561,113.24986
+1181,China,Asia Pacific,Beijing,District 21,39.98102,116.12425
+1182,India,Asia Pacific,Mumbai,District 21,19.20405,72.73811
+1183,India,Asia Pacific,Delhi,District 21,28.64984,77.2396
+1184,India,Asia Pacific,Chennai,District 21,13.21015,80.33611
+1185,Singapore,Asia Pacific,Singapore,District 21,1.06473,103.72583
+1186,Japan,Asia Pacific,Tokyo,District 21,35.69658,139.6666
+1187,South Korea,Asia Pacific,Seoul,District 21,37.62731,127.07472
+1188,Australia,Asia Pacific,Sydney,District 21,-33.79699,151.18429
+1189,Egypt,Middle East & Africa,Cairo,District 22,29.81844,31.18534
+1190,Egypt,Middle East & Africa,Alexandria,District 22,31.24996,29.78915
+1191,Egypt,Middle East & Africa,Giza,District 22,30.08575,31.31901
+1192,Egypt,Middle East & Africa,Port Said,District 22,31.27522,31.93235
+1193,Egypt,Middle East & Africa,Suez,District 22,29.81663,32.77634
+1194,Egypt,Middle East & Africa,Mansoura,District 22,30.97442,31.1419
+1195,Egypt,Middle East & Africa,Assiut,District 22,27.32823,31.1816
+1196,Egypt,Middle East & Africa,Luxor,District 22,25.82259,32.67324
+1197,Saudi Arabia,Middle East & Africa,Riyadh,District 22,24.76503,46.72356
+1198,Saudi Arabia,Middle East & Africa,Jeddah,District 22,21.6237,39.44329
+1199,Saudi Arabia,Middle East & Africa,Dammam,District 22,26.54652,49.91036
+1200,UAE,Middle East & Africa,Dubai,District 22,25.2536,55.40698

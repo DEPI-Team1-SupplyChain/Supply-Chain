@@ -1,0 +1,1501 @@
+﻿ProductID,SKU,ProductName,Category,Subcategory,Brand,UnitCost,UnitPrice,WeightKg
+1,SKU-TOY-00001,Zephyr Board Game Q534,Toys & Games,Board Game,Zephyr,5.98,8.53,3.37
+2,SKU-APP-00002,Jade Jacket P423,Apparel,Jacket,Jade,5.55,7.09,1.46
+3,SKU-IND-00003,Lumen Power Drill C414,Industrial,Power Drill,Lumen,22.75,33.66,73.9
+4,SKU-HEA-00004,Maxis Face Cream L932,Health & Beauty,Face Cream,Maxis,3.37,4.71,0.18
+5,SKU-IND-00005,Xenon Power Drill L181,Industrial,Power Drill,Xenon,15.04,23.2,20.77
+6,SKU-TOY-00006,Bravo Doll S281,Toys & Games,Doll,Bravo,44.42,65.66,1.15
+7,SKU-APP-00007,Dynamo Jacket V946,Apparel,Jacket,Dynamo,60.39,74.74,0.84
+8,SKU-FUR-00008,Dynamo Bed Frame P878,Furniture,Bed Frame,Dynamo,249.23,329.72,24.23
+9,SKU-FUR-00009,Orbit Dining Table U777,Furniture,Dining Table,Orbit,55.11,88.6,49.38
+10,SKU-HEA-00010,Aurora Shampoo O689,Health & Beauty,Shampoo,Aurora,42.36,60.24,1.26
+11,SKU-TOY-00011,Kinetic Doll S634,Toys & Games,Doll,Kinetic,61.71,77.93,0.97
+12,SKU-IND-00012,Maxis Bearing Set Z808,Industrial,Bearing Set,Maxis,207.18,311.66,66.14
+13,SKU-HEA-00013,Ultra Face Cream W305,Health & Beauty,Face Cream,Ultra,2.88,4.23,1.35
+14,SKU-FUR-00014,Iconic Cabinet J197,Furniture,Cabinet,Iconic,106.81,152.96,37.73
+15,SKU-IND-00015,Maxis Bearing Set F189,Industrial,Bearing Set,Maxis,155.77,225.47,5.85
+16,SKU-ELE-00016,Zephyr Laptop M557,Electronics,Laptop,Zephyr,316.67,369.48,4.81
+17,SKU-IND-00017,Terra Power Drill R201,Industrial,Power Drill,Terra,133.78,167.56,105.45
+18,SKU-FUR-00018,Helix Office Chair Q911,Furniture,Office Chair,Helix,98.48,151.04,58.84
+19,SKU-OFF-00019,Orbit Printer Ink U774,Office Supplies,Printer Ink,Orbit,17.66,23.04,0.45
+20,SKU-OFF-00020,Gravity Notebook P993,Office Supplies,Notebook,Gravity,23.7,33.76,0.14
+21,SKU-APP-00021,Ultra Dress M290,Apparel,Dress,Ultra,35.73,49.6,1.54
+22,SKU-HOM-00022,Lumen Refrigerator O228,Home Appliances,Refrigerator,Lumen,86.32,119.11,28.13
+23,SKU-HOM-00023,Pulse Blender A811,Home Appliances,Blender,Pulse,30.97,41.39,37.98
+24,SKU-HOM-00024,Nexa Washing Machine P402,Home Appliances,Washing Machine,Nexa,292.32,349.91,59.1
+25,SKU-AUT-00025,Xenon Tires C810,Automotive,Tires,Xenon,91.97,144.42,2.03
+26,SKU-HOM-00026,Helix Microwave Z646,Home Appliances,Microwave,Helix,31.15,51.18,36.71
+27,SKU-IND-00027,Pulse Bearing Set V456,Industrial,Bearing Set,Pulse,531.7,701.72,40.85
+28,SKU-FUR-00028,Iconic Sofa Y501,Furniture,Sofa,Iconic,125.24,152.79,33.63
+29,SKU-ELE-00029,Solis Tablet E292,Electronics,Tablet,Solis,127.93,177.88,4.38
+30,SKU-IND-00030,Fusion Hydraulic Pump J455,Industrial,Hydraulic Pump,Fusion,17.61,22.93,19.7
+31,SKU-FUR-00031,Gravity Cabinet E119,Furniture,Cabinet,Gravity,110.43,167.03,44.66
+32,SKU-ELE-00032,Evolve Smartphone O812,Electronics,Smartphone,Evolve,735.68,883.98,3.88
+33,SKU-FOO-00033,Nexa Coffee Beans S157,Food & Beverage,Coffee Beans,Nexa,1.73,2.23,4.09
+34,SKU-TOY-00034,Fusion Puzzle V890,Toys & Games,Puzzle,Fusion,4.59,7.4,0.82
+35,SKU-FUR-00035,Nexa Bed Frame O690,Furniture,Bed Frame,Nexa,323.45,489.37,15.96
+36,SKU-TOY-00036,Xenon Puzzle I582,Toys & Games,Puzzle,Xenon,56.97,83.24,2.19
+37,SKU-TOY-00037,Fusion Building Blocks M722,Toys & Games,Building Blocks,Fusion,23.26,34.41,1.46
+38,SKU-FOO-00038,Pulse Juice M101,Food & Beverage,Juice,Pulse,3.97,6.47,8.61
+39,SKU-AUT-00039,Helix Brake Pads R692,Automotive,Brake Pads,Helix,33.11,51.97,3.01
+40,SKU-ELE-00040,Jade Camera C535,Electronics,Camera,Jade,395.69,647.29,5.33
+41,SKU-TOY-00041,Lumen Doll B344,Toys & Games,Doll,Lumen,19.64,31.66,1.71
+42,SKU-TOY-00042,Fusion Building Blocks L379,Toys & Games,Building Blocks,Fusion,4.24,5.99,3.65
+43,SKU-APP-00043,Nexa Dress E108,Apparel,Dress,Nexa,43.14,61.62,0.52
+44,SKU-IND-00044,Rapid Hydraulic Pump B960,Industrial,Hydraulic Pump,Rapid,143.55,181.27,16.74
+45,SKU-HOM-00045,Maxis Vacuum Cleaner V252,Home Appliances,Vacuum Cleaner,Maxis,269.5,421.7,11.42
+46,SKU-FOO-00046,Quanta Juice D880,Food & Beverage,Juice,Quanta,1.39,1.71,7.79
+47,SKU-APP-00047,Solis Sneakers A505,Apparel,Sneakers,Solis,82.63,100.79,0.62
+48,SKU-TOY-00048,Terra Doll C355,Toys & Games,Doll,Terra,64.96,100.9,2.68
+49,SKU-IND-00049,Evolve Safety Helmet Y493,Industrial,Safety Helmet,Evolve,651.54,866.38,45.42
+50,SKU-FUR-00050,Iconic Dining Table Q947,Furniture,Dining Table,Iconic,424.41,490.3,39.4
+51,SKU-HOM-00051,Helix Air Fryer L393,Home Appliances,Air Fryer,Helix,80.25,95.25,15.02
+52,SKU-ELE-00052,Dynamo Smartphone D954,Electronics,Smartphone,Dynamo,66.55,86.59,0.26
+53,SKU-AUT-00053,Helix Brake Pads J673,Automotive,Brake Pads,Helix,165.14,198.71,7.51
+54,SKU-OFF-00054,Nexa Printer Ink R425,Office Supplies,Printer Ink,Nexa,2.87,4.35,6.85
+55,SKU-TOY-00055,Wave Building Blocks A702,Toys & Games,Building Blocks,Wave,45.09,59.11,0.72
+56,SKU-HEA-00056,Xenon Face Cream S707,Health & Beauty,Face Cream,Xenon,2.06,2.43,0.68
+57,SKU-ELE-00057,Terra Headphones X181,Electronics,Headphones,Terra,45.88,60.57,2.24
+58,SKU-APP-00058,Maxis Jeans D231,Apparel,Jeans,Maxis,49.13,64.31,1.54
+59,SKU-ELE-00059,Iconic Smart Watch J852,Electronics,Smart Watch,Iconic,214.37,258.08,5.73
+60,SKU-TOY-00060,Ultra RC Car Y385,Toys & Games,RC Car,Ultra,56.26,68.83,2.11
+61,SKU-OFF-00061,Zephyr Shredder E568,Office Supplies,Shredder,Zephyr,3.01,4.5,0.98
+62,SKU-IND-00062,Gravity Welding Machine W291,Industrial,Welding Machine,Gravity,271.59,430.88,73.54
+63,SKU-FUR-00063,Jade Office Chair B409,Furniture,Office Chair,Jade,62.35,89.77,33.07
+64,SKU-FUR-00064,Fusion Sofa E523,Furniture,Sofa,Fusion,528.03,638.61,29.95
+65,SKU-IND-00065,Iconic Power Drill X145,Industrial,Power Drill,Iconic,23.16,34.53,75.83
+66,SKU-OFF-00066,Quanta Marker Set Q730,Office Supplies,Marker Set,Quanta,47.23,64.27,4.94
+67,SKU-HOM-00067,Aurora Air Fryer N780,Home Appliances,Air Fryer,Aurora,57.32,73.32,22.79
+68,SKU-ELE-00068,Kinetic Headphones H605,Electronics,Headphones,Kinetic,40.35,57.8,4.28
+69,SKU-ELE-00069,Maxis Monitor A331,Electronics,Monitor,Maxis,48.13,72.16,4.86
+70,SKU-IND-00070,Quanta Hydraulic Pump V763,Industrial,Hydraulic Pump,Quanta,332.89,505.93,87.2
+71,SKU-AUT-00071,Kinetic Brake Pads B480,Automotive,Brake Pads,Kinetic,27.73,39.2,11.56
+72,SKU-APP-00072,Gravity Dress B259,Apparel,Dress,Gravity,47.85,61.0,1.68
+73,SKU-HEA-00073,Rapid Perfume K785,Health & Beauty,Perfume,Rapid,5.54,6.38,0.43
+74,SKU-APP-00074,Helix Jeans V133,Apparel,Jeans,Helix,48.42,56.83,0.9
+75,SKU-AUT-00075,Aurora Wipers U473,Automotive,Wipers,Aurora,235.11,377.37,5.08
+76,SKU-AUT-00076,Helix Engine Oil U921,Automotive,Engine Oil,Helix,170.15,230.62,5.95
+77,SKU-HEA-00077,Cyrus Sunscreen Z811,Health & Beauty,Sunscreen,Cyrus,2.51,3.19,0.52
+78,SKU-FOO-00078,Lumen Olive Oil S726,Food & Beverage,Olive Oil,Lumen,2.56,3.95,3.07
+79,SKU-FUR-00079,Vivid Dining Table P238,Furniture,Dining Table,Vivid,120.55,149.96,17.67
+80,SKU-IND-00080,Lumen Power Drill G858,Industrial,Power Drill,Lumen,18.38,30.17,80.89
+81,SKU-IND-00081,Rapid Welding Machine Y270,Industrial,Welding Machine,Rapid,35.96,44.68,106.95
+82,SKU-OFF-00082,Maxis Printer Ink O860,Office Supplies,Printer Ink,Maxis,1.88,2.45,7.57
+83,SKU-OFF-00083,Ultra Stapler B346,Office Supplies,Stapler,Ultra,28.1,42.7,4.3
+84,SKU-HEA-00084,Zephyr Sunscreen Y593,Health & Beauty,Sunscreen,Zephyr,4.6,6.61,0.96
+85,SKU-APP-00085,Kinetic Backpack P262,Apparel,Backpack,Kinetic,21.7,26.29,1.47
+86,SKU-HOM-00086,Aurora Refrigerator G740,Home Appliances,Refrigerator,Aurora,139.77,200.74,59.95
+87,SKU-ELE-00087,Jade Router J909,Electronics,Router,Jade,195.08,319.37,2.62
+88,SKU-OFF-00088,Nexa Marker Set N102,Office Supplies,Marker Set,Nexa,3.07,4.42,2.26
+89,SKU-IND-00089,Jade Safety Helmet F151,Industrial,Safety Helmet,Jade,76.21,121.49,47.15
+90,SKU-OFF-00090,Nexa Marker Set N643,Office Supplies,Marker Set,Nexa,1.04,1.29,9.32
+91,SKU-AUT-00091,Aurora Wipers I789,Automotive,Wipers,Aurora,94.24,144.76,14.65
+92,SKU-ELE-00092,Xenon Camera A607,Electronics,Camera,Xenon,135.38,212.41,3.36
+93,SKU-AUT-00093,Helix Car Battery V874,Automotive,Car Battery,Helix,19.85,27.71,8.62
+94,SKU-IND-00094,Lumen Safety Helmet D706,Industrial,Safety Helmet,Lumen,295.62,411.69,79.46
+95,SKU-OFF-00095,Kinetic Marker Set V575,Office Supplies,Marker Set,Kinetic,15.02,18.72,6.83
+96,SKU-ELE-00096,Fusion Router B987,Electronics,Router,Fusion,471.2,644.38,3.09
+97,SKU-AUT-00097,Ultra Engine Oil A900,Automotive,Engine Oil,Ultra,11.74,14.93,11.03
+98,SKU-IND-00098,Orbit Conveyor Belt L712,Industrial,Conveyor Belt,Orbit,45.86,64.71,2.78
+99,SKU-FOO-00099,Ultra Juice A196,Food & Beverage,Juice,Ultra,13.87,21.25,4.04
+100,SKU-AUT-00100,Pulse Wipers W939,Automotive,Wipers,Pulse,13.1,16.33,10.41
+101,SKU-HEA-00101,Kinetic Vitamins O478,Health & Beauty,Vitamins,Kinetic,18.04,24.72,0.18
+102,SKU-APP-00102,Wave Sneakers Q554,Apparel,Sneakers,Wave,51.22,82.65,0.48
+103,SKU-TOY-00103,Aurora Puzzle F998,Toys & Games,Puzzle,Aurora,5.8,8.94,2.75
+104,SKU-AUT-00104,Gravity Car Battery R565,Automotive,Car Battery,Gravity,45.78,53.17,2.38
+105,SKU-APP-00105,Pulse Jeans Z407,Apparel,Jeans,Pulse,19.53,23.28,0.23
+106,SKU-IND-00106,Evolve Bearing Set Z654,Industrial,Bearing Set,Evolve,34.16,46.52,32.42
+107,SKU-FOO-00107,Lumen Pasta C367,Food & Beverage,Pasta,Lumen,12.5,17.04,7.52
+108,SKU-ELE-00108,Pulse Router N995,Electronics,Router,Pulse,96.5,134.83,1.93
+109,SKU-FUR-00109,Fusion Desk X588,Furniture,Desk,Fusion,489.35,665.77,29.89
+110,SKU-APP-00110,Zephyr T-Shirt S862,Apparel,T-Shirt,Zephyr,29.9,42.54,0.26
+111,SKU-TOY-00111,Fusion Building Blocks B391,Toys & Games,Building Blocks,Fusion,7.4,10.27,3.6
+112,SKU-IND-00112,Evolve Safety Helmet K256,Industrial,Safety Helmet,Evolve,76.59,117.96,63.72
+113,SKU-TOY-00113,Terra RC Car Q590,Toys & Games,RC Car,Terra,73.27,108.5,0.26
+114,SKU-IND-00114,Gravity Conveyor Belt I520,Industrial,Conveyor Belt,Gravity,655.93,880.22,24.75
+115,SKU-AUT-00115,Terra Engine Oil G347,Automotive,Engine Oil,Terra,57.55,88.26,12.61
+116,SKU-APP-00116,Bravo Backpack X905,Apparel,Backpack,Bravo,20.25,27.68,0.55
+117,SKU-HOM-00117,Gravity Blender B890,Home Appliances,Blender,Gravity,367.86,541.81,17.16
+118,SKU-AUT-00118,Dynamo Brake Pads Z327,Automotive,Brake Pads,Dynamo,10.16,16.73,9.73
+119,SKU-AUT-00119,Helix Car Battery Y389,Automotive,Car Battery,Helix,36.22,57.96,13.1
+120,SKU-APP-00120,Rapid Jeans S146,Apparel,Jeans,Rapid,33.73,51.8,0.86
+121,SKU-TOY-00121,Terra Board Game Q922,Toys & Games,Board Game,Terra,38.23,58.41,2.42
+122,SKU-ELE-00122,Aurora Tablet F246,Electronics,Tablet,Aurora,456.73,650.7,4.74
+123,SKU-ELE-00123,Maxis Headphones X328,Electronics,Headphones,Maxis,68.25,80.59,3.99
+124,SKU-HEA-00124,Xenon Perfume S531,Health & Beauty,Perfume,Xenon,43.65,66.56,0.13
+125,SKU-APP-00125,Iconic Backpack L722,Apparel,Backpack,Iconic,80.67,119.09,0.4
+126,SKU-HEA-00126,Rapid Shampoo G241,Health & Beauty,Shampoo,Rapid,2.5,3.3,1.1
+127,SKU-TOY-00127,Evolve RC Car R568,Toys & Games,RC Car,Evolve,38.28,53.95,3.84
+128,SKU-TOY-00128,Lumen Board Game V857,Toys & Games,Board Game,Lumen,5.08,7.8,1.12
+129,SKU-FUR-00129,Bravo Bed Frame K276,Furniture,Bed Frame,Bravo,199.25,282.23,74.58
+130,SKU-FUR-00130,Xenon Desk F454,Furniture,Desk,Xenon,54.05,82.94,74.22
+131,SKU-HEA-00131,Wave Shampoo U304,Health & Beauty,Shampoo,Wave,35.16,46.34,0.83
+132,SKU-OFF-00132,Evolve Marker Set S847,Office Supplies,Marker Set,Evolve,23.37,31.91,1.83
+133,SKU-TOY-00133,Gravity Board Game Y452,Toys & Games,Board Game,Gravity,19.43,27.34,1.81
+134,SKU-FOO-00134,Ultra Juice B335,Food & Beverage,Juice,Ultra,8.85,13.61,5.34
+135,SKU-IND-00135,Fusion Power Drill U255,Industrial,Power Drill,Fusion,92.55,130.0,56.85
+136,SKU-FOO-00136,Rapid Coffee Beans Y615,Food & Beverage,Coffee Beans,Rapid,7.1,11.61,2.1
+137,SKU-AUT-00137,Evolve Brake Pads V159,Automotive,Brake Pads,Evolve,66.74,91.05,12.13
+138,SKU-FOO-00138,Fusion Snack Box F757,Food & Beverage,Snack Box,Fusion,4.58,5.42,10.83
+139,SKU-FOO-00139,Iconic Snack Box W546,Food & Beverage,Snack Box,Iconic,12.78,17.46,1.86
+140,SKU-APP-00140,Xenon Backpack V274,Apparel,Backpack,Xenon,77.69,119.16,0.57
+141,SKU-HOM-00141,Cyrus Blender D262,Home Appliances,Blender,Cyrus,188.89,252.95,19.52
+142,SKU-AUT-00142,Xenon Car Battery P915,Automotive,Car Battery,Xenon,116.29,162.0,6.89
+143,SKU-HEA-00143,Zephyr Vitamins M387,Health & Beauty,Vitamins,Zephyr,20.4,25.88,0.19
+144,SKU-OFF-00144,Pulse Notebook G670,Office Supplies,Notebook,Pulse,2.28,2.97,9.9
+145,SKU-ELE-00145,Lumen Monitor B910,Electronics,Monitor,Lumen,817.17,1304.53,3.38
+146,SKU-APP-00146,Rapid Dress O672,Apparel,Dress,Rapid,55.6,85.8,1.96
+147,SKU-HOM-00147,Wave Microwave M560,Home Appliances,Microwave,Wave,392.49,503.43,15.42
+148,SKU-IND-00148,Lumen Safety Helmet W341,Industrial,Safety Helmet,Lumen,537.15,656.32,40.95
+149,SKU-OFF-00149,Dynamo Marker Set T406,Office Supplies,Marker Set,Dynamo,9.82,13.65,1.41
+150,SKU-IND-00150,Zephyr Hydraulic Pump N365,Industrial,Hydraulic Pump,Zephyr,453.47,572.08,75.15
+151,SKU-OFF-00151,Cyrus Paper Ream E889,Office Supplies,Paper Ream,Cyrus,1.67,2.09,7.98
+152,SKU-FUR-00152,Solis Office Chair A774,Furniture,Office Chair,Solis,528.4,759.39,42.95
+153,SKU-AUT-00153,Maxis Brake Pads L895,Automotive,Brake Pads,Maxis,44.54,69.73,12.31
+154,SKU-OFF-00154,Rapid Shredder S531,Office Supplies,Shredder,Rapid,14.27,22.32,8.75
+155,SKU-FUR-00155,Solis Cabinet W173,Furniture,Cabinet,Solis,177.77,210.59,24.16
+156,SKU-IND-00156,Cyrus Hydraulic Pump D861,Industrial,Hydraulic Pump,Cyrus,117.53,170.71,105.52
+157,SKU-ELE-00157,Terra Router K110,Electronics,Router,Terra,62.29,92.49,1.25
+158,SKU-HEA-00158,Zephyr Vitamins F846,Health & Beauty,Vitamins,Zephyr,13.0,19.14,1.05
+159,SKU-OFF-00159,Lumen Stapler M205,Office Supplies,Stapler,Lumen,2.42,3.52,3.03
+160,SKU-HEA-00160,Terra Vitamins K351,Health & Beauty,Vitamins,Terra,2.12,3.04,0.34
+161,SKU-IND-00161,Wave Power Drill E168,Industrial,Power Drill,Wave,1131.71,1866.49,86.66
+162,SKU-AUT-00162,Terra Engine Oil I737,Automotive,Engine Oil,Terra,175.11,246.84,1.01
+163,SKU-TOY-00163,Nexa Action Figure G126,Toys & Games,Action Figure,Nexa,13.74,18.28,1.68
+164,SKU-IND-00164,Jade Hydraulic Pump N835,Industrial,Hydraulic Pump,Jade,926.96,1431.99,4.29
+165,SKU-OFF-00165,Zephyr Marker Set N449,Office Supplies,Marker Set,Zephyr,12.05,18.9,4.31
+166,SKU-HOM-00166,Helix Refrigerator V679,Home Appliances,Refrigerator,Helix,69.17,103.1,12.37
+167,SKU-HEA-00167,Nexa Perfume V645,Health & Beauty,Perfume,Nexa,10.41,16.81,1.36
+168,SKU-HOM-00168,Rapid Blender C364,Home Appliances,Blender,Rapid,58.98,92.11,38.87
+169,SKU-HEA-00169,Maxis Face Cream L501,Health & Beauty,Face Cream,Maxis,30.46,47.16,0.15
+170,SKU-APP-00170,Kinetic Jeans U896,Apparel,Jeans,Kinetic,27.17,33.27,0.8
+171,SKU-HOM-00171,Jade Air Fryer T637,Home Appliances,Air Fryer,Jade,138.13,190.96,38.07
+172,SKU-FUR-00172,Gravity Cabinet B223,Furniture,Cabinet,Gravity,584.34,925.88,61.12
+173,SKU-ELE-00173,Ultra Smartphone E933,Electronics,Smartphone,Ultra,741.38,1155.18,3.23
+174,SKU-TOY-00174,Dynamo Building Blocks H945,Toys & Games,Building Blocks,Dynamo,18.81,23.36,1.36
+175,SKU-APP-00175,Bravo Backpack C465,Apparel,Backpack,Bravo,10.29,14.89,0.31
+176,SKU-HEA-00176,Orbit Vitamins Q941,Health & Beauty,Vitamins,Orbit,5.38,6.98,0.42
+177,SKU-AUT-00177,Kinetic Car Battery P663,Automotive,Car Battery,Kinetic,22.59,33.91,1.97
+178,SKU-ELE-00178,Solis Monitor Z960,Electronics,Monitor,Solis,384.28,492.84,2.26
+179,SKU-TOY-00179,Evolve Building Blocks E654,Toys & Games,Building Blocks,Evolve,12.31,15.9,2.67
+180,SKU-AUT-00180,Nexa Engine Oil L137,Automotive,Engine Oil,Nexa,65.57,89.62,11.53
+181,SKU-HOM-00181,Evolve Microwave R196,Home Appliances,Microwave,Evolve,84.74,100.77,22.01
+182,SKU-IND-00182,Dynamo Bearing Set D319,Industrial,Bearing Set,Dynamo,359.03,552.09,76.6
+183,SKU-IND-00183,Aurora Conveyor Belt F788,Industrial,Conveyor Belt,Aurora,794.24,1193.99,7.51
+184,SKU-IND-00184,Maxis Welding Machine G751,Industrial,Welding Machine,Maxis,109.02,148.3,73.19
+185,SKU-HEA-00185,Fusion Sunscreen H221,Health & Beauty,Sunscreen,Fusion,17.09,25.52,1.04
+186,SKU-FOO-00186,Jade Pasta K590,Food & Beverage,Pasta,Jade,11.63,15.13,2.89
+187,SKU-IND-00187,Fusion Safety Helmet A590,Industrial,Safety Helmet,Fusion,18.8,28.16,116.8
+188,SKU-FOO-00188,Dynamo Tea G606,Food & Beverage,Tea,Dynamo,13.92,17.83,11.95
+189,SKU-ELE-00189,Terra Laptop M313,Electronics,Laptop,Terra,113.65,174.99,0.81
+190,SKU-OFF-00190,Terra Shredder B568,Office Supplies,Shredder,Terra,74.89,119.63,2.37
+191,SKU-IND-00191,Dynamo Bearing Set J766,Industrial,Bearing Set,Dynamo,19.55,25.33,29.79
+192,SKU-OFF-00192,Lumen Paper Ream I784,Office Supplies,Paper Ream,Lumen,30.72,50.11,3.06
+193,SKU-FOO-00193,Xenon Olive Oil C430,Food & Beverage,Olive Oil,Xenon,1.68,2.2,5.13
+194,SKU-FOO-00194,Gravity Tea U827,Food & Beverage,Tea,Gravity,1.24,1.84,0.77
+195,SKU-TOY-00195,Gravity Action Figure S927,Toys & Games,Action Figure,Gravity,21.23,31.39,2.68
+196,SKU-TOY-00196,Zephyr Building Blocks C100,Toys & Games,Building Blocks,Zephyr,12.18,17.76,3.25
+197,SKU-FUR-00197,Vivid Sofa Q656,Furniture,Sofa,Vivid,297.14,396.51,29.29
+198,SKU-HOM-00198,Nexa Microwave D331,Home Appliances,Microwave,Nexa,542.88,867.52,22.88
+199,SKU-AUT-00199,Pulse Air Filter S979,Automotive,Air Filter,Pulse,45.55,61.24,2.3
+200,SKU-IND-00200,Pulse Hydraulic Pump G935,Industrial,Hydraulic Pump,Pulse,78.22,125.89,79.5
+201,SKU-TOY-00201,Nexa RC Car L650,Toys & Games,RC Car,Nexa,65.1,106.11,3.85
+202,SKU-OFF-00202,Lumen Stapler R426,Office Supplies,Stapler,Lumen,2.87,3.85,9.39
+203,SKU-HEA-00203,Aurora Toothpaste X261,Health & Beauty,Toothpaste,Aurora,54.25,88.1,0.88
+204,SKU-FOO-00204,Zephyr Rice H719,Food & Beverage,Rice,Zephyr,2.02,2.51,11.58
+205,SKU-IND-00205,Rapid Hydraulic Pump D462,Industrial,Hydraulic Pump,Rapid,142.18,230.63,72.74
+206,SKU-FOO-00206,Nexa Olive Oil L646,Food & Beverage,Olive Oil,Nexa,17.33,27.84,5.1
+207,SKU-FOO-00207,Rapid Coffee Beans L162,Food & Beverage,Coffee Beans,Rapid,2.03,2.87,7.15
+208,SKU-APP-00208,Gravity Backpack X299,Apparel,Backpack,Gravity,7.74,9.44,1.48
+209,SKU-APP-00209,Kinetic T-Shirt Z801,Apparel,T-Shirt,Kinetic,10.6,16.94,1.3
+210,SKU-IND-00210,Orbit Hydraulic Pump O414,Industrial,Hydraulic Pump,Orbit,33.13,52.13,99.53
+211,SKU-HOM-00211,Aurora Water Heater O747,Home Appliances,Water Heater,Aurora,525.63,815.47,4.38
+212,SKU-OFF-00212,Zephyr Printer Ink P682,Office Supplies,Printer Ink,Zephyr,41.21,49.86,8.09
+213,SKU-IND-00213,Aurora Welding Machine W803,Industrial,Welding Machine,Aurora,178.82,281.9,80.74
+214,SKU-FUR-00214,Zephyr Bed Frame F222,Furniture,Bed Frame,Zephyr,206.63,291.01,37.05
+215,SKU-OFF-00215,Orbit Marker Set L597,Office Supplies,Marker Set,Orbit,108.09,176.47,7.7
+216,SKU-FUR-00216,Rapid Bed Frame D942,Furniture,Bed Frame,Rapid,52.6,82.23,43.54
+217,SKU-FUR-00217,Kinetic Bookshelf G330,Furniture,Bookshelf,Kinetic,592.67,838.84,70.15
+218,SKU-TOY-00218,Maxis RC Car M967,Toys & Games,RC Car,Maxis,13.4,19.11,3.42
+219,SKU-FUR-00219,Aurora Bookshelf T793,Furniture,Bookshelf,Aurora,101.61,147.89,65.94
+220,SKU-OFF-00220,Lumen Notebook B428,Office Supplies,Notebook,Lumen,6.38,8.14,1.42
+221,SKU-FUR-00221,Jade Cabinet K172,Furniture,Cabinet,Jade,110.0,167.15,23.52
+222,SKU-FUR-00222,Xenon Bed Frame D307,Furniture,Bed Frame,Xenon,61.24,83.12,49.53
+223,SKU-HEA-00223,Jade Face Cream F358,Health & Beauty,Face Cream,Jade,6.47,10.35,0.7
+224,SKU-FOO-00224,Jade Juice K394,Food & Beverage,Juice,Jade,22.27,26.92,10.53
+225,SKU-AUT-00225,Kinetic Wipers I710,Automotive,Wipers,Kinetic,10.64,15.0,3.8
+226,SKU-IND-00226,Quanta Safety Helmet C379,Industrial,Safety Helmet,Quanta,303.74,378.69,85.33
+227,SKU-OFF-00227,Evolve Shredder T701,Office Supplies,Shredder,Evolve,19.27,30.51,5.93
+228,SKU-HEA-00228,Fusion Sunscreen Y833,Health & Beauty,Sunscreen,Fusion,20.08,26.85,0.16
+229,SKU-FUR-00229,Rapid Office Chair R592,Furniture,Office Chair,Rapid,73.81,100.84,69.85
+230,SKU-ELE-00230,Quanta Camera E819,Electronics,Camera,Quanta,269.42,426.7,1.2
+231,SKU-FUR-00231,Terra Sofa L706,Furniture,Sofa,Terra,122.86,164.97,45.44
+232,SKU-HOM-00232,Kinetic Water Heater Y426,Home Appliances,Water Heater,Kinetic,233.89,327.24,11.62
+233,SKU-ELE-00233,Zephyr Headphones R866,Electronics,Headphones,Zephyr,660.79,941.74,4.12
+234,SKU-ELE-00234,Xenon Laptop E176,Electronics,Laptop,Xenon,106.73,141.64,1.49
+235,SKU-TOY-00235,Xenon Doll G416,Toys & Games,Doll,Xenon,7.59,9.42,3.9
+236,SKU-IND-00236,Xenon Safety Helmet B253,Industrial,Safety Helmet,Xenon,654.68,1049.55,58.01
+237,SKU-IND-00237,Cyrus Safety Helmet H477,Industrial,Safety Helmet,Cyrus,347.43,404.0,17.9
+238,SKU-AUT-00238,Dynamo Tires Q225,Automotive,Tires,Dynamo,9.45,11.38,10.51
+239,SKU-APP-00239,Iconic T-Shirt F858,Apparel,T-Shirt,Iconic,43.81,54.77,0.26
+240,SKU-TOY-00240,Vivid Board Game E746,Toys & Games,Board Game,Vivid,5.5,7.06,0.92
+241,SKU-APP-00241,Ultra Jeans Y131,Apparel,Jeans,Ultra,54.69,78.98,0.22
+242,SKU-OFF-00242,Solis Paper Ream X823,Office Supplies,Paper Ream,Solis,51.83,61.46,7.11
+243,SKU-OFF-00243,Wave Shredder P288,Office Supplies,Shredder,Wave,12.75,17.38,7.04
+244,SKU-TOY-00244,Orbit Action Figure G877,Toys & Games,Action Figure,Orbit,6.33,7.33,2.55
+245,SKU-HEA-00245,Iconic Shampoo K610,Health & Beauty,Shampoo,Iconic,48.93,68.55,0.41
+246,SKU-APP-00246,Kinetic T-Shirt H682,Apparel,T-Shirt,Kinetic,7.02,10.39,1.27
+247,SKU-HOM-00247,Bravo Vacuum Cleaner A897,Home Appliances,Vacuum Cleaner,Bravo,51.97,64.07,7.68
+248,SKU-IND-00248,Dynamo Safety Helmet L246,Industrial,Safety Helmet,Dynamo,280.37,347.43,15.08
+249,SKU-ELE-00249,Zephyr Smart Watch Q838,Electronics,Smart Watch,Zephyr,501.11,608.48,3.77
+250,SKU-IND-00250,Helix Conveyor Belt J897,Industrial,Conveyor Belt,Helix,21.27,26.12,11.9
+251,SKU-TOY-00251,Lumen RC Car N850,Toys & Games,RC Car,Lumen,37.43,50.0,2.67
+252,SKU-ELE-00252,Maxis Router V745,Electronics,Router,Maxis,54.02,68.83,1.9
+253,SKU-FUR-00253,Lumen Bed Frame T976,Furniture,Bed Frame,Lumen,58.29,96.01,11.92
+254,SKU-OFF-00254,Solis Notebook S765,Office Supplies,Notebook,Solis,19.4,26.56,7.6
+255,SKU-AUT-00255,Cyrus Brake Pads U921,Automotive,Brake Pads,Cyrus,10.48,14.68,9.85
+256,SKU-OFF-00256,Lumen Paper Ream X575,Office Supplies,Paper Ream,Lumen,3.28,4.57,2.58
+257,SKU-HEA-00257,Cyrus Perfume U819,Health & Beauty,Perfume,Cyrus,4.53,5.66,0.76
+258,SKU-ELE-00258,Fusion Router S604,Electronics,Router,Fusion,120.32,167.7,1.76
+259,SKU-IND-00259,Lumen Bearing Set O870,Industrial,Bearing Set,Lumen,52.72,62.26,17.26
+260,SKU-HEA-00260,Rapid Vitamins U387,Health & Beauty,Vitamins,Rapid,2.37,2.94,0.55
+261,SKU-HOM-00261,Bravo Blender F568,Home Appliances,Blender,Bravo,36.53,48.46,9.8
+262,SKU-HOM-00262,Kinetic Washing Machine M551,Home Appliances,Washing Machine,Kinetic,78.75,94.18,37.05
+263,SKU-AUT-00263,Rapid Brake Pads W921,Automotive,Brake Pads,Rapid,21.32,34.76,14.01
+264,SKU-FOO-00264,Fusion Olive Oil R595,Food & Beverage,Olive Oil,Fusion,14.69,19.55,2.38
+265,SKU-TOY-00265,Nexa RC Car W362,Toys & Games,RC Car,Nexa,32.89,52.23,2.99
+266,SKU-AUT-00266,Maxis Engine Oil E797,Automotive,Engine Oil,Maxis,239.52,390.31,12.81
+267,SKU-FUR-00267,Maxis Bed Frame G973,Furniture,Bed Frame,Maxis,440.28,508.7,24.38
+268,SKU-FOO-00268,Orbit Olive Oil Y299,Food & Beverage,Olive Oil,Orbit,6.08,7.53,1.71
+269,SKU-HOM-00269,Aurora Microwave A489,Home Appliances,Microwave,Aurora,265.7,338.46,22.38
+270,SKU-APP-00270,Maxis Backpack C722,Apparel,Backpack,Maxis,60.01,73.5,0.81
+271,SKU-FOO-00271,Kinetic Olive Oil V671,Food & Beverage,Olive Oil,Kinetic,22.11,32.14,11.5
+272,SKU-FOO-00272,Kinetic Tea N529,Food & Beverage,Tea,Kinetic,1.41,1.64,3.31
+273,SKU-HEA-00273,Zephyr Vitamins F328,Health & Beauty,Vitamins,Zephyr,16.08,19.95,0.56
+274,SKU-HOM-00274,Rapid Washing Machine O482,Home Appliances,Washing Machine,Rapid,152.68,231.78,5.32
+275,SKU-APP-00275,Cyrus Backpack B137,Apparel,Backpack,Cyrus,16.76,19.61,0.46
+276,SKU-FOO-00276,Dynamo Snack Box U196,Food & Beverage,Snack Box,Dynamo,5.31,8.56,2.8
+277,SKU-OFF-00277,Zephyr Marker Set L710,Office Supplies,Marker Set,Zephyr,83.3,108.54,6.31
+278,SKU-TOY-00278,Evolve RC Car F253,Toys & Games,RC Car,Evolve,41.58,60.95,3.29
+279,SKU-IND-00279,Ultra Welding Machine D208,Industrial,Welding Machine,Ultra,1007.43,1190.12,8.79
+280,SKU-OFF-00280,Helix Paper Ream M273,Office Supplies,Paper Ream,Helix,19.91,25.76,6.52
+281,SKU-FOO-00281,Iconic Pasta N727,Food & Beverage,Pasta,Iconic,2.93,3.73,2.11
+282,SKU-IND-00282,Evolve Conveyor Belt T731,Industrial,Conveyor Belt,Evolve,53.96,71.14,55.07
+283,SKU-OFF-00283,Ultra Stapler W500,Office Supplies,Stapler,Ultra,30.15,47.31,7.19
+284,SKU-HOM-00284,Zephyr Microwave H255,Home Appliances,Microwave,Zephyr,357.4,513.35,11.58
+285,SKU-TOY-00285,Xenon Puzzle K167,Toys & Games,Puzzle,Xenon,27.6,36.88,2.15
+286,SKU-HOM-00286,Dynamo Refrigerator C951,Home Appliances,Refrigerator,Dynamo,38.07,59.38,34.21
+287,SKU-FUR-00287,Quanta Dining Table T987,Furniture,Dining Table,Quanta,177.15,275.95,75.83
+288,SKU-IND-00288,Cyrus Bearing Set J722,Industrial,Bearing Set,Cyrus,260.04,314.71,10.19
+289,SKU-FUR-00289,Xenon Dining Table E256,Furniture,Dining Table,Xenon,60.12,95.78,17.52
+290,SKU-ELE-00290,Solis Headphones M402,Electronics,Headphones,Solis,560.18,788.3,3.33
+291,SKU-FOO-00291,Helix Coffee Beans T626,Food & Beverage,Coffee Beans,Helix,15.39,20.17,3.65
+292,SKU-FUR-00292,Bravo Dining Table W330,Furniture,Dining Table,Bravo,100.53,116.9,64.77
+293,SKU-FOO-00293,Lumen Juice O394,Food & Beverage,Juice,Lumen,14.82,24.15,4.72
+294,SKU-ELE-00294,Solis Smart Watch B907,Electronics,Smart Watch,Solis,42.74,53.92,0.51
+295,SKU-AUT-00295,Cyrus Brake Pads M713,Automotive,Brake Pads,Cyrus,34.43,50.83,4.7
+296,SKU-OFF-00296,Solis Paper Ream I780,Office Supplies,Paper Ream,Solis,8.72,11.59,8.18
+297,SKU-APP-00297,Rapid Jacket I442,Apparel,Jacket,Rapid,5.59,6.66,0.3
+298,SKU-ELE-00298,Dynamo Router O660,Electronics,Router,Dynamo,576.86,893.61,5.1
+299,SKU-FOO-00299,Jade Juice D168,Food & Beverage,Juice,Jade,9.49,12.24,6.47
+300,SKU-TOY-00300,Vivid Action Figure R124,Toys & Games,Action Figure,Vivid,6.45,9.8,0.6
+301,SKU-IND-00301,Zephyr Power Drill E523,Industrial,Power Drill,Zephyr,315.24,419.79,2.9
+302,SKU-TOY-00302,Nexa Board Game Z522,Toys & Games,Board Game,Nexa,10.93,15.41,2.18
+303,SKU-IND-00303,Ultra Hydraulic Pump X904,Industrial,Hydraulic Pump,Ultra,56.27,78.41,1.43
+304,SKU-OFF-00304,Helix Notebook E210,Office Supplies,Notebook,Helix,3.89,6.42,5.89
+305,SKU-TOY-00305,Rapid Board Game J600,Toys & Games,Board Game,Rapid,76.42,104.34,1.07
+306,SKU-HEA-00306,Kinetic Shampoo N907,Health & Beauty,Shampoo,Kinetic,2.41,3.81,0.12
+307,SKU-ELE-00307,Ultra Router B571,Electronics,Router,Ultra,380.64,584.46,3.69
+308,SKU-HEA-00308,Bravo Toothpaste G317,Health & Beauty,Toothpaste,Bravo,2.45,3.71,0.25
+309,SKU-HEA-00309,Iconic Perfume E685,Health & Beauty,Perfume,Iconic,29.36,45.61,1.28
+310,SKU-ELE-00310,Kinetic Tablet U629,Electronics,Tablet,Kinetic,558.79,744.09,4.24
+311,SKU-AUT-00311,Jade Car Battery H491,Automotive,Car Battery,Jade,75.66,92.06,12.97
+312,SKU-HEA-00312,Cyrus Sunscreen H964,Health & Beauty,Sunscreen,Cyrus,21.89,29.89,0.39
+313,SKU-FUR-00313,Xenon Dining Table P488,Furniture,Dining Table,Xenon,412.15,586.05,39.79
+314,SKU-HOM-00314,Dynamo Microwave E497,Home Appliances,Microwave,Dynamo,116.96,161.17,44.53
+315,SKU-IND-00315,Fusion Hydraulic Pump V570,Industrial,Hydraulic Pump,Fusion,1165.46,1528.22,108.33
+316,SKU-OFF-00316,Bravo Marker Set O599,Office Supplies,Marker Set,Bravo,5.34,6.72,6.68
+317,SKU-FUR-00317,Zephyr Sofa T248,Furniture,Sofa,Zephyr,114.46,153.54,70.33
+318,SKU-TOY-00318,Terra Puzzle U480,Toys & Games,Puzzle,Terra,6.12,7.38,0.99
+319,SKU-FUR-00319,Helix Desk X947,Furniture,Desk,Helix,264.73,359.6,27.71
+320,SKU-APP-00320,Lumen Jacket Z214,Apparel,Jacket,Lumen,39.36,47.02,1.73
+321,SKU-TOY-00321,Zephyr Board Game Z160,Toys & Games,Board Game,Zephyr,5.6,6.73,2.63
+322,SKU-APP-00322,Cyrus Dress F307,Apparel,Dress,Cyrus,5.05,6.01,1.14
+323,SKU-OFF-00323,Cyrus Marker Set W896,Office Supplies,Marker Set,Cyrus,2.07,2.72,1.55
+324,SKU-FUR-00324,Fusion Bed Frame Y705,Furniture,Bed Frame,Fusion,353.3,467.32,43.68
+325,SKU-ELE-00325,Evolve Router H433,Electronics,Router,Evolve,76.73,125.78,2.06
+326,SKU-AUT-00326,Quanta Tires A537,Automotive,Tires,Quanta,46.93,59.33,2.55
+327,SKU-IND-00327,Evolve Hydraulic Pump U439,Industrial,Hydraulic Pump,Evolve,336.49,540.4,116.53
+328,SKU-IND-00328,Bravo Hydraulic Pump F263,Industrial,Hydraulic Pump,Bravo,88.53,128.75,71.23
+329,SKU-APP-00329,Jade Sneakers J773,Apparel,Sneakers,Jade,13.32,20.87,0.96
+330,SKU-HEA-00330,Orbit Sunscreen W400,Health & Beauty,Sunscreen,Orbit,13.57,17.05,0.94
+331,SKU-HEA-00331,Quanta Vitamins D145,Health & Beauty,Vitamins,Quanta,58.81,90.34,0.68
+332,SKU-APP-00332,Jade Backpack Q899,Apparel,Backpack,Jade,40.21,59.41,1.46
+333,SKU-APP-00333,Orbit Jacket R467,Apparel,Jacket,Orbit,17.91,26.32,1.05
+334,SKU-IND-00334,Aurora Welding Machine G555,Industrial,Welding Machine,Aurora,38.6,50.11,113.5
+335,SKU-OFF-00335,Xenon Stapler K211,Office Supplies,Stapler,Xenon,9.62,15.24,9.63
+336,SKU-OFF-00336,Vivid Stapler K689,Office Supplies,Stapler,Vivid,2.71,3.48,6.0
+337,SKU-AUT-00337,Bravo Engine Oil T569,Automotive,Engine Oil,Bravo,15.92,20.4,4.95
+338,SKU-OFF-00338,Solis Shredder Z450,Office Supplies,Shredder,Solis,14.28,22.28,8.15
+339,SKU-AUT-00339,Terra Air Filter F197,Automotive,Air Filter,Terra,45.22,54.68,6.69
+340,SKU-HEA-00340,Bravo Vitamins X148,Health & Beauty,Vitamins,Bravo,9.65,14.24,0.96
+341,SKU-TOY-00341,Pulse Building Blocks J518,Toys & Games,Building Blocks,Pulse,47.73,75.64,1.38
+342,SKU-IND-00342,Orbit Safety Helmet O632,Industrial,Safety Helmet,Orbit,1115.92,1336.11,66.2
+343,SKU-FUR-00343,Kinetic Bookshelf B527,Furniture,Bookshelf,Kinetic,56.91,78.36,57.86
+344,SKU-IND-00344,Evolve Power Drill O206,Industrial,Power Drill,Evolve,644.01,862.05,115.76
+345,SKU-FUR-00345,Wave Dining Table X274,Furniture,Dining Table,Wave,386.18,600.28,34.01
+346,SKU-IND-00346,Orbit Power Drill V471,Industrial,Power Drill,Orbit,96.36,158.67,35.56
+347,SKU-HOM-00347,Zephyr Blender H105,Home Appliances,Blender,Zephyr,48.53,63.33,46.04
+348,SKU-OFF-00348,Cyrus Paper Ream T703,Office Supplies,Paper Ream,Cyrus,22.54,32.31,6.72
+349,SKU-APP-00349,Helix Backpack J929,Apparel,Backpack,Helix,11.89,17.13,0.97
+350,SKU-FOO-00350,Bravo Pasta L630,Food & Beverage,Pasta,Bravo,1.61,2.61,1.29
+351,SKU-ELE-00351,Quanta Router A498,Electronics,Router,Quanta,80.03,107.12,3.14
+352,SKU-APP-00352,Quanta Backpack S410,Apparel,Backpack,Quanta,9.62,11.19,0.2
+353,SKU-IND-00353,Aurora Welding Machine Y109,Industrial,Welding Machine,Aurora,18.25,25.83,69.76
+354,SKU-AUT-00354,Pulse Car Battery C794,Automotive,Car Battery,Pulse,8.23,12.06,5.17
+355,SKU-HOM-00355,Lumen Washing Machine S150,Home Appliances,Washing Machine,Lumen,215.17,317.62,12.2
+356,SKU-AUT-00356,Solis Wipers M360,Automotive,Wipers,Solis,43.12,56.93,2.92
+357,SKU-FOO-00357,Wave Snack Box K385,Food & Beverage,Snack Box,Wave,9.6,14.6,8.25
+358,SKU-AUT-00358,Pulse Air Filter O966,Automotive,Air Filter,Pulse,47.65,59.51,12.72
+359,SKU-OFF-00359,Wave Stapler Y339,Office Supplies,Stapler,Wave,148.5,206.88,7.27
+360,SKU-AUT-00360,Fusion Engine Oil B392,Automotive,Engine Oil,Fusion,9.41,12.95,11.91
+361,SKU-FUR-00361,Jade Dining Table R699,Furniture,Dining Table,Jade,281.57,364.03,41.84
+362,SKU-HOM-00362,Gravity Blender W621,Home Appliances,Blender,Gravity,39.81,48.31,14.21
+363,SKU-ELE-00363,Lumen Headphones G179,Electronics,Headphones,Lumen,584.04,825.0,5.55
+364,SKU-AUT-00364,Aurora Air Filter Q580,Automotive,Air Filter,Aurora,185.61,293.03,9.71
+365,SKU-FOO-00365,Nexa Pasta M431,Food & Beverage,Pasta,Nexa,11.89,16.73,2.52
+366,SKU-ELE-00366,Dynamo Router E314,Electronics,Router,Dynamo,87.51,116.73,5.38
+367,SKU-FOO-00367,Terra Rice F510,Food & Beverage,Rice,Terra,5.79,8.45,6.62
+368,SKU-TOY-00368,Zephyr Action Figure S621,Toys & Games,Action Figure,Zephyr,46.91,72.83,1.59
+369,SKU-OFF-00369,Solis Stapler U301,Office Supplies,Stapler,Solis,2.37,2.98,0.48
+370,SKU-AUT-00370,Rapid Tires X812,Automotive,Tires,Rapid,8.09,11.37,5.96
+371,SKU-HOM-00371,Evolve Refrigerator B490,Home Appliances,Refrigerator,Evolve,211.62,305.96,50.2
+372,SKU-HEA-00372,Xenon Vitamins V196,Health & Beauty,Vitamins,Xenon,5.83,7.86,1.47
+373,SKU-FUR-00373,Dynamo Dining Table A589,Furniture,Dining Table,Dynamo,167.5,205.47,51.12
+374,SKU-IND-00374,Aurora Bearing Set X444,Industrial,Bearing Set,Aurora,30.74,40.62,31.44
+375,SKU-OFF-00375,Maxis Shredder C989,Office Supplies,Shredder,Maxis,8.34,11.5,2.88
+376,SKU-FUR-00376,Rapid Sofa A645,Furniture,Sofa,Rapid,232.13,361.29,37.17
+377,SKU-APP-00377,Evolve Backpack W759,Apparel,Backpack,Evolve,71.42,91.74,1.97
+378,SKU-OFF-00378,Terra Notebook Q766,Office Supplies,Notebook,Terra,28.36,46.56,4.47
+379,SKU-TOY-00379,Xenon Doll T817,Toys & Games,Doll,Xenon,35.37,44.05,1.53
+380,SKU-APP-00380,Solis Jacket H635,Apparel,Jacket,Solis,39.63,62.09,1.62
+381,SKU-HEA-00381,Lumen Shampoo Q880,Health & Beauty,Shampoo,Lumen,40.86,60.13,1.35
+382,SKU-TOY-00382,Iconic RC Car J315,Toys & Games,RC Car,Iconic,32.25,45.79,1.93
+383,SKU-FOO-00383,Helix Coffee Beans E624,Food & Beverage,Coffee Beans,Helix,7.63,9.32,5.46
+384,SKU-HEA-00384,Kinetic Vitamins L991,Health & Beauty,Vitamins,Kinetic,36.63,50.24,0.22
+385,SKU-FUR-00385,Solis Dining Table R488,Furniture,Dining Table,Solis,327.48,397.59,63.15
+386,SKU-FUR-00386,Maxis Office Chair M327,Furniture,Office Chair,Maxis,77.81,118.81,25.71
+387,SKU-FOO-00387,Xenon Olive Oil S829,Food & Beverage,Olive Oil,Xenon,2.59,3.65,4.32
+388,SKU-IND-00388,Fusion Conveyor Belt Z316,Industrial,Conveyor Belt,Fusion,925.94,1213.6,13.36
+389,SKU-HOM-00389,Zephyr Refrigerator M289,Home Appliances,Refrigerator,Zephyr,65.99,105.12,31.99
+390,SKU-FUR-00390,Lumen Bed Frame H197,Furniture,Bed Frame,Lumen,81.37,100.85,29.65
+391,SKU-HEA-00391,Pulse Face Cream Y550,Health & Beauty,Face Cream,Pulse,19.32,31.11,0.46
+392,SKU-OFF-00392,Jade Marker Set X463,Office Supplies,Marker Set,Jade,2.06,3.2,0.69
+393,SKU-APP-00393,Jade Dress Q348,Apparel,Dress,Jade,22.35,29.65,0.34
+394,SKU-TOY-00394,Evolve RC Car C786,Toys & Games,RC Car,Evolve,6.94,8.8,3.65
+395,SKU-ELE-00395,Quanta Headphones Y550,Electronics,Headphones,Quanta,47.14,75.28,0.55
+396,SKU-APP-00396,Bravo Jacket Y295,Apparel,Jacket,Bravo,89.73,144.22,1.25
+397,SKU-TOY-00397,Iconic Board Game L580,Toys & Games,Board Game,Iconic,8.66,10.05,2.69
+398,SKU-AUT-00398,Wave Air Filter P275,Automotive,Air Filter,Wave,41.3,54.61,7.92
+399,SKU-FOO-00399,Kinetic Juice U524,Food & Beverage,Juice,Kinetic,1.64,2.15,10.48
+400,SKU-HEA-00400,Nexa Face Cream R822,Health & Beauty,Face Cream,Nexa,23.34,33.59,0.2
+401,SKU-HEA-00401,Helix Sunscreen B772,Health & Beauty,Sunscreen,Helix,3.02,4.53,0.95
+402,SKU-APP-00402,Nexa Sneakers F180,Apparel,Sneakers,Nexa,38.18,53.54,0.45
+403,SKU-HOM-00403,Xenon Air Fryer X965,Home Appliances,Air Fryer,Xenon,173.84,231.05,54.7
+404,SKU-APP-00404,Maxis Jacket J814,Apparel,Jacket,Maxis,7.0,10.63,1.46
+405,SKU-HOM-00405,Fusion Microwave L956,Home Appliances,Microwave,Fusion,50.98,83.21,6.99
+406,SKU-AUT-00406,Rapid Wipers A600,Automotive,Wipers,Rapid,13.77,18.35,1.13
+407,SKU-TOY-00407,Orbit Action Figure L545,Toys & Games,Action Figure,Orbit,77.42,93.92,1.69
+408,SKU-TOY-00408,Vivid Board Game E789,Toys & Games,Board Game,Vivid,8.68,12.93,3.57
+409,SKU-HOM-00409,Rapid Vacuum Cleaner D815,Home Appliances,Vacuum Cleaner,Rapid,37.76,55.02,31.02
+410,SKU-FUR-00410,Helix Bed Frame Q448,Furniture,Bed Frame,Helix,132.47,185.16,36.1
+411,SKU-AUT-00411,Dynamo Brake Pads W899,Automotive,Brake Pads,Dynamo,65.12,79.64,6.65
+412,SKU-FOO-00412,Pulse Rice A192,Food & Beverage,Rice,Pulse,7.1,10.45,8.53
+413,SKU-FUR-00413,Aurora Bookshelf A359,Furniture,Bookshelf,Aurora,154.74,211.18,60.87
+414,SKU-HOM-00414,Pulse Blender S164,Home Appliances,Blender,Pulse,78.83,105.7,43.72
+415,SKU-HEA-00415,Pulse Perfume K499,Health & Beauty,Perfume,Pulse,22.82,28.51,1.43
+416,SKU-TOY-00416,Ultra Board Game Q883,Toys & Games,Board Game,Ultra,8.03,11.89,0.52
+417,SKU-ELE-00417,Bravo Smart Watch E258,Electronics,Smart Watch,Bravo,110.86,171.88,5.25
+418,SKU-HEA-00418,Maxis Toothpaste K445,Health & Beauty,Toothpaste,Maxis,25.7,40.17,1.17
+419,SKU-HEA-00419,Xenon Vitamins W194,Health & Beauty,Vitamins,Xenon,3.35,4.5,0.18
+420,SKU-FOO-00420,Terra Snack Box L906,Food & Beverage,Snack Box,Terra,1.89,2.68,0.92
+421,SKU-HOM-00421,Lumen Water Heater N136,Home Appliances,Water Heater,Lumen,277.09,333.05,51.02
+422,SKU-IND-00422,Cyrus Hydraulic Pump Y254,Industrial,Hydraulic Pump,Cyrus,1102.63,1280.45,75.79
+423,SKU-IND-00423,Fusion Conveyor Belt B664,Industrial,Conveyor Belt,Fusion,21.4,29.6,119.29
+424,SKU-FUR-00424,Pulse Bookshelf G598,Furniture,Bookshelf,Pulse,181.4,284.99,28.78
+425,SKU-HOM-00425,Wave Blender I592,Home Appliances,Blender,Wave,119.73,190.9,21.28
+426,SKU-APP-00426,Helix Jeans O660,Apparel,Jeans,Helix,51.9,83.83,1.34
+427,SKU-TOY-00427,Dynamo RC Car A536,Toys & Games,RC Car,Dynamo,5.31,6.5,0.64
+428,SKU-AUT-00428,Dynamo Engine Oil H231,Automotive,Engine Oil,Dynamo,10.74,14.41,4.11
+429,SKU-HEA-00429,Rapid Shampoo G332,Health & Beauty,Shampoo,Rapid,12.42,18.99,1.29
+430,SKU-IND-00430,Pulse Welding Machine A470,Industrial,Welding Machine,Pulse,800.54,1128.65,76.37
+431,SKU-ELE-00431,Maxis Tablet I156,Electronics,Tablet,Maxis,63.48,98.28,0.52
+432,SKU-AUT-00432,Vivid Wipers M408,Automotive,Wipers,Vivid,44.33,52.53,6.71
+433,SKU-APP-00433,Ultra Backpack R154,Apparel,Backpack,Ultra,40.22,56.63,1.48
+434,SKU-IND-00434,Bravo Hydraulic Pump J887,Industrial,Hydraulic Pump,Bravo,39.79,46.01,61.67
+435,SKU-AUT-00435,Dynamo Tires N381,Automotive,Tires,Dynamo,193.76,239.51,1.58
+436,SKU-TOY-00436,Wave Doll C788,Toys & Games,Doll,Wave,28.25,35.96,3.89
+437,SKU-FOO-00437,Nexa Juice F419,Food & Beverage,Juice,Nexa,5.22,8.14,10.39
+438,SKU-HEA-00438,Nexa Face Cream N176,Health & Beauty,Face Cream,Nexa,21.46,30.34,0.68
+439,SKU-OFF-00439,Vivid Paper Ream T788,Office Supplies,Paper Ream,Vivid,1.13,1.33,9.06
+440,SKU-IND-00440,Aurora Bearing Set P521,Industrial,Bearing Set,Aurora,58.88,90.18,50.69
+441,SKU-AUT-00441,Jade Car Battery F731,Automotive,Car Battery,Jade,95.82,115.13,7.86
+442,SKU-HOM-00442,Bravo Microwave X350,Home Appliances,Microwave,Bravo,47.11,74.65,12.22
+443,SKU-HOM-00443,Iconic Refrigerator T493,Home Appliances,Refrigerator,Iconic,122.04,197.92,40.53
+444,SKU-HEA-00444,Quanta Sunscreen O348,Health & Beauty,Sunscreen,Quanta,2.29,3.73,1.44
+445,SKU-AUT-00445,Dynamo Tires F707,Automotive,Tires,Dynamo,52.66,80.85,14.13
+446,SKU-APP-00446,Rapid Jacket E689,Apparel,Jacket,Rapid,39.65,49.99,1.33
+447,SKU-FOO-00447,Maxis Snack Box Z581,Food & Beverage,Snack Box,Maxis,1.14,1.42,2.17
+448,SKU-HOM-00448,Lumen Vacuum Cleaner D438,Home Appliances,Vacuum Cleaner,Lumen,477.46,656.21,40.77
+449,SKU-TOY-00449,Aurora Board Game V871,Toys & Games,Board Game,Aurora,25.82,34.22,3.67
+450,SKU-FOO-00450,Evolve Rice E858,Food & Beverage,Rice,Evolve,4.74,7.05,4.72
+451,SKU-IND-00451,Aurora Hydraulic Pump M114,Industrial,Hydraulic Pump,Aurora,646.09,892.55,50.31
+452,SKU-HOM-00452,Jade Water Heater U229,Home Appliances,Water Heater,Jade,104.78,129.96,36.09
+453,SKU-HEA-00453,Solis Face Cream O238,Health & Beauty,Face Cream,Solis,4.99,7.34,1.07
+454,SKU-APP-00454,Cyrus T-Shirt S752,Apparel,T-Shirt,Cyrus,20.58,24.62,1.13
+455,SKU-HOM-00455,Vivid Vacuum Cleaner L620,Home Appliances,Vacuum Cleaner,Vivid,590.25,708.81,53.04
+456,SKU-OFF-00456,Kinetic Notebook Z310,Office Supplies,Notebook,Kinetic,2.15,2.64,9.23
+457,SKU-IND-00457,Ultra Bearing Set N686,Industrial,Bearing Set,Ultra,113.45,165.61,26.59
+458,SKU-FOO-00458,Xenon Pasta F146,Food & Beverage,Pasta,Xenon,2.15,3.47,11.93
+459,SKU-APP-00459,Aurora Sneakers E419,Apparel,Sneakers,Aurora,30.16,49.6,1.81
+460,SKU-TOY-00460,Fusion Doll T271,Toys & Games,Doll,Fusion,17.8,22.56,3.62
+461,SKU-IND-00461,Lumen Power Drill A598,Industrial,Power Drill,Lumen,33.29,41.45,10.22
+462,SKU-OFF-00462,Terra Printer Ink A797,Office Supplies,Printer Ink,Terra,3.58,5.52,4.28
+463,SKU-TOY-00463,Helix Board Game O760,Toys & Games,Board Game,Helix,10.5,13.06,2.43
+464,SKU-IND-00464,Solis Hydraulic Pump E148,Industrial,Hydraulic Pump,Solis,71.47,100.73,91.89
+465,SKU-FOO-00465,Evolve Olive Oil J747,Food & Beverage,Olive Oil,Evolve,2.05,2.75,1.58
+466,SKU-HEA-00466,Quanta Vitamins S940,Health & Beauty,Vitamins,Quanta,29.56,43.61,0.65
+467,SKU-OFF-00467,Nexa Marker Set N830,Office Supplies,Marker Set,Nexa,2.82,4.16,5.96
+468,SKU-AUT-00468,Terra Brake Pads Y968,Automotive,Brake Pads,Terra,186.62,303.17,9.64
+469,SKU-HEA-00469,Wave Sunscreen A475,Health & Beauty,Sunscreen,Wave,17.49,21.68,0.51
+470,SKU-FUR-00470,Maxis Cabinet X684,Furniture,Cabinet,Maxis,51.37,65.13,10.1
+471,SKU-FUR-00471,Helix Cabinet Z190,Furniture,Cabinet,Helix,152.42,195.11,69.42
+472,SKU-HOM-00472,Zephyr Refrigerator U116,Home Appliances,Refrigerator,Zephyr,285.1,399.71,7.61
+473,SKU-OFF-00473,Wave Notebook K818,Office Supplies,Notebook,Wave,68.19,100.32,4.38
+474,SKU-FUR-00474,Maxis Office Chair N828,Furniture,Office Chair,Maxis,74.97,111.21,51.61
+475,SKU-OFF-00475,Kinetic Stapler H740,Office Supplies,Stapler,Kinetic,66.08,98.82,7.1
+476,SKU-HEA-00476,Vivid Sunscreen P219,Health & Beauty,Sunscreen,Vivid,4.34,5.86,1.21
+477,SKU-ELE-00477,Terra Router J656,Electronics,Router,Terra,59.12,70.33,5.09
+478,SKU-IND-00478,Helix Welding Machine E759,Industrial,Welding Machine,Helix,24.98,31.81,26.35
+479,SKU-HEA-00479,Rapid Face Cream F441,Health & Beauty,Face Cream,Rapid,2.23,3.23,1.06
+480,SKU-AUT-00480,Orbit Engine Oil Z680,Automotive,Engine Oil,Orbit,222.45,308.39,12.97
+481,SKU-OFF-00481,Solis Paper Ream V698,Office Supplies,Paper Ream,Solis,18.69,27.61,1.88
+482,SKU-FOO-00482,Wave Tea Q538,Food & Beverage,Tea,Wave,2.0,2.3,3.46
+483,SKU-TOY-00483,Terra Doll Q978,Toys & Games,Doll,Terra,61.33,84.5,1.69
+484,SKU-FUR-00484,Fusion Bed Frame K896,Furniture,Bed Frame,Fusion,311.43,370.66,25.48
+485,SKU-HOM-00485,Iconic Vacuum Cleaner B322,Home Appliances,Vacuum Cleaner,Iconic,275.76,386.98,51.56
+486,SKU-AUT-00486,Aurora Wipers M557,Automotive,Wipers,Aurora,16.24,20.77,10.68
+487,SKU-FOO-00487,Zephyr Snack Box N974,Food & Beverage,Snack Box,Zephyr,2.87,3.45,2.83
+488,SKU-FOO-00488,Nexa Tea A237,Food & Beverage,Tea,Nexa,20.52,26.06,8.16
+489,SKU-ELE-00489,Lumen Monitor A613,Electronics,Monitor,Lumen,308.31,379.71,1.25
+490,SKU-HEA-00490,Jade Face Cream G361,Health & Beauty,Face Cream,Jade,9.94,12.96,1.43
+491,SKU-HOM-00491,Fusion Air Fryer W124,Home Appliances,Air Fryer,Fusion,243.06,318.74,34.04
+492,SKU-ELE-00492,Nexa Smart Watch F279,Electronics,Smart Watch,Nexa,153.24,234.3,5.12
+493,SKU-FOO-00493,Quanta Olive Oil K616,Food & Beverage,Olive Oil,Quanta,5.58,7.47,7.73
+494,SKU-HEA-00494,Xenon Perfume S644,Health & Beauty,Perfume,Xenon,8.05,9.59,0.52
+495,SKU-FOO-00495,Maxis Coffee Beans G692,Food & Beverage,Coffee Beans,Maxis,2.98,4.54,11.31
+496,SKU-APP-00496,Evolve Sneakers Z517,Apparel,Sneakers,Evolve,16.86,22.36,1.98
+497,SKU-ELE-00497,Rapid Monitor X491,Electronics,Monitor,Rapid,283.57,361.47,3.72
+498,SKU-FOO-00498,Kinetic Juice Z243,Food & Beverage,Juice,Kinetic,23.39,30.16,5.89
+499,SKU-FUR-00499,Cyrus Desk P472,Furniture,Desk,Cyrus,323.19,474.51,31.71
+500,SKU-ELE-00500,Lumen Headphones X883,Electronics,Headphones,Lumen,192.28,295.21,3.91
+501,SKU-APP-00501,Ultra Dress J870,Apparel,Dress,Ultra,31.09,47.37,1.92
+502,SKU-FOO-00502,Quanta Pasta D926,Food & Beverage,Pasta,Quanta,3.54,5.38,10.99
+503,SKU-IND-00503,Aurora Power Drill F240,Industrial,Power Drill,Aurora,410.01,600.87,108.71
+504,SKU-APP-00504,Vivid Jeans T731,Apparel,Jeans,Vivid,36.08,45.02,0.43
+505,SKU-OFF-00505,Xenon Paper Ream U563,Office Supplies,Paper Ream,Xenon,16.3,22.64,2.83
+506,SKU-TOY-00506,Solis Puzzle H944,Toys & Games,Puzzle,Solis,38.6,59.23,2.42
+507,SKU-IND-00507,Lumen Hydraulic Pump N736,Industrial,Hydraulic Pump,Lumen,49.77,64.25,88.69
+508,SKU-APP-00508,Solis Sneakers O699,Apparel,Sneakers,Solis,78.5,107.52,0.38
+509,SKU-AUT-00509,Rapid Brake Pads U616,Automotive,Brake Pads,Rapid,48.85,68.14,8.76
+510,SKU-HEA-00510,Iconic Vitamins Q221,Health & Beauty,Vitamins,Iconic,5.21,7.07,1.35
+511,SKU-AUT-00511,Bravo Engine Oil E417,Automotive,Engine Oil,Bravo,34.8,42.34,11.53
+512,SKU-HOM-00512,Quanta Microwave C756,Home Appliances,Microwave,Quanta,69.72,96.64,13.6
+513,SKU-FOO-00513,Jade Tea F203,Food & Beverage,Tea,Jade,21.5,28.22,6.92
+514,SKU-IND-00514,Evolve Power Drill F474,Industrial,Power Drill,Evolve,105.32,124.69,83.95
+515,SKU-APP-00515,Terra Backpack H992,Apparel,Backpack,Terra,72.17,88.08,1.29
+516,SKU-APP-00516,Evolve T-Shirt N614,Apparel,T-Shirt,Evolve,6.56,9.69,0.62
+517,SKU-AUT-00517,Wave Wipers I209,Automotive,Wipers,Wave,9.02,11.02,2.23
+518,SKU-FOO-00518,Solis Juice F370,Food & Beverage,Juice,Solis,2.6,3.18,7.87
+519,SKU-TOY-00519,Fusion Puzzle Y305,Toys & Games,Puzzle,Fusion,7.81,10.98,3.27
+520,SKU-AUT-00520,Solis Car Battery L746,Automotive,Car Battery,Solis,114.28,162.27,8.27
+521,SKU-FUR-00521,Lumen Bed Frame R483,Furniture,Bed Frame,Lumen,129.23,202.15,25.01
+522,SKU-HOM-00522,Iconic Blender W690,Home Appliances,Blender,Iconic,66.74,98.87,15.4
+523,SKU-FOO-00523,Quanta Pasta D377,Food & Beverage,Pasta,Quanta,2.3,3.24,8.93
+524,SKU-APP-00524,Fusion Sneakers U974,Apparel,Sneakers,Fusion,11.73,14.05,0.25
+525,SKU-HOM-00525,Xenon Refrigerator D937,Home Appliances,Refrigerator,Xenon,466.21,690.81,27.29
+526,SKU-AUT-00526,Xenon Engine Oil B801,Automotive,Engine Oil,Xenon,11.26,14.32,12.97
+527,SKU-TOY-00527,Quanta Action Figure I827,Toys & Games,Action Figure,Quanta,66.76,88.24,2.92
+528,SKU-OFF-00528,Evolve Shredder V170,Office Supplies,Shredder,Evolve,2.8,4.04,8.45
+529,SKU-AUT-00529,Zephyr Wipers I257,Automotive,Wipers,Zephyr,32.38,42.75,13.72
+530,SKU-HOM-00530,Orbit Vacuum Cleaner D310,Home Appliances,Vacuum Cleaner,Orbit,47.83,77.22,48.28
+531,SKU-OFF-00531,Nexa Printer Ink J824,Office Supplies,Printer Ink,Nexa,7.62,11.88,5.69
+532,SKU-FOO-00532,Rapid Snack Box Q393,Food & Beverage,Snack Box,Rapid,4.37,5.3,1.74
+533,SKU-FUR-00533,Jade Bed Frame D323,Furniture,Bed Frame,Jade,196.18,252.06,58.07
+534,SKU-ELE-00534,Lumen Tablet H521,Electronics,Tablet,Lumen,47.07,61.91,0.29
+535,SKU-AUT-00535,Nexa Air Filter C992,Automotive,Air Filter,Nexa,100.49,144.92,7.82
+536,SKU-HEA-00536,Iconic Vitamins A342,Health & Beauty,Vitamins,Iconic,22.4,34.5,1.19
+537,SKU-FUR-00537,Solis Bed Frame D341,Furniture,Bed Frame,Solis,171.24,197.16,21.94
+538,SKU-AUT-00538,Vivid Air Filter G938,Automotive,Air Filter,Vivid,9.47,13.54,9.73
+539,SKU-HOM-00539,Nexa Vacuum Cleaner C365,Home Appliances,Vacuum Cleaner,Nexa,47.63,69.91,14.51
+540,SKU-TOY-00540,Xenon Board Game C696,Toys & Games,Board Game,Xenon,67.59,87.63,2.92
+541,SKU-FOO-00541,Vivid Olive Oil G792,Food & Beverage,Olive Oil,Vivid,1.95,2.6,11.46
+542,SKU-OFF-00542,Helix Marker Set Q158,Office Supplies,Marker Set,Helix,14.24,17.74,2.85
+543,SKU-AUT-00543,Nexa Tires R422,Automotive,Tires,Nexa,143.39,227.39,2.82
+544,SKU-IND-00544,Dynamo Hydraulic Pump H240,Industrial,Hydraulic Pump,Dynamo,77.14,108.6,6.89
+545,SKU-OFF-00545,Pulse Printer Ink D311,Office Supplies,Printer Ink,Pulse,107.81,139.53,5.06
+546,SKU-TOY-00546,Orbit Action Figure N261,Toys & Games,Action Figure,Orbit,11.59,18.71,1.05
+547,SKU-FOO-00547,Maxis Pasta L725,Food & Beverage,Pasta,Maxis,13.01,15.23,7.6
+548,SKU-IND-00548,Zephyr Safety Helmet G666,Industrial,Safety Helmet,Zephyr,28.41,36.17,111.96
+549,SKU-FUR-00549,Fusion Office Chair C905,Furniture,Office Chair,Fusion,352.05,504.75,48.71
+550,SKU-OFF-00550,Gravity Marker Set C338,Office Supplies,Marker Set,Gravity,2.23,3.25,8.84
+551,SKU-IND-00551,Kinetic Conveyor Belt D763,Industrial,Conveyor Belt,Kinetic,31.86,51.0,15.04
+552,SKU-ELE-00552,Terra Camera F261,Electronics,Camera,Terra,123.66,166.74,4.84
+553,SKU-HEA-00553,Solis Vitamins I515,Health & Beauty,Vitamins,Solis,2.85,4.26,0.55
+554,SKU-OFF-00554,Wave Notebook Z902,Office Supplies,Notebook,Wave,70.41,92.32,2.44
+555,SKU-HEA-00555,Terra Perfume S278,Health & Beauty,Perfume,Terra,33.33,42.96,0.27
+556,SKU-AUT-00556,Orbit Wipers K414,Automotive,Wipers,Orbit,20.28,29.25,11.96
+557,SKU-ELE-00557,Aurora Laptop S204,Electronics,Laptop,Aurora,462.06,751.85,1.06
+558,SKU-OFF-00558,Terra Printer Ink I556,Office Supplies,Printer Ink,Terra,33.68,44.01,0.32
+559,SKU-FUR-00559,Zephyr Bookshelf H101,Furniture,Bookshelf,Zephyr,500.63,614.02,75.26
+560,SKU-HEA-00560,Ultra Vitamins D930,Health & Beauty,Vitamins,Ultra,5.25,7.7,0.88
+561,SKU-HEA-00561,Evolve Face Cream F613,Health & Beauty,Face Cream,Evolve,50.44,60.48,0.99
+562,SKU-ELE-00562,Bravo Camera J525,Electronics,Camera,Bravo,256.75,366.05,3.52
+563,SKU-AUT-00563,Dynamo Air Filter Z491,Automotive,Air Filter,Dynamo,20.67,27.11,5.18
+564,SKU-IND-00564,Iconic Conveyor Belt C845,Industrial,Conveyor Belt,Iconic,291.06,399.61,73.33
+565,SKU-FUR-00565,Orbit Sofa M494,Furniture,Sofa,Orbit,97.07,136.67,26.89
+566,SKU-OFF-00566,Jade Shredder F923,Office Supplies,Shredder,Jade,1.91,2.43,5.39
+567,SKU-OFF-00567,Dynamo Printer Ink G212,Office Supplies,Printer Ink,Dynamo,7.67,12.53,8.47
+568,SKU-HOM-00568,Pulse Blender R757,Home Appliances,Blender,Pulse,363.39,557.44,30.35
+569,SKU-OFF-00569,Helix Notebook F389,Office Supplies,Notebook,Helix,1.32,1.77,0.71
+570,SKU-APP-00570,Ultra T-Shirt W702,Apparel,T-Shirt,Ultra,57.38,66.97,0.33
+571,SKU-OFF-00571,Evolve Stapler D332,Office Supplies,Stapler,Evolve,56.61,71.23,0.87
+572,SKU-IND-00572,Pulse Bearing Set U130,Industrial,Bearing Set,Pulse,84.48,126.41,109.45
+573,SKU-HOM-00573,Solis Vacuum Cleaner F241,Home Appliances,Vacuum Cleaner,Solis,133.58,181.93,24.62
+574,SKU-HOM-00574,Ultra Washing Machine K854,Home Appliances,Washing Machine,Ultra,99.15,158.01,22.57
+575,SKU-AUT-00575,Fusion Tires K960,Automotive,Tires,Fusion,90.26,139.31,7.5
+576,SKU-FOO-00576,Orbit Snack Box P459,Food & Beverage,Snack Box,Orbit,6.58,8.96,9.21
+577,SKU-OFF-00577,Xenon Stapler P776,Office Supplies,Stapler,Xenon,140.43,179.8,2.4
+578,SKU-HOM-00578,Rapid Blender E901,Home Appliances,Blender,Rapid,123.44,165.95,13.84
+579,SKU-IND-00579,Ultra Welding Machine P562,Industrial,Welding Machine,Ultra,24.56,29.57,9.02
+580,SKU-APP-00580,Lumen T-Shirt H415,Apparel,T-Shirt,Lumen,10.14,13.43,0.21
+581,SKU-IND-00581,Xenon Power Drill D849,Industrial,Power Drill,Xenon,15.3,22.92,111.82
+582,SKU-AUT-00582,Cyrus Wipers H196,Automotive,Wipers,Cyrus,241.25,395.12,7.29
+583,SKU-OFF-00583,Kinetic Marker Set Y710,Office Supplies,Marker Set,Kinetic,49.49,72.36,6.15
+584,SKU-TOY-00584,Bravo RC Car A444,Toys & Games,RC Car,Bravo,4.9,7.67,0.75
+585,SKU-AUT-00585,Maxis Engine Oil G162,Automotive,Engine Oil,Maxis,8.74,12.53,6.32
+586,SKU-HEA-00586,Helix Face Cream Y414,Health & Beauty,Face Cream,Helix,49.17,71.08,1.45
+587,SKU-ELE-00587,Aurora Smartphone U108,Electronics,Smartphone,Aurora,525.81,620.11,3.83
+588,SKU-AUT-00588,Dynamo Wipers S879,Automotive,Wipers,Dynamo,53.58,68.14,0.74
+589,SKU-ELE-00589,Solis Headphones U465,Electronics,Headphones,Solis,379.79,625.46,2.74
+590,SKU-FOO-00590,Helix Tea L420,Food & Beverage,Tea,Helix,7.48,10.42,8.88
+591,SKU-ELE-00591,Terra Laptop W917,Electronics,Laptop,Terra,526.9,698.41,4.2
+592,SKU-FOO-00592,Terra Rice R257,Food & Beverage,Rice,Terra,3.51,4.98,1.16
+593,SKU-HEA-00593,Fusion Toothpaste J106,Health & Beauty,Toothpaste,Fusion,2.25,2.78,0.68
+594,SKU-IND-00594,Jade Power Drill I819,Industrial,Power Drill,Jade,392.87,620.35,41.6
+595,SKU-AUT-00595,Solis Brake Pads K554,Automotive,Brake Pads,Solis,11.19,13.17,1.44
+596,SKU-HOM-00596,Ultra Air Fryer X665,Home Appliances,Air Fryer,Ultra,166.29,270.0,33.2
+597,SKU-IND-00597,Lumen Safety Helmet O997,Industrial,Safety Helmet,Lumen,81.16,131.14,112.14
+598,SKU-HOM-00598,Pulse Water Heater N687,Home Appliances,Water Heater,Pulse,223.94,320.52,9.21
+599,SKU-FOO-00599,Dynamo Snack Box I144,Food & Beverage,Snack Box,Dynamo,5.24,6.33,11.2
+600,SKU-HOM-00600,Fusion Microwave V106,Home Appliances,Microwave,Fusion,76.81,120.05,42.64
+601,SKU-OFF-00601,Rapid Printer Ink T242,Office Supplies,Printer Ink,Rapid,7.56,8.8,9.64
+602,SKU-HOM-00602,Maxis Vacuum Cleaner L457,Home Appliances,Vacuum Cleaner,Maxis,65.59,99.61,47.05
+603,SKU-FUR-00603,Helix Bed Frame X530,Furniture,Bed Frame,Helix,378.7,514.07,39.79
+604,SKU-OFF-00604,Aurora Marker Set D237,Office Supplies,Marker Set,Aurora,1.12,1.4,8.29
+605,SKU-ELE-00605,Cyrus Tablet Q726,Electronics,Tablet,Cyrus,70.99,92.4,2.91
+606,SKU-FUR-00606,Zephyr Dining Table N216,Furniture,Dining Table,Zephyr,75.05,118.2,41.85
+607,SKU-ELE-00607,Bravo Smartphone N683,Electronics,Smartphone,Bravo,120.25,152.39,5.76
+608,SKU-FOO-00608,Xenon Coffee Beans A342,Food & Beverage,Coffee Beans,Xenon,1.7,2.11,7.35
+609,SKU-AUT-00609,Solis Engine Oil C312,Automotive,Engine Oil,Solis,10.4,15.88,4.59
+610,SKU-TOY-00610,Evolve Doll Z882,Toys & Games,Doll,Evolve,9.61,12.85,2.1
+611,SKU-FOO-00611,Lumen Snack Box A575,Food & Beverage,Snack Box,Lumen,3.73,5.84,0.5
+612,SKU-HEA-00612,Gravity Toothpaste O901,Health & Beauty,Toothpaste,Gravity,8.14,11.07,0.65
+613,SKU-ELE-00613,Rapid Smart Watch X691,Electronics,Smart Watch,Rapid,384.37,509.5,3.06
+614,SKU-APP-00614,Ultra Jeans J649,Apparel,Jeans,Ultra,8.6,13.92,1.24
+615,SKU-AUT-00615,Quanta Tires O843,Automotive,Tires,Quanta,79.65,117.68,3.61
+616,SKU-HEA-00616,Iconic Shampoo C760,Health & Beauty,Shampoo,Iconic,17.46,24.86,0.35
+617,SKU-IND-00617,Solis Welding Machine O921,Industrial,Welding Machine,Solis,285.88,422.09,90.12
+618,SKU-FUR-00618,Cyrus Bed Frame Q217,Furniture,Bed Frame,Cyrus,263.72,334.39,16.25
+619,SKU-APP-00619,Zephyr Jeans Z246,Apparel,Jeans,Zephyr,7.88,10.23,1.86
+620,SKU-TOY-00620,Fusion Building Blocks O111,Toys & Games,Building Blocks,Fusion,54.03,65.88,3.09
+621,SKU-HEA-00621,Aurora Perfume G507,Health & Beauty,Perfume,Aurora,21.92,25.39,0.75
+622,SKU-AUT-00622,Bravo Engine Oil W302,Automotive,Engine Oil,Bravo,175.62,233.68,2.9
+623,SKU-HEA-00623,Quanta Perfume F225,Health & Beauty,Perfume,Quanta,11.36,16.65,0.71
+624,SKU-FOO-00624,Terra Tea R299,Food & Beverage,Tea,Terra,2.64,3.85,10.77
+625,SKU-FUR-00625,Vivid Bed Frame Y400,Furniture,Bed Frame,Vivid,186.52,305.6,30.32
+626,SKU-HEA-00626,Helix Face Cream G974,Health & Beauty,Face Cream,Helix,2.03,3.34,0.44
+627,SKU-AUT-00627,Evolve Tires X621,Automotive,Tires,Evolve,223.31,320.21,15.0
+628,SKU-IND-00628,Nexa Hydraulic Pump Y330,Industrial,Hydraulic Pump,Nexa,264.55,329.93,2.31
+629,SKU-IND-00629,Iconic Welding Machine F520,Industrial,Welding Machine,Iconic,142.67,211.01,79.04
+630,SKU-OFF-00630,Zephyr Shredder A948,Office Supplies,Shredder,Zephyr,86.74,126.65,2.14
+631,SKU-OFF-00631,Pulse Printer Ink D527,Office Supplies,Printer Ink,Pulse,4.91,7.05,6.85
+632,SKU-ELE-00632,Terra Smart Watch Y398,Electronics,Smart Watch,Terra,68.98,89.55,2.07
+633,SKU-FOO-00633,Pulse Snack Box B659,Food & Beverage,Snack Box,Pulse,1.88,2.19,9.45
+634,SKU-TOY-00634,Quanta Board Game Z159,Toys & Games,Board Game,Quanta,20.83,33.41,1.17
+635,SKU-IND-00635,Rapid Hydraulic Pump G225,Industrial,Hydraulic Pump,Rapid,108.28,149.22,38.94
+636,SKU-FOO-00636,Jade Pasta F137,Food & Beverage,Pasta,Jade,1.44,2.28,8.56
+637,SKU-OFF-00637,Helix Paper Ream C922,Office Supplies,Paper Ream,Helix,1.36,1.61,1.66
+638,SKU-OFF-00638,Ultra Notebook H763,Office Supplies,Notebook,Ultra,50.61,73.75,7.26
+639,SKU-OFF-00639,Solis Shredder T405,Office Supplies,Shredder,Solis,40.05,62.16,5.61
+640,SKU-FUR-00640,Cyrus Desk W121,Furniture,Desk,Cyrus,141.64,169.38,20.19
+641,SKU-ELE-00641,Kinetic Tablet Z381,Electronics,Tablet,Kinetic,130.15,165.35,2.54
+642,SKU-APP-00642,Quanta T-Shirt R132,Apparel,T-Shirt,Quanta,31.29,36.41,1.12
+643,SKU-IND-00643,Jade Conveyor Belt Y270,Industrial,Conveyor Belt,Jade,800.06,1002.36,89.37
+644,SKU-IND-00644,Vivid Welding Machine S121,Industrial,Welding Machine,Vivid,46.79,64.35,27.36
+645,SKU-APP-00645,Gravity Sneakers L408,Apparel,Sneakers,Gravity,10.24,16.12,1.09
+646,SKU-TOY-00646,Terra Doll C158,Toys & Games,Doll,Terra,52.07,80.01,0.6
+647,SKU-AUT-00647,Aurora Wipers D102,Automotive,Wipers,Aurora,30.75,44.75,3.57
+648,SKU-FUR-00648,Lumen Desk B539,Furniture,Desk,Lumen,122.59,182.44,13.41
+649,SKU-HEA-00649,Iconic Face Cream P380,Health & Beauty,Face Cream,Iconic,2.97,3.71,1.23
+650,SKU-FUR-00650,Solis Office Chair C891,Furniture,Office Chair,Solis,98.55,124.91,29.54
+651,SKU-TOY-00651,Wave RC Car G208,Toys & Games,RC Car,Wave,17.47,23.46,3.2
+652,SKU-TOY-00652,Nexa Building Blocks D534,Toys & Games,Building Blocks,Nexa,13.22,17.47,3.9
+653,SKU-FUR-00653,Jade Desk Z550,Furniture,Desk,Jade,544.42,744.69,33.07
+654,SKU-AUT-00654,Ultra Tires H393,Automotive,Tires,Ultra,44.5,58.53,4.87
+655,SKU-AUT-00655,Dynamo Brake Pads U205,Automotive,Brake Pads,Dynamo,11.48,15.49,12.61
+656,SKU-FOO-00656,Helix Coffee Beans K155,Food & Beverage,Coffee Beans,Helix,21.16,25.68,10.68
+657,SKU-HOM-00657,Nexa Microwave Q832,Home Appliances,Microwave,Nexa,96.23,136.39,13.83
+658,SKU-HEA-00658,Dynamo Perfume H149,Health & Beauty,Perfume,Dynamo,29.99,43.24,0.77
+659,SKU-HOM-00659,Kinetic Air Fryer O867,Home Appliances,Air Fryer,Kinetic,69.27,103.13,6.45
+660,SKU-FUR-00660,Solis Office Chair V755,Furniture,Office Chair,Solis,72.09,91.75,54.86
+661,SKU-IND-00661,Xenon Power Drill D414,Industrial,Power Drill,Xenon,105.95,153.24,55.0
+662,SKU-AUT-00662,Solis Tires V337,Automotive,Tires,Solis,210.14,278.43,2.87
+663,SKU-TOY-00663,Vivid Building Blocks K192,Toys & Games,Building Blocks,Vivid,52.65,69.68,0.77
+664,SKU-HEA-00664,Zephyr Shampoo Z460,Health & Beauty,Shampoo,Zephyr,3.79,5.84,1.25
+665,SKU-FUR-00665,Pulse Bed Frame L891,Furniture,Bed Frame,Pulse,95.96,130.79,14.86
+666,SKU-IND-00666,Ultra Bearing Set A214,Industrial,Bearing Set,Ultra,57.69,82.68,28.63
+667,SKU-HOM-00667,Dynamo Vacuum Cleaner D489,Home Appliances,Vacuum Cleaner,Dynamo,352.25,452.95,49.47
+668,SKU-APP-00668,Jade Dress D864,Apparel,Dress,Jade,43.77,61.5,0.56
+669,SKU-FUR-00669,Orbit Bookshelf C873,Furniture,Bookshelf,Orbit,140.58,202.0,51.91
+670,SKU-OFF-00670,Nexa Paper Ream P761,Office Supplies,Paper Ream,Nexa,3.07,3.93,1.1
+671,SKU-HEA-00671,Dynamo Shampoo P430,Health & Beauty,Shampoo,Dynamo,15.23,23.5,0.2
+672,SKU-FUR-00672,Wave Cabinet B911,Furniture,Cabinet,Wave,207.26,285.78,61.83
+673,SKU-FUR-00673,Wave Desk X237,Furniture,Desk,Wave,65.5,107.35,19.87
+674,SKU-FUR-00674,Cyrus Bed Frame C392,Furniture,Bed Frame,Cyrus,368.37,604.9,29.38
+675,SKU-FUR-00675,Xenon Desk E854,Furniture,Desk,Xenon,353.81,417.62,77.68
+676,SKU-TOY-00676,Cyrus Action Figure G742,Toys & Games,Action Figure,Cyrus,17.07,28.1,3.44
+677,SKU-HOM-00677,Quanta Refrigerator B958,Home Appliances,Refrigerator,Quanta,365.86,489.61,40.77
+678,SKU-IND-00678,Kinetic Welding Machine C397,Industrial,Welding Machine,Kinetic,28.12,37.77,104.65
+679,SKU-ELE-00679,Jade Smartphone Y844,Electronics,Smartphone,Jade,333.01,473.02,5.01
+680,SKU-FOO-00680,Zephyr Olive Oil I347,Food & Beverage,Olive Oil,Zephyr,15.81,20.39,4.77
+681,SKU-TOY-00681,Fusion Puzzle Q295,Toys & Games,Puzzle,Fusion,16.68,27.24,1.99
+682,SKU-IND-00682,Quanta Bearing Set N677,Industrial,Bearing Set,Quanta,145.29,170.14,79.24
+683,SKU-OFF-00683,Orbit Paper Ream U494,Office Supplies,Paper Ream,Orbit,10.38,13.62,8.26
+684,SKU-APP-00684,Pulse Sneakers F300,Apparel,Sneakers,Pulse,29.83,35.09,0.96
+685,SKU-HOM-00685,Terra Washing Machine R639,Home Appliances,Washing Machine,Terra,31.1,50.83,24.93
+686,SKU-FUR-00686,Wave Cabinet Z883,Furniture,Cabinet,Wave,167.56,244.17,58.1
+687,SKU-HOM-00687,Ultra Refrigerator C397,Home Appliances,Refrigerator,Ultra,686.27,792.26,43.08
+688,SKU-AUT-00688,Nexa Tires H652,Automotive,Tires,Nexa,119.61,196.91,1.18
+689,SKU-OFF-00689,Orbit Marker Set H328,Office Supplies,Marker Set,Orbit,87.69,120.88,1.73
+690,SKU-OFF-00690,Xenon Printer Ink B106,Office Supplies,Printer Ink,Xenon,1.65,2.51,2.23
+691,SKU-HOM-00691,Helix Washing Machine W144,Home Appliances,Washing Machine,Helix,46.8,56.88,44.86
+692,SKU-FOO-00692,Dynamo Pasta T784,Food & Beverage,Pasta,Dynamo,2.1,3.24,7.67
+693,SKU-OFF-00693,Zephyr Paper Ream L175,Office Supplies,Paper Ream,Zephyr,54.27,69.63,1.77
+694,SKU-APP-00694,Iconic Dress Z646,Apparel,Dress,Iconic,8.55,13.9,1.07
+695,SKU-APP-00695,Xenon T-Shirt P986,Apparel,T-Shirt,Xenon,24.89,40.22,0.94
+696,SKU-IND-00696,Helix Hydraulic Pump B739,Industrial,Hydraulic Pump,Helix,189.61,305.94,75.38
+697,SKU-HEA-00697,Iconic Sunscreen Y880,Health & Beauty,Sunscreen,Iconic,4.06,5.07,0.87
+698,SKU-TOY-00698,Maxis Doll C259,Toys & Games,Doll,Maxis,8.89,12.61,0.44
+699,SKU-FUR-00699,Dynamo Desk A987,Furniture,Desk,Dynamo,300.86,394.95,20.13
+700,SKU-HEA-00700,Iconic Toothpaste O718,Health & Beauty,Toothpaste,Iconic,7.61,9.96,0.11
+701,SKU-HOM-00701,Nexa Refrigerator F697,Home Appliances,Refrigerator,Nexa,54.63,71.88,11.29
+702,SKU-APP-00702,Gravity Sneakers P185,Apparel,Sneakers,Gravity,5.97,9.46,0.75
+703,SKU-AUT-00703,Terra Tires D954,Automotive,Tires,Terra,114.48,135.18,7.24
+704,SKU-TOY-00704,Dynamo Puzzle N446,Toys & Games,Puzzle,Dynamo,5.81,8.43,3.92
+705,SKU-HOM-00705,Gravity Vacuum Cleaner D228,Home Appliances,Vacuum Cleaner,Gravity,226.22,288.74,37.57
+706,SKU-ELE-00706,Nexa Monitor C862,Electronics,Monitor,Nexa,83.77,124.88,4.54
+707,SKU-FUR-00707,Vivid Cabinet L802,Furniture,Cabinet,Vivid,264.64,306.78,73.17
+708,SKU-AUT-00708,Kinetic Engine Oil C826,Automotive,Engine Oil,Kinetic,35.67,54.54,12.59
+709,SKU-AUT-00709,Jade Tires J674,Automotive,Tires,Jade,207.27,304.08,8.38
+710,SKU-HEA-00710,Pulse Vitamins F872,Health & Beauty,Vitamins,Pulse,22.61,32.26,1.33
+711,SKU-AUT-00711,Terra Car Battery E598,Automotive,Car Battery,Terra,58.22,85.03,8.09
+712,SKU-OFF-00712,Cyrus Marker Set K482,Office Supplies,Marker Set,Cyrus,4.22,6.68,9.4
+713,SKU-IND-00713,Bravo Safety Helmet K459,Industrial,Safety Helmet,Bravo,110.72,156.09,33.65
+714,SKU-APP-00714,Quanta Jeans W402,Apparel,Jeans,Quanta,30.16,44.67,0.88
+715,SKU-AUT-00715,Wave Car Battery Y763,Automotive,Car Battery,Wave,31.18,45.31,8.08
+716,SKU-OFF-00716,Jade Marker Set I634,Office Supplies,Marker Set,Jade,8.81,13.84,1.69
+717,SKU-FUR-00717,Gravity Bookshelf Z559,Furniture,Bookshelf,Gravity,300.24,346.87,68.44
+718,SKU-IND-00718,Orbit Conveyor Belt Y495,Industrial,Conveyor Belt,Orbit,42.21,51.7,75.78
+719,SKU-AUT-00719,Quanta Wipers G327,Automotive,Wipers,Quanta,71.79,91.5,9.73
+720,SKU-ELE-00720,Jade Router S793,Electronics,Router,Jade,68.48,99.5,2.04
+721,SKU-APP-00721,Aurora T-Shirt O515,Apparel,T-Shirt,Aurora,27.81,32.29,0.26
+722,SKU-APP-00722,Pulse T-Shirt Y722,Apparel,T-Shirt,Pulse,80.79,96.57,1.47
+723,SKU-APP-00723,Terra Dress N884,Apparel,Dress,Terra,81.77,114.55,1.71
+724,SKU-FUR-00724,Ultra Office Chair A860,Furniture,Office Chair,Ultra,594.87,954.8,29.89
+725,SKU-HOM-00725,Terra Refrigerator R171,Home Appliances,Refrigerator,Terra,88.14,130.39,25.91
+726,SKU-ELE-00726,Fusion Camera J763,Electronics,Camera,Fusion,45.64,62.24,5.07
+727,SKU-APP-00727,Xenon Dress U881,Apparel,Dress,Xenon,14.65,20.55,1.12
+728,SKU-HOM-00728,Orbit Blender J206,Home Appliances,Blender,Orbit,289.94,422.01,45.27
+729,SKU-APP-00729,Xenon Dress F624,Apparel,Dress,Xenon,63.04,80.22,1.09
+730,SKU-FOO-00730,Gravity Juice D920,Food & Beverage,Juice,Gravity,3.2,3.98,7.06
+731,SKU-TOY-00731,Helix Board Game N229,Toys & Games,Board Game,Helix,50.83,69.96,3.36
+732,SKU-FOO-00732,Lumen Snack Box J843,Food & Beverage,Snack Box,Lumen,1.66,2.01,7.53
+733,SKU-AUT-00733,Ultra Brake Pads X685,Automotive,Brake Pads,Ultra,27.51,37.49,13.47
+734,SKU-OFF-00734,Nexa Stapler E801,Office Supplies,Stapler,Nexa,4.0,4.95,2.79
+735,SKU-ELE-00735,Evolve Tablet S570,Electronics,Tablet,Evolve,73.45,102.04,2.24
+736,SKU-HEA-00736,Orbit Shampoo X238,Health & Beauty,Shampoo,Orbit,58.18,93.08,1.07
+737,SKU-HEA-00737,Nexa Sunscreen X359,Health & Beauty,Sunscreen,Nexa,40.81,56.71,0.34
+738,SKU-IND-00738,Jade Welding Machine Q399,Industrial,Welding Machine,Jade,67.89,91.34,67.53
+739,SKU-ELE-00739,Orbit Monitor Q897,Electronics,Monitor,Orbit,195.05,229.57,5.63
+740,SKU-FOO-00740,Lumen Pasta K112,Food & Beverage,Pasta,Lumen,4.34,5.78,8.26
+741,SKU-HOM-00741,Jade Blender C366,Home Appliances,Blender,Jade,699.37,1023.91,5.84
+742,SKU-HEA-00742,Iconic Vitamins L486,Health & Beauty,Vitamins,Iconic,51.14,78.13,0.81
+743,SKU-AUT-00743,Terra Wipers R271,Automotive,Wipers,Terra,46.92,63.29,5.21
+744,SKU-IND-00744,Orbit Safety Helmet X529,Industrial,Safety Helmet,Orbit,616.97,880.28,70.3
+745,SKU-HEA-00745,Kinetic Toothpaste K920,Health & Beauty,Toothpaste,Kinetic,36.26,47.63,1.07
+746,SKU-OFF-00746,Terra Marker Set A152,Office Supplies,Marker Set,Terra,5.57,8.37,2.15
+747,SKU-FOO-00747,Terra Snack Box V293,Food & Beverage,Snack Box,Terra,1.08,1.75,5.63
+748,SKU-TOY-00748,Terra Board Game J665,Toys & Games,Board Game,Terra,57.73,90.45,3.9
+749,SKU-OFF-00749,Fusion Printer Ink K634,Office Supplies,Printer Ink,Fusion,43.27,53.15,9.31
+750,SKU-FUR-00750,Vivid Bed Frame T479,Furniture,Bed Frame,Vivid,166.34,261.2,77.0
+751,SKU-FOO-00751,Bravo Juice F380,Food & Beverage,Juice,Bravo,13.17,20.54,3.9
+752,SKU-ELE-00752,Kinetic Tablet L948,Electronics,Tablet,Kinetic,67.91,105.89,1.71
+753,SKU-IND-00753,Helix Bearing Set X381,Industrial,Bearing Set,Helix,207.59,266.49,97.06
+754,SKU-IND-00754,Zephyr Safety Helmet V853,Industrial,Safety Helmet,Zephyr,78.35,92.4,119.81
+755,SKU-AUT-00755,Cyrus Engine Oil S998,Automotive,Engine Oil,Cyrus,8.02,11.46,5.76
+756,SKU-APP-00756,Gravity Dress J519,Apparel,Dress,Gravity,11.07,15.24,0.65
+757,SKU-FUR-00757,Zephyr Bed Frame S857,Furniture,Bed Frame,Zephyr,268.99,341.88,10.82
+758,SKU-OFF-00758,Vivid Stapler E903,Office Supplies,Stapler,Vivid,134.94,219.94,6.37
+759,SKU-APP-00759,Orbit Jacket U921,Apparel,Jacket,Orbit,79.1,122.46,0.95
+760,SKU-APP-00760,Helix Sneakers C324,Apparel,Sneakers,Helix,14.45,22.54,1.46
+761,SKU-FUR-00761,Wave Bed Frame J923,Furniture,Bed Frame,Wave,199.94,266.96,45.56
+762,SKU-IND-00762,Solis Hydraulic Pump G314,Industrial,Hydraulic Pump,Solis,406.88,547.46,83.17
+763,SKU-OFF-00763,Solis Stapler P252,Office Supplies,Stapler,Solis,31.18,50.07,3.12
+764,SKU-OFF-00764,Helix Stapler O875,Office Supplies,Stapler,Helix,15.89,24.85,7.26
+765,SKU-TOY-00765,Iconic Doll H230,Toys & Games,Doll,Iconic,78.17,126.51,1.83
+766,SKU-ELE-00766,Helix Router D456,Electronics,Router,Helix,540.37,878.34,5.02
+767,SKU-HOM-00767,Zephyr Refrigerator N445,Home Appliances,Refrigerator,Zephyr,98.18,118.94,8.14
+768,SKU-HOM-00768,Fusion Blender H637,Home Appliances,Blender,Fusion,322.32,432.18,27.34
+769,SKU-APP-00769,Lumen Backpack T152,Apparel,Backpack,Lumen,32.32,49.19,1.49
+770,SKU-AUT-00770,Maxis Air Filter Z343,Automotive,Air Filter,Maxis,56.29,77.72,6.23
+771,SKU-HEA-00771,Rapid Perfume L720,Health & Beauty,Perfume,Rapid,14.35,20.09,0.25
+772,SKU-APP-00772,Jade Sneakers B175,Apparel,Sneakers,Jade,38.58,50.79,0.21
+773,SKU-APP-00773,Helix Jacket E992,Apparel,Jacket,Helix,20.89,30.02,1.88
+774,SKU-AUT-00774,Aurora Tires U931,Automotive,Tires,Aurora,29.66,45.88,4.28
+775,SKU-HEA-00775,Zephyr Vitamins C554,Health & Beauty,Vitamins,Zephyr,4.55,7.29,1.49
+776,SKU-OFF-00776,Iconic Printer Ink D726,Office Supplies,Printer Ink,Iconic,47.1,59.4,3.91
+777,SKU-OFF-00777,Fusion Shredder L182,Office Supplies,Shredder,Fusion,11.99,15.11,4.09
+778,SKU-ELE-00778,Vivid Smart Watch X528,Electronics,Smart Watch,Vivid,43.01,64.17,1.78
+779,SKU-HOM-00779,Gravity Washing Machine K844,Home Appliances,Washing Machine,Gravity,167.92,246.92,56.54
+780,SKU-APP-00780,Orbit T-Shirt C960,Apparel,T-Shirt,Orbit,67.74,87.74,1.76
+781,SKU-FUR-00781,Nexa Dining Table O524,Furniture,Dining Table,Nexa,300.79,418.26,51.0
+782,SKU-TOY-00782,Gravity Building Blocks Y678,Toys & Games,Building Blocks,Gravity,40.48,56.8,0.87
+783,SKU-ELE-00783,Kinetic Router O801,Electronics,Router,Kinetic,542.53,723.15,5.5
+784,SKU-AUT-00784,Ultra Brake Pads X145,Automotive,Brake Pads,Ultra,20.47,28.11,13.69
+785,SKU-TOY-00785,Terra RC Car U980,Toys & Games,RC Car,Terra,34.5,54.36,3.01
+786,SKU-TOY-00786,Maxis Building Blocks X191,Toys & Games,Building Blocks,Maxis,23.3,36.67,2.87
+787,SKU-AUT-00787,Wave Car Battery O304,Automotive,Car Battery,Wave,107.47,152.8,11.77
+788,SKU-OFF-00788,Gravity Paper Ream H540,Office Supplies,Paper Ream,Gravity,21.91,31.3,2.35
+789,SKU-OFF-00789,Solis Notebook V773,Office Supplies,Notebook,Solis,10.07,11.99,4.92
+790,SKU-OFF-00790,Orbit Stapler G393,Office Supplies,Stapler,Orbit,4.94,7.96,1.64
+791,SKU-FUR-00791,Ultra Sofa T405,Furniture,Sofa,Ultra,398.93,470.45,65.03
+792,SKU-IND-00792,Wave Welding Machine G382,Industrial,Welding Machine,Wave,775.74,1193.68,23.63
+793,SKU-HOM-00793,Fusion Blender P513,Home Appliances,Blender,Fusion,163.73,263.26,52.7
+794,SKU-IND-00794,Wave Safety Helmet C144,Industrial,Safety Helmet,Wave,24.7,37.76,115.91
+795,SKU-TOY-00795,Fusion Board Game U659,Toys & Games,Board Game,Fusion,16.55,19.74,1.22
+796,SKU-APP-00796,Iconic Jeans Z112,Apparel,Jeans,Iconic,63.2,93.59,1.52
+797,SKU-APP-00797,Nexa Jacket I647,Apparel,Jacket,Nexa,58.66,95.44,0.96
+798,SKU-TOY-00798,Aurora Doll V927,Toys & Games,Doll,Aurora,8.74,13.44,1.57
+799,SKU-AUT-00799,Jade Engine Oil U587,Automotive,Engine Oil,Jade,16.02,20.0,6.96
+800,SKU-TOY-00800,Orbit Puzzle F160,Toys & Games,Puzzle,Orbit,24.14,27.87,0.42
+801,SKU-HEA-00801,Xenon Toothpaste G189,Health & Beauty,Toothpaste,Xenon,6.12,8.9,0.92
+802,SKU-FOO-00802,Aurora Coffee Beans Z736,Food & Beverage,Coffee Beans,Aurora,4.25,6.46,3.21
+803,SKU-HEA-00803,Bravo Shampoo X722,Health & Beauty,Shampoo,Bravo,50.62,58.28,0.74
+804,SKU-FOO-00804,Vivid Snack Box S169,Food & Beverage,Snack Box,Vivid,5.7,8.3,2.83
+805,SKU-FOO-00805,Xenon Juice Q280,Food & Beverage,Juice,Xenon,14.57,22.91,7.76
+806,SKU-HEA-00806,Wave Toothpaste F462,Health & Beauty,Toothpaste,Wave,30.52,48.56,1.49
+807,SKU-TOY-00807,Vivid Doll R955,Toys & Games,Doll,Vivid,5.31,7.8,1.83
+808,SKU-FOO-00808,Evolve Coffee Beans Z240,Food & Beverage,Coffee Beans,Evolve,10.99,16.48,6.62
+809,SKU-FOO-00809,Iconic Pasta C541,Food & Beverage,Pasta,Iconic,2.98,3.98,10.66
+810,SKU-FOO-00810,Orbit Rice M222,Food & Beverage,Rice,Orbit,16.71,22.77,10.66
+811,SKU-HOM-00811,Terra Microwave C401,Home Appliances,Microwave,Terra,175.57,285.95,40.1
+812,SKU-AUT-00812,Gravity Tires F987,Automotive,Tires,Gravity,197.22,273.3,4.37
+813,SKU-OFF-00813,Xenon Stapler J284,Office Supplies,Stapler,Xenon,1.19,1.48,8.11
+814,SKU-FOO-00814,Xenon Tea Z658,Food & Beverage,Tea,Xenon,1.31,1.91,8.78
+815,SKU-AUT-00815,Evolve Tires P971,Automotive,Tires,Evolve,85.87,135.82,5.38
+816,SKU-FOO-00816,Pulse Snack Box Z275,Food & Beverage,Snack Box,Pulse,2.75,3.41,11.61
+817,SKU-FOO-00817,Bravo Coffee Beans Q491,Food & Beverage,Coffee Beans,Bravo,1.28,1.5,1.24
+818,SKU-HOM-00818,Kinetic Microwave D639,Home Appliances,Microwave,Kinetic,408.82,540.04,26.8
+819,SKU-IND-00819,Orbit Safety Helmet L662,Industrial,Safety Helmet,Orbit,81.52,107.69,47.22
+820,SKU-ELE-00820,Wave Tablet C775,Electronics,Tablet,Wave,838.71,1326.21,0.23
+821,SKU-HEA-00821,Wave Vitamins C569,Health & Beauty,Vitamins,Wave,47.75,73.45,0.3
+822,SKU-TOY-00822,Dynamo Building Blocks F970,Toys & Games,Building Blocks,Dynamo,13.35,16.41,0.77
+823,SKU-APP-00823,Kinetic Sneakers G965,Apparel,Sneakers,Kinetic,47.16,74.87,1.85
+824,SKU-TOY-00824,Wave Puzzle Q210,Toys & Games,Puzzle,Wave,24.45,32.3,3.72
+825,SKU-FUR-00825,Nexa Desk L172,Furniture,Desk,Nexa,101.18,147.51,73.18
+826,SKU-FOO-00826,Nexa Tea Z143,Food & Beverage,Tea,Nexa,3.9,5.87,1.66
+827,SKU-APP-00827,Terra Sneakers N692,Apparel,Sneakers,Terra,16.23,21.37,0.29
+828,SKU-AUT-00828,Kinetic Air Filter Z297,Automotive,Air Filter,Kinetic,37.04,59.15,11.19
+829,SKU-HEA-00829,Rapid Vitamins D707,Health & Beauty,Vitamins,Rapid,3.87,5.83,0.28
+830,SKU-FUR-00830,Wave Dining Table U381,Furniture,Dining Table,Wave,313.15,505.65,71.49
+831,SKU-OFF-00831,Quanta Notebook J106,Office Supplies,Notebook,Quanta,32.88,43.54,0.11
+832,SKU-ELE-00832,Terra Camera G766,Electronics,Camera,Terra,51.96,75.32,5.18
+833,SKU-AUT-00833,Maxis Car Battery F324,Automotive,Car Battery,Maxis,191.49,274.44,6.38
+834,SKU-TOY-00834,Fusion Action Figure V458,Toys & Games,Action Figure,Fusion,12.82,15.44,0.67
+835,SKU-FUR-00835,Xenon Bed Frame I463,Furniture,Bed Frame,Xenon,277.44,430.75,71.19
+836,SKU-ELE-00836,Terra Camera Y736,Electronics,Camera,Terra,63.24,94.81,2.36
+837,SKU-FUR-00837,Wave Desk Q876,Furniture,Desk,Wave,68.3,84.34,52.24
+838,SKU-APP-00838,Rapid Sneakers U813,Apparel,Sneakers,Rapid,36.23,52.92,1.51
+839,SKU-ELE-00839,Kinetic Camera C657,Electronics,Camera,Kinetic,237.08,361.41,1.46
+840,SKU-FUR-00840,Gravity Office Chair U648,Furniture,Office Chair,Gravity,207.31,276.36,55.96
+841,SKU-TOY-00841,Kinetic Puzzle G678,Toys & Games,Puzzle,Kinetic,37.27,55.24,0.7
+842,SKU-FUR-00842,Helix Bed Frame N227,Furniture,Bed Frame,Helix,511.83,672.13,9.43
+843,SKU-FOO-00843,Dynamo Olive Oil K860,Food & Beverage,Olive Oil,Dynamo,13.01,17.9,10.15
+844,SKU-ELE-00844,Lumen Monitor S346,Electronics,Monitor,Lumen,463.8,689.84,5.15
+845,SKU-FUR-00845,Iconic Sofa R815,Furniture,Sofa,Iconic,76.0,118.4,30.43
+846,SKU-ELE-00846,Terra Camera W350,Electronics,Camera,Terra,359.23,571.84,5.37
+847,SKU-FOO-00847,Gravity Juice Z315,Food & Beverage,Juice,Gravity,2.19,3.04,10.97
+848,SKU-HOM-00848,Xenon Air Fryer V703,Home Appliances,Air Fryer,Xenon,139.61,222.89,38.04
+849,SKU-AUT-00849,Lumen Air Filter B108,Automotive,Air Filter,Lumen,69.42,111.91,14.36
+850,SKU-TOY-00850,Quanta Building Blocks H650,Toys & Games,Building Blocks,Quanta,24.0,34.23,2.51
+851,SKU-APP-00851,Pulse T-Shirt C617,Apparel,T-Shirt,Pulse,29.96,39.16,0.74
+852,SKU-HOM-00852,Ultra Air Fryer R894,Home Appliances,Air Fryer,Ultra,625.61,915.81,56.83
+853,SKU-FUR-00853,Quanta Desk D280,Furniture,Desk,Quanta,84.59,101.35,49.97
+854,SKU-FUR-00854,Wave Cabinet P956,Furniture,Cabinet,Wave,229.59,305.31,78.89
+855,SKU-OFF-00855,Terra Marker Set U237,Office Supplies,Marker Set,Terra,133.85,194.12,8.81
+856,SKU-ELE-00856,Nexa Camera L119,Electronics,Camera,Nexa,191.23,223.52,0.7
+857,SKU-OFF-00857,Solis Printer Ink B719,Office Supplies,Printer Ink,Solis,8.33,12.97,6.18
+858,SKU-AUT-00858,Aurora Air Filter N564,Automotive,Air Filter,Aurora,143.9,176.0,4.89
+859,SKU-AUT-00859,Rapid Wipers Z126,Automotive,Wipers,Rapid,118.32,179.21,8.15
+860,SKU-AUT-00860,Dynamo Engine Oil P390,Automotive,Engine Oil,Dynamo,20.21,33.19,14.7
+861,SKU-TOY-00861,Evolve Board Game F871,Toys & Games,Board Game,Evolve,14.74,18.6,2.66
+862,SKU-ELE-00862,Cyrus Monitor I523,Electronics,Monitor,Cyrus,94.74,145.78,2.08
+863,SKU-FOO-00863,Lumen Juice U380,Food & Beverage,Juice,Lumen,2.69,4.07,3.79
+864,SKU-AUT-00864,Lumen Brake Pads G923,Automotive,Brake Pads,Lumen,194.2,318.7,11.72
+865,SKU-FUR-00865,Bravo Office Chair R632,Furniture,Office Chair,Bravo,81.85,105.47,45.64
+866,SKU-IND-00866,Solis Bearing Set Z898,Industrial,Bearing Set,Solis,677.25,968.23,111.23
+867,SKU-IND-00867,Terra Bearing Set F808,Industrial,Bearing Set,Terra,153.99,233.77,117.16
+868,SKU-ELE-00868,Iconic Tablet J140,Electronics,Tablet,Iconic,116.14,150.32,4.94
+869,SKU-APP-00869,Pulse Jacket S878,Apparel,Jacket,Pulse,16.2,19.8,1.3
+870,SKU-HEA-00870,Zephyr Shampoo Q784,Health & Beauty,Shampoo,Zephyr,25.51,41.91,0.36
+871,SKU-OFF-00871,Dynamo Notebook S854,Office Supplies,Notebook,Dynamo,10.41,13.08,0.55
+872,SKU-OFF-00872,Ultra Marker Set P601,Office Supplies,Marker Set,Ultra,2.26,3.32,7.4
+873,SKU-HOM-00873,Kinetic Microwave W489,Home Appliances,Microwave,Kinetic,226.97,342.75,39.82
+874,SKU-IND-00874,Dynamo Safety Helmet J903,Industrial,Safety Helmet,Dynamo,854.81,1105.19,100.55
+875,SKU-TOY-00875,Iconic Puzzle P873,Toys & Games,Puzzle,Iconic,4.29,5.87,2.52
+876,SKU-ELE-00876,Cyrus Smartphone V326,Electronics,Smartphone,Cyrus,881.92,1160.71,2.23
+877,SKU-HEA-00877,Jade Vitamins M680,Health & Beauty,Vitamins,Jade,29.42,41.37,0.12
+878,SKU-FOO-00878,Bravo Coffee Beans C513,Food & Beverage,Coffee Beans,Bravo,14.32,17.28,2.99
+879,SKU-AUT-00879,Jade Engine Oil O880,Automotive,Engine Oil,Jade,39.06,63.53,1.78
+880,SKU-HEA-00880,Solis Perfume H808,Health & Beauty,Perfume,Solis,3.09,4.53,1.31
+881,SKU-HEA-00881,Lumen Sunscreen S878,Health & Beauty,Sunscreen,Lumen,7.64,12.3,0.42
+882,SKU-HEA-00882,Terra Shampoo T752,Health & Beauty,Shampoo,Terra,38.86,62.5,0.22
+883,SKU-APP-00883,Vivid Jeans U925,Apparel,Jeans,Vivid,37.89,47.01,1.7
+884,SKU-FOO-00884,Nexa Coffee Beans C115,Food & Beverage,Coffee Beans,Nexa,22.8,33.71,7.27
+885,SKU-AUT-00885,Pulse Engine Oil A680,Automotive,Engine Oil,Pulse,25.2,33.32,8.19
+886,SKU-AUT-00886,Evolve Wipers E692,Automotive,Wipers,Evolve,63.46,102.07,3.18
+887,SKU-IND-00887,Pulse Power Drill N597,Industrial,Power Drill,Pulse,386.64,451.22,40.71
+888,SKU-OFF-00888,Fusion Shredder T766,Office Supplies,Shredder,Fusion,37.41,54.48,1.72
+889,SKU-OFF-00889,Kinetic Notebook C786,Office Supplies,Notebook,Kinetic,116.39,162.48,7.48
+890,SKU-FUR-00890,Dynamo Cabinet C770,Furniture,Cabinet,Dynamo,315.48,469.09,27.74
+891,SKU-OFF-00891,Terra Notebook J864,Office Supplies,Notebook,Terra,51.56,75.2,5.12
+892,SKU-IND-00892,Nexa Safety Helmet J517,Industrial,Safety Helmet,Nexa,916.66,1429.09,43.62
+893,SKU-FOO-00893,Vivid Tea X689,Food & Beverage,Tea,Vivid,1.85,2.38,4.69
+894,SKU-OFF-00894,Xenon Stapler O129,Office Supplies,Stapler,Xenon,55.71,71.75,8.88
+895,SKU-ELE-00895,Wave Headphones J706,Electronics,Headphones,Wave,211.74,302.86,1.51
+896,SKU-FUR-00896,Ultra Cabinet T387,Furniture,Cabinet,Ultra,60.42,84.39,21.8
+897,SKU-IND-00897,Xenon Safety Helmet S998,Industrial,Safety Helmet,Xenon,110.65,143.81,99.93
+898,SKU-ELE-00898,Terra Tablet V600,Electronics,Tablet,Terra,86.66,139.44,0.23
+899,SKU-OFF-00899,Rapid Notebook P525,Office Supplies,Notebook,Rapid,59.37,71.6,4.21
+900,SKU-OFF-00900,Wave Paper Ream D800,Office Supplies,Paper Ream,Wave,12.15,17.36,7.66
+901,SKU-HEA-00901,Zephyr Sunscreen V515,Health & Beauty,Sunscreen,Zephyr,8.19,12.08,0.78
+902,SKU-HOM-00902,Ultra Washing Machine Q354,Home Appliances,Washing Machine,Ultra,199.67,235.42,41.26
+903,SKU-HOM-00903,Rapid Refrigerator P815,Home Appliances,Refrigerator,Rapid,301.14,424.2,2.33
+904,SKU-HEA-00904,Aurora Perfume P110,Health & Beauty,Perfume,Aurora,46.71,59.96,1.32
+905,SKU-HOM-00905,Kinetic Refrigerator L289,Home Appliances,Refrigerator,Kinetic,327.25,530.56,32.22
+906,SKU-APP-00906,Bravo Dress G531,Apparel,Dress,Bravo,27.02,36.21,1.84
+907,SKU-APP-00907,Ultra Dress W906,Apparel,Dress,Ultra,6.64,9.1,1.81
+908,SKU-FOO-00908,Orbit Snack Box P456,Food & Beverage,Snack Box,Orbit,16.62,21.04,10.79
+909,SKU-ELE-00909,Gravity Smart Watch I485,Electronics,Smart Watch,Gravity,206.45,242.51,0.58
+910,SKU-FOO-00910,Iconic Tea U288,Food & Beverage,Tea,Iconic,7.26,8.48,2.43
+911,SKU-TOY-00911,Xenon RC Car G897,Toys & Games,RC Car,Xenon,4.71,6.83,3.03
+912,SKU-AUT-00912,Gravity Air Filter D291,Automotive,Air Filter,Gravity,151.48,220.54,9.41
+913,SKU-IND-00913,Quanta Safety Helmet M997,Industrial,Safety Helmet,Quanta,42.53,63.54,37.72
+914,SKU-HOM-00914,Dynamo Vacuum Cleaner N587,Home Appliances,Vacuum Cleaner,Dynamo,44.79,61.35,2.18
+915,SKU-FUR-00915,Rapid Bookshelf O290,Furniture,Bookshelf,Rapid,511.05,809.77,49.5
+916,SKU-FOO-00916,Rapid Olive Oil R788,Food & Beverage,Olive Oil,Rapid,19.52,27.23,1.64
+917,SKU-FUR-00917,Helix Office Chair T466,Furniture,Office Chair,Helix,61.75,74.3,64.28
+918,SKU-AUT-00918,Orbit Brake Pads Y995,Automotive,Brake Pads,Orbit,134.82,212.43,7.13
+919,SKU-FOO-00919,Quanta Rice E281,Food & Beverage,Rice,Quanta,15.23,20.68,10.56
+920,SKU-ELE-00920,Cyrus Smartphone Z461,Electronics,Smartphone,Cyrus,45.34,65.79,5.02
+921,SKU-FUR-00921,Wave Office Chair J375,Furniture,Office Chair,Wave,118.73,174.75,54.95
+922,SKU-HOM-00922,Kinetic Refrigerator D651,Home Appliances,Refrigerator,Kinetic,227.02,290.46,25.61
+923,SKU-APP-00923,Orbit Jacket A470,Apparel,Jacket,Orbit,9.52,14.63,0.65
+924,SKU-OFF-00924,Lumen Notebook A314,Office Supplies,Notebook,Lumen,10.69,16.42,3.89
+925,SKU-ELE-00925,Aurora Smartphone R684,Electronics,Smartphone,Aurora,172.79,268.63,2.85
+926,SKU-FOO-00926,Helix Pasta P911,Food & Beverage,Pasta,Helix,1.9,2.97,1.59
+927,SKU-HEA-00927,Cyrus Shampoo N103,Health & Beauty,Shampoo,Cyrus,2.44,3.76,0.4
+928,SKU-HEA-00928,Wave Face Cream C496,Health & Beauty,Face Cream,Wave,18.2,22.55,1.22
+929,SKU-FUR-00929,Lumen Office Chair M600,Furniture,Office Chair,Lumen,376.52,513.94,62.61
+930,SKU-IND-00930,Lumen Power Drill W252,Industrial,Power Drill,Lumen,61.85,93.59,44.9
+931,SKU-IND-00931,Lumen Safety Helmet W893,Industrial,Safety Helmet,Lumen,51.93,65.82,16.88
+932,SKU-ELE-00932,Zephyr Smart Watch D416,Electronics,Smart Watch,Zephyr,212.76,322.29,4.68
+933,SKU-IND-00933,Kinetic Conveyor Belt Y833,Industrial,Conveyor Belt,Kinetic,387.02,582.8,52.44
+934,SKU-OFF-00934,Cyrus Marker Set F902,Office Supplies,Marker Set,Cyrus,42.79,56.96,5.7
+935,SKU-FOO-00935,Helix Juice A825,Food & Beverage,Juice,Helix,10.24,16.53,7.88
+936,SKU-OFF-00936,Ultra Marker Set A862,Office Supplies,Marker Set,Ultra,74.86,98.97,4.79
+937,SKU-AUT-00937,Aurora Wipers D134,Automotive,Wipers,Aurora,14.94,19.78,11.67
+938,SKU-OFF-00938,Orbit Paper Ream G412,Office Supplies,Paper Ream,Orbit,1.76,2.3,8.58
+939,SKU-OFF-00939,Cyrus Paper Ream H910,Office Supplies,Paper Ream,Cyrus,56.95,79.54,1.8
+940,SKU-APP-00940,Xenon Jeans E373,Apparel,Jeans,Xenon,17.43,23.89,0.48
+941,SKU-FOO-00941,Fusion Snack Box U370,Food & Beverage,Snack Box,Fusion,4.06,6.49,4.87
+942,SKU-OFF-00942,Aurora Stapler Y780,Office Supplies,Stapler,Aurora,5.7,8.99,9.02
+943,SKU-FUR-00943,Vivid Bed Frame V302,Furniture,Bed Frame,Vivid,290.1,370.49,41.57
+944,SKU-AUT-00944,Orbit Engine Oil Z292,Automotive,Engine Oil,Orbit,168.34,233.47,3.08
+945,SKU-OFF-00945,Evolve Shredder A923,Office Supplies,Shredder,Evolve,77.86,91.7,3.98
+946,SKU-OFF-00946,Kinetic Marker Set B623,Office Supplies,Marker Set,Kinetic,61.59,73.92,5.16
+947,SKU-HOM-00947,Kinetic Blender C491,Home Appliances,Blender,Kinetic,87.16,128.97,58.84
+948,SKU-OFF-00948,Vivid Printer Ink T881,Office Supplies,Printer Ink,Vivid,13.35,19.12,8.6
+949,SKU-HOM-00949,Jade Water Heater V561,Home Appliances,Water Heater,Jade,479.11,578.23,18.97
+950,SKU-TOY-00950,Nexa Doll V844,Toys & Games,Doll,Nexa,5.35,7.51,2.65
+951,SKU-OFF-00951,Lumen Marker Set B934,Office Supplies,Marker Set,Lumen,9.7,11.26,8.89
+952,SKU-HOM-00952,Pulse Water Heater R743,Home Appliances,Water Heater,Pulse,181.01,264.78,34.68
+953,SKU-IND-00953,Rapid Hydraulic Pump C445,Industrial,Hydraulic Pump,Rapid,74.83,106.51,39.7
+954,SKU-IND-00954,Helix Hydraulic Pump D264,Industrial,Hydraulic Pump,Helix,566.44,692.96,92.56
+955,SKU-HOM-00955,Lumen Air Fryer I600,Home Appliances,Air Fryer,Lumen,223.35,280.61,48.13
+956,SKU-HEA-00956,Xenon Face Cream A297,Health & Beauty,Face Cream,Xenon,22.51,32.72,1.26
+957,SKU-FUR-00957,Gravity Bed Frame K201,Furniture,Bed Frame,Gravity,317.44,368.93,38.8
+958,SKU-AUT-00958,Lumen Engine Oil V285,Automotive,Engine Oil,Lumen,18.15,25.08,12.82
+959,SKU-IND-00959,Wave Welding Machine Z139,Industrial,Welding Machine,Wave,818.96,955.72,64.11
+960,SKU-ELE-00960,Xenon Monitor D611,Electronics,Monitor,Xenon,158.16,214.98,1.78
+961,SKU-FUR-00961,Gravity Desk U756,Furniture,Desk,Gravity,169.46,242.88,68.54
+962,SKU-HOM-00962,Evolve Water Heater M814,Home Appliances,Water Heater,Evolve,112.92,174.24,5.4
+963,SKU-IND-00963,Pulse Hydraulic Pump O106,Industrial,Hydraulic Pump,Pulse,177.9,209.58,30.72
+964,SKU-IND-00964,Kinetic Welding Machine F504,Industrial,Welding Machine,Kinetic,174.91,283.77,6.51
+965,SKU-FOO-00965,Evolve Rice C540,Food & Beverage,Rice,Evolve,21.34,34.8,4.08
+966,SKU-TOY-00966,Aurora Puzzle O638,Toys & Games,Puzzle,Aurora,75.14,117.81,1.01
+967,SKU-IND-00967,Bravo Conveyor Belt I817,Industrial,Conveyor Belt,Bravo,70.68,103.51,18.5
+968,SKU-HOM-00968,Gravity Blender M275,Home Appliances,Blender,Gravity,309.85,413.12,31.43
+969,SKU-FUR-00969,Bravo Desk Q768,Furniture,Desk,Bravo,65.45,97.13,36.85
+970,SKU-AUT-00970,Jade Air Filter Y341,Automotive,Air Filter,Jade,147.17,173.33,13.45
+971,SKU-HEA-00971,Cyrus Shampoo O700,Health & Beauty,Shampoo,Cyrus,4.29,5.92,1.22
+972,SKU-IND-00972,Pulse Bearing Set Y836,Industrial,Bearing Set,Pulse,1089.1,1505.01,5.69
+973,SKU-AUT-00973,Xenon Engine Oil E959,Automotive,Engine Oil,Xenon,10.18,13.38,5.23
+974,SKU-APP-00974,Orbit Sneakers L235,Apparel,Sneakers,Orbit,43.89,71.05,0.37
+975,SKU-FOO-00975,Gravity Juice C338,Food & Beverage,Juice,Gravity,3.3,4.82,9.48
+976,SKU-FUR-00976,Quanta Cabinet R774,Furniture,Cabinet,Quanta,248.87,393.17,30.59
+977,SKU-APP-00977,Fusion Dress G481,Apparel,Dress,Fusion,30.11,44.79,0.69
+978,SKU-FOO-00978,Kinetic Tea O265,Food & Beverage,Tea,Kinetic,12.06,13.87,6.26
+979,SKU-FOO-00979,Quanta Juice R720,Food & Beverage,Juice,Quanta,5.02,7.13,4.12
+980,SKU-APP-00980,Solis Dress T895,Apparel,Dress,Solis,7.32,11.24,1.38
+981,SKU-FUR-00981,Lumen Desk N324,Furniture,Desk,Lumen,55.09,88.48,56.63
+982,SKU-AUT-00982,Solis Car Battery A181,Automotive,Car Battery,Solis,21.29,30.91,12.11
+983,SKU-APP-00983,Lumen Backpack X370,Apparel,Backpack,Lumen,80.88,125.7,0.73
+984,SKU-HEA-00984,Dynamo Toothpaste W316,Health & Beauty,Toothpaste,Dynamo,26.0,31.9,1.31
+985,SKU-AUT-00985,Evolve Brake Pads B848,Automotive,Brake Pads,Evolve,92.57,115.07,3.37
+986,SKU-HOM-00986,Helix Washing Machine M253,Home Appliances,Washing Machine,Helix,581.67,810.45,17.13
+987,SKU-FOO-00987,Kinetic Olive Oil J978,Food & Beverage,Olive Oil,Kinetic,1.43,1.66,1.68
+988,SKU-APP-00988,Solis Jacket W892,Apparel,Jacket,Solis,6.07,9.04,1.32
+989,SKU-FUR-00989,Evolve Desk U822,Furniture,Desk,Evolve,428.86,702.58,66.22
+990,SKU-HOM-00990,Xenon Water Heater M941,Home Appliances,Water Heater,Xenon,390.85,490.97,11.58
+991,SKU-HOM-00991,Xenon Washing Machine U576,Home Appliances,Washing Machine,Xenon,107.52,162.57,7.33
+992,SKU-IND-00992,Maxis Power Drill U276,Industrial,Power Drill,Maxis,775.52,964.9,14.01
+993,SKU-AUT-00993,Dynamo Brake Pads Z714,Automotive,Brake Pads,Dynamo,12.21,15.27,12.24
+994,SKU-FUR-00994,Fusion Desk R673,Furniture,Desk,Fusion,265.77,358.63,68.15
+995,SKU-HOM-00995,Helix Microwave P385,Home Appliances,Microwave,Helix,459.64,612.36,44.72
+996,SKU-FOO-00996,Nexa Snack Box I185,Food & Beverage,Snack Box,Nexa,10.61,12.52,5.73
+997,SKU-TOY-00997,Gravity Doll P882,Toys & Games,Doll,Gravity,8.78,10.43,3.72
+998,SKU-APP-00998,Gravity Backpack L857,Apparel,Backpack,Gravity,6.7,9.63,0.68
+999,SKU-FOO-00999,Kinetic Juice A322,Food & Beverage,Juice,Kinetic,6.18,7.82,0.68
+1000,SKU-AUT-01000,Fusion Tires B980,Automotive,Tires,Fusion,176.97,254.26,3.53
+1001,SKU-IND-01001,Rapid Hydraulic Pump E179,Industrial,Hydraulic Pump,Rapid,144.69,235.8,51.48
+1002,SKU-FOO-01002,Lumen Coffee Beans Z903,Food & Beverage,Coffee Beans,Lumen,2.46,3.03,7.16
+1003,SKU-HOM-01003,Cyrus Water Heater C985,Home Appliances,Water Heater,Cyrus,106.04,122.23,19.86
+1004,SKU-AUT-01004,Helix Air Filter B894,Automotive,Air Filter,Helix,144.41,200.54,10.2
+1005,SKU-ELE-01005,Gravity Monitor X575,Electronics,Monitor,Gravity,495.12,709.77,1.92
+1006,SKU-FUR-01006,Vivid Office Chair W764,Furniture,Office Chair,Vivid,57.16,92.65,31.55
+1007,SKU-FUR-01007,Zephyr Bookshelf Y862,Furniture,Bookshelf,Zephyr,54.74,72.63,70.46
+1008,SKU-FUR-01008,Gravity Office Chair R621,Furniture,Office Chair,Gravity,466.54,730.27,15.62
+1009,SKU-ELE-01009,Iconic Laptop F338,Electronics,Laptop,Iconic,271.77,329.36,2.92
+1010,SKU-FUR-01010,Vivid Office Chair C839,Furniture,Office Chair,Vivid,198.32,249.4,74.71
+1011,SKU-APP-01011,Ultra Jeans Y156,Apparel,Jeans,Ultra,10.84,14.05,0.89
+1012,SKU-HOM-01012,Rapid Vacuum Cleaner S253,Home Appliances,Vacuum Cleaner,Rapid,173.6,277.28,15.97
+1013,SKU-HOM-01013,Iconic Microwave D427,Home Appliances,Microwave,Iconic,590.79,891.34,48.18
+1014,SKU-IND-01014,Gravity Welding Machine E397,Industrial,Welding Machine,Gravity,27.78,37.92,99.65
+1015,SKU-HOM-01015,Zephyr Refrigerator R521,Home Appliances,Refrigerator,Zephyr,56.34,80.08,2.86
+1016,SKU-HEA-01016,Jade Toothpaste A809,Health & Beauty,Toothpaste,Jade,39.95,60.36,0.15
+1017,SKU-FUR-01017,Xenon Dining Table R192,Furniture,Dining Table,Xenon,503.33,780.97,23.76
+1018,SKU-APP-01018,Iconic Jacket W381,Apparel,Jacket,Iconic,21.52,35.0,1.31
+1019,SKU-TOY-01019,Dynamo Action Figure S515,Toys & Games,Action Figure,Dynamo,7.19,11.52,1.51
+1020,SKU-HEA-01020,Lumen Toothpaste O693,Health & Beauty,Toothpaste,Lumen,46.27,59.36,0.57
+1021,SKU-HOM-01021,Gravity Blender C544,Home Appliances,Blender,Gravity,58.11,94.37,47.08
+1022,SKU-APP-01022,Iconic Sneakers T797,Apparel,Sneakers,Iconic,19.43,28.88,1.21
+1023,SKU-FUR-01023,Evolve Office Chair V225,Furniture,Office Chair,Evolve,57.76,91.86,11.11
+1024,SKU-HOM-01024,Evolve Washing Machine P902,Home Appliances,Washing Machine,Evolve,60.57,81.82,40.02
+1025,SKU-HOM-01025,Jade Air Fryer N682,Home Appliances,Air Fryer,Jade,82.02,127.16,8.41
+1026,SKU-APP-01026,Cyrus Jeans B190,Apparel,Jeans,Cyrus,9.29,13.4,0.43
+1027,SKU-HEA-01027,Helix Toothpaste D437,Health & Beauty,Toothpaste,Helix,15.82,20.98,1.35
+1028,SKU-IND-01028,Bravo Conveyor Belt Y704,Industrial,Conveyor Belt,Bravo,759.01,1029.94,36.49
+1029,SKU-ELE-01029,Dynamo Monitor H374,Electronics,Monitor,Dynamo,119.55,146.83,3.64
+1030,SKU-TOY-01030,Kinetic RC Car K934,Toys & Games,RC Car,Kinetic,79.01,97.83,3.23
+1031,SKU-HEA-01031,Evolve Toothpaste C890,Health & Beauty,Toothpaste,Evolve,6.07,7.24,0.94
+1032,SKU-TOY-01032,Jade Action Figure D611,Toys & Games,Action Figure,Jade,5.12,6.58,2.37
+1033,SKU-FOO-01033,Orbit Coffee Beans T185,Food & Beverage,Coffee Beans,Orbit,1.33,1.94,5.4
+1034,SKU-HOM-01034,Pulse Microwave J557,Home Appliances,Microwave,Pulse,249.94,342.42,48.28
+1035,SKU-FOO-01035,Evolve Rice Y904,Food & Beverage,Rice,Evolve,20.88,25.01,11.38
+1036,SKU-IND-01036,Cyrus Welding Machine W938,Industrial,Welding Machine,Cyrus,146.02,170.48,71.07
+1037,SKU-HEA-01037,Lumen Perfume N777,Health & Beauty,Perfume,Lumen,4.34,6.16,1.22
+1038,SKU-FUR-01038,Nexa Bookshelf U728,Furniture,Bookshelf,Nexa,120.7,183.93,58.55
+1039,SKU-AUT-01039,Kinetic Car Battery P660,Automotive,Car Battery,Kinetic,75.23,112.12,8.84
+1040,SKU-OFF-01040,Gravity Printer Ink J911,Office Supplies,Printer Ink,Gravity,1.32,2.16,0.7
+1041,SKU-ELE-01041,Lumen Smart Watch X824,Electronics,Smart Watch,Lumen,232.26,362.45,4.38
+1042,SKU-HEA-01042,Jade Toothpaste W347,Health & Beauty,Toothpaste,Jade,2.02,2.58,1.43
+1043,SKU-AUT-01043,Maxis Air Filter N150,Automotive,Air Filter,Maxis,23.14,38.07,1.18
+1044,SKU-HEA-01044,Lumen Face Cream E197,Health & Beauty,Face Cream,Lumen,2.59,3.26,1.07
+1045,SKU-ELE-01045,Aurora Router Q700,Electronics,Router,Aurora,54.76,70.82,1.0
+1046,SKU-IND-01046,Nexa Power Drill R678,Industrial,Power Drill,Nexa,15.19,21.59,58.45
+1047,SKU-IND-01047,Terra Power Drill A437,Industrial,Power Drill,Terra,69.34,103.61,80.32
+1048,SKU-FUR-01048,Fusion Bed Frame W481,Furniture,Bed Frame,Fusion,273.01,317.67,48.09
+1049,SKU-TOY-01049,Vivid Board Game N685,Toys & Games,Board Game,Vivid,6.12,8.77,0.77
+1050,SKU-FOO-01050,Maxis Coffee Beans V959,Food & Beverage,Coffee Beans,Maxis,1.11,1.61,9.13
+1051,SKU-IND-01051,Evolve Safety Helmet F366,Industrial,Safety Helmet,Evolve,57.04,91.01,49.42
+1052,SKU-APP-01052,Solis Sneakers U661,Apparel,Sneakers,Solis,5.58,7.95,1.01
+1053,SKU-IND-01053,Maxis Conveyor Belt I484,Industrial,Conveyor Belt,Maxis,243.92,344.46,16.94
+1054,SKU-OFF-01054,Solis Marker Set A487,Office Supplies,Marker Set,Solis,101.3,152.98,2.52
+1055,SKU-HOM-01055,Dynamo Microwave A529,Home Appliances,Microwave,Dynamo,109.33,144.62,2.23
+1056,SKU-OFF-01056,Dynamo Paper Ream O252,Office Supplies,Paper Ream,Dynamo,12.31,18.98,6.08
+1057,SKU-IND-01057,Fusion Hydraulic Pump T400,Industrial,Hydraulic Pump,Fusion,635.02,831.44,5.04
+1058,SKU-AUT-01058,Fusion Tires G969,Automotive,Tires,Fusion,117.6,175.22,11.71
+1059,SKU-HOM-01059,Iconic Vacuum Cleaner X350,Home Appliances,Vacuum Cleaner,Iconic,226.58,281.15,48.36
+1060,SKU-AUT-01060,Zephyr Tires V156,Automotive,Tires,Zephyr,18.49,24.35,12.41
+1061,SKU-OFF-01061,Gravity Notebook N537,Office Supplies,Notebook,Gravity,2.33,2.87,8.12
+1062,SKU-ELE-01062,Solis Headphones N125,Electronics,Headphones,Solis,391.53,577.44,2.58
+1063,SKU-ELE-01063,Fusion Router D886,Electronics,Router,Fusion,95.88,155.65,1.95
+1064,SKU-FUR-01064,Zephyr Desk A808,Furniture,Desk,Zephyr,61.9,76.16,39.56
+1065,SKU-AUT-01065,Pulse Wipers T198,Automotive,Wipers,Pulse,230.32,266.8,9.48
+1066,SKU-HOM-01066,Wave Microwave T666,Home Appliances,Microwave,Wave,570.95,743.1,50.01
+1067,SKU-TOY-01067,Jade Building Blocks P632,Toys & Games,Building Blocks,Jade,73.95,96.44,0.2
+1068,SKU-TOY-01068,Kinetic Building Blocks S371,Toys & Games,Building Blocks,Kinetic,12.35,18.6,2.5
+1069,SKU-HOM-01069,Cyrus Refrigerator V493,Home Appliances,Refrigerator,Cyrus,137.52,204.39,51.91
+1070,SKU-ELE-01070,Vivid Laptop T389,Electronics,Laptop,Vivid,415.55,674.61,1.55
+1071,SKU-HEA-01071,Evolve Vitamins Y100,Health & Beauty,Vitamins,Evolve,58.52,79.5,0.85
+1072,SKU-HOM-01072,Rapid Air Fryer X965,Home Appliances,Air Fryer,Rapid,419.4,649.78,22.06
+1073,SKU-HEA-01073,Bravo Shampoo M904,Health & Beauty,Shampoo,Bravo,13.19,18.71,1.16
+1074,SKU-AUT-01074,Bravo Tires H562,Automotive,Tires,Bravo,14.86,21.04,10.57
+1075,SKU-APP-01075,Jade Jacket B678,Apparel,Jacket,Jade,48.47,67.79,1.17
+1076,SKU-FOO-01076,Gravity Snack Box U344,Food & Beverage,Snack Box,Gravity,2.43,2.88,8.64
+1077,SKU-FUR-01077,Gravity Bookshelf Z976,Furniture,Bookshelf,Gravity,130.42,183.28,35.83
+1078,SKU-FUR-01078,Aurora Bookshelf Q961,Furniture,Bookshelf,Aurora,418.36,580.08,59.83
+1079,SKU-HEA-01079,Wave Shampoo R269,Health & Beauty,Shampoo,Wave,2.99,4.13,1.29
+1080,SKU-ELE-01080,Zephyr Laptop G627,Electronics,Laptop,Zephyr,244.04,328.84,0.31
+1081,SKU-ELE-01081,Pulse Headphones F401,Electronics,Headphones,Pulse,184.18,212.98,6.0
+1082,SKU-APP-01082,Maxis Dress S946,Apparel,Dress,Maxis,48.31,72.78,1.8
+1083,SKU-HOM-01083,Wave Washing Machine K187,Home Appliances,Washing Machine,Wave,261.02,306.05,43.58
+1084,SKU-ELE-01084,Wave Laptop O988,Electronics,Laptop,Wave,374.25,536.2,2.69
+1085,SKU-OFF-01085,Ultra Marker Set U405,Office Supplies,Marker Set,Ultra,62.53,72.6,0.64
+1086,SKU-HOM-01086,Quanta Blender Z183,Home Appliances,Blender,Quanta,214.13,281.06,58.43
+1087,SKU-FOO-01087,Lumen Snack Box M224,Food & Beverage,Snack Box,Lumen,3.85,4.48,8.87
+1088,SKU-IND-01088,Helix Hydraulic Pump L653,Industrial,Hydraulic Pump,Helix,144.52,210.01,44.75
+1089,SKU-HEA-01089,Xenon Perfume W151,Health & Beauty,Perfume,Xenon,23.03,27.76,1.22
+1090,SKU-APP-01090,Xenon Dress F217,Apparel,Dress,Xenon,28.6,33.28,1.52
+1091,SKU-HOM-01091,Terra Blender Y106,Home Appliances,Blender,Terra,268.05,379.68,36.92
+1092,SKU-FOO-01092,Cyrus Coffee Beans D272,Food & Beverage,Coffee Beans,Cyrus,19.88,26.14,4.1
+1093,SKU-ELE-01093,Maxis Camera Y597,Electronics,Camera,Maxis,118.73,151.97,4.87
+1094,SKU-FOO-01094,Zephyr Juice D731,Food & Beverage,Juice,Zephyr,18.19,27.83,1.53
+1095,SKU-APP-01095,Aurora Backpack J923,Apparel,Backpack,Aurora,63.91,86.54,1.95
+1096,SKU-AUT-01096,Cyrus Brake Pads C922,Automotive,Brake Pads,Cyrus,41.61,48.89,6.23
+1097,SKU-APP-01097,Maxis Jeans Y770,Apparel,Jeans,Maxis,6.67,9.89,1.94
+1098,SKU-AUT-01098,Wave Car Battery G128,Automotive,Car Battery,Wave,242.4,356.55,11.84
+1099,SKU-TOY-01099,Vivid RC Car H537,Toys & Games,RC Car,Vivid,44.91,66.87,2.53
+1100,SKU-TOY-01100,Cyrus RC Car V666,Toys & Games,RC Car,Cyrus,68.75,82.53,1.52
+1101,SKU-TOY-01101,Pulse RC Car R544,Toys & Games,RC Car,Pulse,38.27,59.86,0.88
+1102,SKU-HOM-01102,Bravo Refrigerator T855,Home Appliances,Refrigerator,Bravo,140.8,171.6,20.48
+1103,SKU-ELE-01103,Rapid Camera V285,Electronics,Camera,Rapid,40.08,57.48,1.17
+1104,SKU-APP-01104,Kinetic Jacket O677,Apparel,Jacket,Kinetic,76.32,111.95,0.68
+1105,SKU-FUR-01105,Fusion Cabinet B242,Furniture,Cabinet,Fusion,379.81,477.97,19.02
+1106,SKU-OFF-01106,Aurora Printer Ink R658,Office Supplies,Printer Ink,Aurora,40.99,48.93,6.22
+1107,SKU-APP-01107,Bravo Backpack V299,Apparel,Backpack,Bravo,36.23,48.55,0.5
+1108,SKU-AUT-01108,Maxis Tires Q101,Automotive,Tires,Maxis,10.46,17.03,5.06
+1109,SKU-HOM-01109,Evolve Blender P969,Home Appliances,Blender,Evolve,301.95,370.29,25.47
+1110,SKU-AUT-01110,Gravity Brake Pads S110,Automotive,Brake Pads,Gravity,89.48,113.35,3.53
+1111,SKU-OFF-01111,Maxis Printer Ink G715,Office Supplies,Printer Ink,Maxis,46.06,66.09,1.86
+1112,SKU-HEA-01112,Fusion Vitamins E685,Health & Beauty,Vitamins,Fusion,8.5,13.55,1.11
+1113,SKU-FUR-01113,Kinetic Desk D664,Furniture,Desk,Kinetic,324.74,465.66,52.84
+1114,SKU-TOY-01114,Iconic Puzzle F147,Toys & Games,Puzzle,Iconic,41.59,59.45,1.09
+1115,SKU-ELE-01115,Maxis Smart Watch H544,Electronics,Smart Watch,Maxis,348.72,523.2,2.84
+1116,SKU-HEA-01116,Pulse Shampoo U980,Health & Beauty,Shampoo,Pulse,9.85,15.64,0.21
+1117,SKU-HEA-01117,Zephyr Shampoo F874,Health & Beauty,Shampoo,Zephyr,22.25,26.53,0.47
+1118,SKU-HOM-01118,Solis Blender Y287,Home Appliances,Blender,Solis,185.82,219.68,28.69
+1119,SKU-IND-01119,Iconic Bearing Set C676,Industrial,Bearing Set,Iconic,206.18,286.78,69.79
+1120,SKU-TOY-01120,Iconic Action Figure X428,Toys & Games,Action Figure,Iconic,35.06,48.17,2.71
+1121,SKU-IND-01121,Xenon Safety Helmet C529,Industrial,Safety Helmet,Xenon,23.43,38.18,94.83
+1122,SKU-FUR-01122,Nexa Cabinet P745,Furniture,Cabinet,Nexa,294.96,391.19,39.68
+1123,SKU-HOM-01123,Bravo Washing Machine N714,Home Appliances,Washing Machine,Bravo,58.15,66.96,42.04
+1124,SKU-IND-01124,Zephyr Welding Machine G679,Industrial,Welding Machine,Zephyr,33.16,50.39,113.81
+1125,SKU-AUT-01125,Orbit Wipers Z159,Automotive,Wipers,Orbit,126.3,208.35,9.57
+1126,SKU-FOO-01126,Wave Coffee Beans C334,Food & Beverage,Coffee Beans,Wave,14.51,17.48,3.98
+1127,SKU-HEA-01127,Rapid Sunscreen G167,Health & Beauty,Sunscreen,Rapid,5.63,7.93,0.21
+1128,SKU-TOY-01128,Maxis Puzzle V669,Toys & Games,Puzzle,Maxis,5.61,7.21,3.23
+1129,SKU-TOY-01129,Gravity RC Car I397,Toys & Games,RC Car,Gravity,57.74,88.7,2.93
+1130,SKU-FOO-01130,Zephyr Juice I905,Food & Beverage,Juice,Zephyr,9.83,13.39,11.55
+1131,SKU-FOO-01131,Maxis Snack Box T755,Food & Beverage,Snack Box,Maxis,3.91,5.49,2.7
+1132,SKU-HEA-01132,Jade Perfume F846,Health & Beauty,Perfume,Jade,6.52,10.59,0.33
+1133,SKU-APP-01133,Maxis Jeans A257,Apparel,Jeans,Maxis,5.62,7.67,1.02
+1134,SKU-APP-01134,Quanta T-Shirt H191,Apparel,T-Shirt,Quanta,20.33,24.14,0.83
+1135,SKU-AUT-01135,Wave Brake Pads F378,Automotive,Brake Pads,Wave,89.2,133.62,12.99
+1136,SKU-IND-01136,Nexa Bearing Set A360,Industrial,Bearing Set,Nexa,59.02,68.05,78.01
+1137,SKU-AUT-01137,Xenon Engine Oil Z629,Automotive,Engine Oil,Xenon,14.57,17.0,14.27
+1138,SKU-APP-01138,Jade T-Shirt X723,Apparel,T-Shirt,Jade,6.32,8.54,1.95
+1139,SKU-HEA-01139,Bravo Perfume H738,Health & Beauty,Perfume,Bravo,6.95,10.11,0.46
+1140,SKU-HOM-01140,Rapid Refrigerator E577,Home Appliances,Refrigerator,Rapid,464.02,742.79,50.8
+1141,SKU-TOY-01141,Kinetic Doll Y164,Toys & Games,Doll,Kinetic,3.24,4.39,0.98
+1142,SKU-TOY-01142,Xenon Action Figure L126,Toys & Games,Action Figure,Xenon,41.78,54.23,3.82
+1143,SKU-OFF-01143,Evolve Printer Ink Q747,Office Supplies,Printer Ink,Evolve,53.17,84.63,3.08
+1144,SKU-APP-01144,Lumen Dress R279,Apparel,Dress,Lumen,5.41,8.55,0.81
+1145,SKU-AUT-01145,Xenon Car Battery S378,Automotive,Car Battery,Xenon,160.32,201.63,3.0
+1146,SKU-TOY-01146,Nexa Action Figure W746,Toys & Games,Action Figure,Nexa,9.97,12.46,3.98
+1147,SKU-OFF-01147,Zephyr Printer Ink C726,Office Supplies,Printer Ink,Zephyr,2.71,3.46,1.2
+1148,SKU-FUR-01148,Cyrus Sofa B845,Furniture,Sofa,Cyrus,127.82,178.07,40.78
+1149,SKU-AUT-01149,Cyrus Engine Oil X131,Automotive,Engine Oil,Cyrus,182.22,297.0,3.12
+1150,SKU-FUR-01150,Pulse Sofa J644,Furniture,Sofa,Pulse,70.96,84.64,13.31
+1151,SKU-IND-01151,Nexa Conveyor Belt G614,Industrial,Conveyor Belt,Nexa,896.79,1386.41,10.22
+1152,SKU-FOO-01152,Bravo Coffee Beans D713,Food & Beverage,Coffee Beans,Bravo,19.03,28.95,8.4
+1153,SKU-ELE-01153,Dynamo Tablet Y885,Electronics,Tablet,Dynamo,707.66,1075.46,2.92
+1154,SKU-ELE-01154,Aurora Camera T952,Electronics,Camera,Aurora,61.5,89.04,4.83
+1155,SKU-FOO-01155,Dynamo Coffee Beans H636,Food & Beverage,Coffee Beans,Dynamo,1.19,1.96,9.48
+1156,SKU-FOO-01156,Orbit Snack Box P366,Food & Beverage,Snack Box,Orbit,6.11,7.8,2.63
+1157,SKU-FOO-01157,Orbit Coffee Beans O368,Food & Beverage,Coffee Beans,Orbit,2.7,4.08,7.03
+1158,SKU-HEA-01158,Xenon Vitamins S762,Health & Beauty,Vitamins,Xenon,5.99,8.79,0.1
+1159,SKU-TOY-01159,Maxis Puzzle F824,Toys & Games,Puzzle,Maxis,3.01,4.53,2.72
+1160,SKU-AUT-01160,Kinetic Air Filter I566,Automotive,Air Filter,Kinetic,72.23,103.7,3.96
+1161,SKU-AUT-01161,Evolve Tires V443,Automotive,Tires,Evolve,35.57,48.66,14.77
+1162,SKU-OFF-01162,Gravity Notebook Q264,Office Supplies,Notebook,Gravity,95.69,116.65,8.55
+1163,SKU-HEA-01163,Dynamo Perfume Z228,Health & Beauty,Perfume,Dynamo,2.78,4.37,0.79
+1164,SKU-HOM-01164,Xenon Blender D113,Home Appliances,Blender,Xenon,169.22,269.12,52.41
+1165,SKU-FOO-01165,Solis Coffee Beans I132,Food & Beverage,Coffee Beans,Solis,5.59,6.63,4.97
+1166,SKU-OFF-01166,Evolve Shredder A259,Office Supplies,Shredder,Evolve,33.58,46.34,0.8
+1167,SKU-HEA-01167,Rapid Shampoo Q357,Health & Beauty,Shampoo,Rapid,2.69,4.2,1.23
+1168,SKU-ELE-01168,Wave Monitor Z351,Electronics,Monitor,Wave,792.54,928.64,5.71
+1169,SKU-APP-01169,Wave Sneakers E288,Apparel,Sneakers,Wave,53.1,83.42,1.96
+1170,SKU-TOY-01170,Bravo Building Blocks E233,Toys & Games,Building Blocks,Bravo,26.02,33.48,0.68
+1171,SKU-TOY-01171,Pulse Action Figure R432,Toys & Games,Action Figure,Pulse,3.54,5.81,3.27
+1172,SKU-APP-01172,Lumen Dress H560,Apparel,Dress,Lumen,40.83,60.76,1.03
+1173,SKU-APP-01173,Jade T-Shirt N986,Apparel,T-Shirt,Jade,13.37,17.28,0.69
+1174,SKU-AUT-01174,Kinetic Tires G301,Automotive,Tires,Kinetic,34.64,42.6,14.45
+1175,SKU-TOY-01175,Rapid RC Car E677,Toys & Games,RC Car,Rapid,30.18,41.29,1.77
+1176,SKU-OFF-01176,Solis Shredder F959,Office Supplies,Shredder,Solis,13.53,18.73,9.6
+1177,SKU-OFF-01177,Jade Marker Set T542,Office Supplies,Marker Set,Jade,90.47,147.66,0.91
+1178,SKU-TOY-01178,Rapid Puzzle S822,Toys & Games,Puzzle,Rapid,21.01,28.5,1.48
+1179,SKU-FUR-01179,Fusion Bed Frame F191,Furniture,Bed Frame,Fusion,227.6,277.81,43.77
+1180,SKU-HEA-01180,Pulse Perfume U645,Health & Beauty,Perfume,Pulse,3.28,3.93,0.46
+1181,SKU-FUR-01181,Terra Cabinet U369,Furniture,Cabinet,Terra,318.95,419.46,16.04
+1182,SKU-OFF-01182,Maxis Paper Ream D387,Office Supplies,Paper Ream,Maxis,1.65,2.35,6.79
+1183,SKU-HOM-01183,Jade Refrigerator Q637,Home Appliances,Refrigerator,Jade,34.04,46.51,49.84
+1184,SKU-TOY-01184,Jade Board Game B902,Toys & Games,Board Game,Jade,3.2,4.48,1.25
+1185,SKU-AUT-01185,Nexa Air Filter K969,Automotive,Air Filter,Nexa,110.21,145.54,8.07
+1186,SKU-TOY-01186,Fusion Puzzle X385,Toys & Games,Puzzle,Fusion,8.39,13.36,1.96
+1187,SKU-AUT-01187,Zephyr Brake Pads K442,Automotive,Brake Pads,Zephyr,44.81,60.64,4.52
+1188,SKU-APP-01188,Quanta Jeans D834,Apparel,Jeans,Quanta,65.73,96.94,1.36
+1189,SKU-HEA-01189,Kinetic Shampoo H336,Health & Beauty,Shampoo,Kinetic,2.38,3.15,1.5
+1190,SKU-APP-01190,Vivid Backpack A281,Apparel,Backpack,Vivid,6.41,8.84,0.83
+1191,SKU-AUT-01191,Dynamo Car Battery Q144,Automotive,Car Battery,Dynamo,43.25,68.0,13.62
+1192,SKU-FOO-01192,Zephyr Tea I623,Food & Beverage,Tea,Zephyr,1.26,1.62,5.29
+1193,SKU-OFF-01193,Iconic Notebook O215,Office Supplies,Notebook,Iconic,89.19,114.95,8.19
+1194,SKU-HEA-01194,Maxis Shampoo O786,Health & Beauty,Shampoo,Maxis,5.54,7.21,0.64
+1195,SKU-HOM-01195,Evolve Air Fryer D546,Home Appliances,Air Fryer,Evolve,328.55,486.8,57.06
+1196,SKU-HEA-01196,Quanta Vitamins S223,Health & Beauty,Vitamins,Quanta,10.21,15.22,0.71
+1197,SKU-FOO-01197,Solis Tea S570,Food & Beverage,Tea,Solis,7.09,9.86,8.68
+1198,SKU-HOM-01198,Iconic Water Heater H779,Home Appliances,Water Heater,Iconic,44.43,53.9,3.24
+1199,SKU-OFF-01199,Kinetic Printer Ink V123,Office Supplies,Printer Ink,Kinetic,92.92,114.7,7.12
+1200,SKU-FOO-01200,Wave Rice T912,Food & Beverage,Rice,Wave,4.76,6.37,3.89
+1201,SKU-HOM-01201,Jade Washing Machine V167,Home Appliances,Washing Machine,Jade,55.31,81.39,28.16
+1202,SKU-HOM-01202,Dynamo Refrigerator O284,Home Appliances,Refrigerator,Dynamo,72.81,111.65,44.28
+1203,SKU-TOY-01203,Ultra RC Car C288,Toys & Games,RC Car,Ultra,31.48,48.69,3.6
+1204,SKU-OFF-01204,Iconic Marker Set D153,Office Supplies,Marker Set,Iconic,3.58,5.72,1.55
+1205,SKU-AUT-01205,Terra Engine Oil T998,Automotive,Engine Oil,Terra,87.26,143.41,5.71
+1206,SKU-FUR-01206,Jade Dining Table U560,Furniture,Dining Table,Jade,349.27,439.09,76.24
+1207,SKU-OFF-01207,Jade Marker Set V741,Office Supplies,Marker Set,Jade,11.01,16.75,3.71
+1208,SKU-OFF-01208,Ultra Paper Ream J951,Office Supplies,Paper Ream,Ultra,17.07,21.49,9.71
+1209,SKU-APP-01209,Maxis Sneakers Z786,Apparel,Sneakers,Maxis,21.39,28.61,1.03
+1210,SKU-ELE-01210,Nexa Smart Watch F748,Electronics,Smart Watch,Nexa,318.37,383.56,1.68
+1211,SKU-FOO-01211,Dynamo Snack Box Z990,Food & Beverage,Snack Box,Dynamo,2.26,3.55,2.48
+1212,SKU-HOM-01212,Solis Washing Machine W291,Home Appliances,Washing Machine,Solis,122.2,189.04,18.39
+1213,SKU-OFF-01213,Orbit Notebook C785,Office Supplies,Notebook,Orbit,4.04,4.98,3.27
+1214,SKU-IND-01214,Dynamo Hydraulic Pump C535,Industrial,Hydraulic Pump,Dynamo,219.04,315.95,65.04
+1215,SKU-ELE-01215,Orbit Monitor W708,Electronics,Monitor,Orbit,66.25,103.15,0.56
+1216,SKU-FOO-01216,Maxis Coffee Beans B133,Food & Beverage,Coffee Beans,Maxis,1.89,2.26,1.36
+1217,SKU-OFF-01217,Rapid Notebook E143,Office Supplies,Notebook,Rapid,57.52,92.0,2.99
+1218,SKU-HOM-01218,Kinetic Water Heater V985,Home Appliances,Water Heater,Kinetic,482.05,650.72,8.28
+1219,SKU-HEA-01219,Vivid Perfume I540,Health & Beauty,Perfume,Vivid,41.78,67.43,0.8
+1220,SKU-APP-01220,Maxis Backpack I659,Apparel,Backpack,Maxis,9.42,13.09,0.61
+1221,SKU-FUR-01221,Lumen Dining Table Z224,Furniture,Dining Table,Lumen,405.75,484.08,23.23
+1222,SKU-HEA-01222,Gravity Toothpaste N159,Health & Beauty,Toothpaste,Gravity,2.1,3.21,0.6
+1223,SKU-TOY-01223,Iconic Puzzle Z851,Toys & Games,Puzzle,Iconic,27.84,34.23,2.15
+1224,SKU-TOY-01224,Bravo Puzzle M235,Toys & Games,Puzzle,Bravo,24.36,36.8,2.88
+1225,SKU-ELE-01225,Lumen Camera I421,Electronics,Camera,Lumen,46.99,56.0,2.85
+1226,SKU-ELE-01226,Terra Tablet K982,Electronics,Tablet,Terra,592.67,685.53,4.9
+1227,SKU-IND-01227,Helix Power Drill S822,Industrial,Power Drill,Helix,1195.25,1850.91,61.14
+1228,SKU-OFF-01228,Rapid Marker Set K435,Office Supplies,Marker Set,Rapid,4.33,5.46,5.17
+1229,SKU-HEA-01229,Zephyr Face Cream E768,Health & Beauty,Face Cream,Zephyr,35.45,53.26,0.56
+1230,SKU-FUR-01230,Dynamo Dining Table E963,Furniture,Dining Table,Dynamo,66.13,96.73,15.83
+1231,SKU-HEA-01231,Gravity Face Cream A444,Health & Beauty,Face Cream,Gravity,36.68,48.93,0.58
+1232,SKU-HOM-01232,Quanta Vacuum Cleaner T891,Home Appliances,Vacuum Cleaner,Quanta,92.88,145.04,38.58
+1233,SKU-APP-01233,Dynamo Sneakers U533,Apparel,Sneakers,Dynamo,37.44,51.71,1.44
+1234,SKU-AUT-01234,Aurora Car Battery F200,Automotive,Car Battery,Aurora,88.6,113.51,8.36
+1235,SKU-APP-01235,Rapid T-Shirt A822,Apparel,T-Shirt,Rapid,7.9,9.16,0.44
+1236,SKU-HEA-01236,Kinetic Shampoo G474,Health & Beauty,Shampoo,Kinetic,56.2,87.35,0.31
+1237,SKU-IND-01237,Xenon Welding Machine J443,Industrial,Welding Machine,Xenon,131.6,195.41,77.27
+1238,SKU-APP-01238,Rapid Sneakers U364,Apparel,Sneakers,Rapid,11.54,18.1,1.94
+1239,SKU-AUT-01239,Helix Air Filter V136,Automotive,Air Filter,Helix,43.32,51.72,11.9
+1240,SKU-FOO-01240,Fusion Pasta T984,Food & Beverage,Pasta,Fusion,7.52,10.29,1.51
+1241,SKU-FUR-01241,Rapid Desk N568,Furniture,Desk,Rapid,262.48,316.96,61.24
+1242,SKU-AUT-01242,Maxis Engine Oil S200,Automotive,Engine Oil,Maxis,49.3,80.23,13.71
+1243,SKU-FUR-01243,Xenon Bookshelf N138,Furniture,Bookshelf,Xenon,491.8,766.37,35.83
+1244,SKU-OFF-01244,Jade Shredder Q659,Office Supplies,Shredder,Jade,3.89,5.66,3.62
+1245,SKU-ELE-01245,Vivid Headphones U806,Electronics,Headphones,Vivid,780.66,1003.27,3.16
+1246,SKU-IND-01246,Dynamo Conveyor Belt T880,Industrial,Conveyor Belt,Dynamo,490.65,707.27,18.82
+1247,SKU-OFF-01247,Orbit Stapler E815,Office Supplies,Stapler,Orbit,2.66,4.11,9.36
+1248,SKU-APP-01248,Bravo Jacket X483,Apparel,Jacket,Bravo,6.69,9.89,0.87
+1249,SKU-APP-01249,Xenon Jacket M994,Apparel,Jacket,Xenon,32.12,45.63,0.5
+1250,SKU-FOO-01250,Lumen Tea W576,Food & Beverage,Tea,Lumen,5.79,6.98,2.27
+1251,SKU-TOY-01251,Evolve Board Game Q781,Toys & Games,Board Game,Evolve,10.2,12.86,2.69
+1252,SKU-APP-01252,Dynamo Jeans Z273,Apparel,Jeans,Dynamo,51.79,70.74,1.85
+1253,SKU-FOO-01253,Pulse Tea V193,Food & Beverage,Tea,Pulse,1.4,1.98,8.02
+1254,SKU-FOO-01254,Jade Rice Z860,Food & Beverage,Rice,Jade,20.87,31.31,11.61
+1255,SKU-OFF-01255,Terra Marker Set S766,Office Supplies,Marker Set,Terra,25.46,40.58,6.17
+1256,SKU-ELE-01256,Orbit Camera K599,Electronics,Camera,Orbit,55.09,89.51,3.95
+1257,SKU-HEA-01257,Orbit Face Cream N316,Health & Beauty,Face Cream,Orbit,6.41,9.54,0.95
+1258,SKU-FOO-01258,Gravity Pasta T904,Food & Beverage,Pasta,Gravity,5.43,7.5,10.29
+1259,SKU-FOO-01259,Dynamo Snack Box I179,Food & Beverage,Snack Box,Dynamo,1.13,1.82,11.91
+1260,SKU-HOM-01260,Rapid Water Heater P938,Home Appliances,Water Heater,Rapid,114.48,140.15,59.89
+1261,SKU-APP-01261,Nexa Backpack D927,Apparel,Backpack,Nexa,20.72,33.11,1.42
+1262,SKU-FOO-01262,Maxis Juice Q102,Food & Beverage,Juice,Maxis,1.13,1.65,10.39
+1263,SKU-ELE-01263,Quanta Laptop N719,Electronics,Laptop,Quanta,229.4,303.19,0.36
+1264,SKU-IND-01264,Gravity Safety Helmet T630,Industrial,Safety Helmet,Gravity,252.8,361.4,52.27
+1265,SKU-OFF-01265,Wave Marker Set O234,Office Supplies,Marker Set,Wave,16.34,22.35,4.36
+1266,SKU-FOO-01266,Lumen Tea X219,Food & Beverage,Tea,Lumen,4.11,5.16,8.84
+1267,SKU-OFF-01267,Helix Shredder Q626,Office Supplies,Shredder,Helix,1.28,1.89,3.68
+1268,SKU-TOY-01268,Xenon Building Blocks T684,Toys & Games,Building Blocks,Xenon,48.24,69.17,3.69
+1269,SKU-ELE-01269,Maxis Camera E772,Electronics,Camera,Maxis,667.85,988.94,1.96
+1270,SKU-TOY-01270,Rapid Action Figure P740,Toys & Games,Action Figure,Rapid,59.22,68.27,2.3
+1271,SKU-HEA-01271,Evolve Shampoo T553,Health & Beauty,Shampoo,Evolve,18.34,23.61,1.06
+1272,SKU-HOM-01272,Ultra Microwave D461,Home Appliances,Microwave,Ultra,459.3,639.69,31.43
+1273,SKU-AUT-01273,Kinetic Car Battery W523,Automotive,Car Battery,Kinetic,22.85,30.88,4.85
+1274,SKU-AUT-01274,Ultra Wipers U244,Automotive,Wipers,Ultra,14.08,17.99,2.01
+1275,SKU-APP-01275,Bravo Jacket U772,Apparel,Jacket,Bravo,23.92,28.15,1.33
+1276,SKU-IND-01276,Jade Conveyor Belt U833,Industrial,Conveyor Belt,Jade,43.89,67.24,3.84
+1277,SKU-FUR-01277,Pulse Dining Table X970,Furniture,Dining Table,Pulse,62.45,75.18,70.84
+1278,SKU-FOO-01278,Jade Rice R949,Food & Beverage,Rice,Jade,6.33,7.47,7.9
+1279,SKU-IND-01279,Fusion Conveyor Belt M941,Industrial,Conveyor Belt,Fusion,1010.96,1510.64,7.78
+1280,SKU-AUT-01280,Bravo Engine Oil X134,Automotive,Engine Oil,Bravo,23.03,33.58,3.63
+1281,SKU-IND-01281,Helix Hydraulic Pump H111,Industrial,Hydraulic Pump,Helix,155.01,198.51,82.69
+1282,SKU-OFF-01282,Cyrus Shredder H421,Office Supplies,Shredder,Cyrus,51.42,63.14,3.36
+1283,SKU-AUT-01283,Nexa Engine Oil B223,Automotive,Engine Oil,Nexa,112.68,174.3,14.95
+1284,SKU-TOY-01284,Kinetic Action Figure O873,Toys & Games,Action Figure,Kinetic,4.65,5.37,2.22
+1285,SKU-TOY-01285,Iconic Board Game F690,Toys & Games,Board Game,Iconic,12.68,20.24,1.92
+1286,SKU-IND-01286,Lumen Safety Helmet X778,Industrial,Safety Helmet,Lumen,76.89,105.37,92.44
+1287,SKU-TOY-01287,Bravo RC Car G201,Toys & Games,RC Car,Bravo,4.74,5.45,0.63
+1288,SKU-HOM-01288,Rapid Air Fryer Z993,Home Appliances,Air Fryer,Rapid,394.47,598.99,43.95
+1289,SKU-HEA-01289,Rapid Sunscreen G836,Health & Beauty,Sunscreen,Rapid,3.28,4.02,1.35
+1290,SKU-HOM-01290,Iconic Washing Machine X806,Home Appliances,Washing Machine,Iconic,159.45,232.27,36.55
+1291,SKU-FUR-01291,Ultra Bed Frame W586,Furniture,Bed Frame,Ultra,61.7,97.46,50.48
+1292,SKU-FUR-01292,Zephyr Bookshelf I443,Furniture,Bookshelf,Zephyr,516.55,812.46,73.63
+1293,SKU-ELE-01293,Dynamo Laptop E557,Electronics,Laptop,Dynamo,607.5,949.71,5.89
+1294,SKU-OFF-01294,Pulse Stapler H790,Office Supplies,Stapler,Pulse,2.04,2.51,4.79
+1295,SKU-ELE-01295,Lumen Laptop X755,Electronics,Laptop,Lumen,336.26,439.2,5.34
+1296,SKU-HEA-01296,Solis Shampoo E583,Health & Beauty,Shampoo,Solis,7.42,9.99,0.12
+1297,SKU-TOY-01297,Kinetic Doll Z677,Toys & Games,Doll,Kinetic,56.16,67.02,3.93
+1298,SKU-HOM-01298,Bravo Blender V841,Home Appliances,Blender,Bravo,317.42,508.81,57.09
+1299,SKU-FUR-01299,Gravity Desk E300,Furniture,Desk,Gravity,57.89,83.42,43.08
+1300,SKU-HOM-01300,Lumen Blender U386,Home Appliances,Blender,Lumen,179.15,270.77,26.02
+1301,SKU-AUT-01301,Aurora Tires R869,Automotive,Tires,Aurora,20.29,23.54,14.21
+1302,SKU-IND-01302,Fusion Hydraulic Pump E272,Industrial,Hydraulic Pump,Fusion,178.9,258.95,15.99
+1303,SKU-ELE-01303,Ultra Camera N124,Electronics,Camera,Ultra,72.6,112.44,2.93
+1304,SKU-AUT-01304,Helix Car Battery B660,Automotive,Car Battery,Helix,9.76,12.03,14.61
+1305,SKU-ELE-01305,Maxis Router A572,Electronics,Router,Maxis,433.62,603.8,4.06
+1306,SKU-APP-01306,Pulse Jeans R211,Apparel,Jeans,Pulse,5.54,6.5,1.64
+1307,SKU-IND-01307,Aurora Power Drill X987,Industrial,Power Drill,Aurora,48.02,69.21,100.83
+1308,SKU-IND-01308,Bravo Welding Machine L777,Industrial,Welding Machine,Bravo,175.24,248.99,42.66
+1309,SKU-HOM-01309,Bravo Blender D998,Home Appliances,Blender,Bravo,47.4,71.92,28.36
+1310,SKU-IND-01310,Dynamo Hydraulic Pump Y185,Industrial,Hydraulic Pump,Dynamo,17.86,26.78,119.37
+1311,SKU-OFF-01311,Cyrus Shredder K794,Office Supplies,Shredder,Cyrus,1.09,1.53,2.86
+1312,SKU-AUT-01312,Helix Brake Pads K931,Automotive,Brake Pads,Helix,41.99,52.5,12.51
+1313,SKU-AUT-01313,Rapid Car Battery L861,Automotive,Car Battery,Rapid,235.53,287.6,12.22
+1314,SKU-HEA-01314,Wave Face Cream R114,Health & Beauty,Face Cream,Wave,5.41,7.02,0.56
+1315,SKU-APP-01315,Quanta Jeans Z551,Apparel,Jeans,Quanta,10.27,11.91,0.7
+1316,SKU-FOO-01316,Nexa Juice B291,Food & Beverage,Juice,Nexa,1.25,1.93,9.99
+1317,SKU-ELE-01317,Iconic Router J578,Electronics,Router,Iconic,149.34,241.66,5.37
+1318,SKU-APP-01318,Maxis Backpack F183,Apparel,Backpack,Maxis,11.45,16.11,1.43
+1319,SKU-FOO-01319,Dynamo Tea S816,Food & Beverage,Tea,Dynamo,1.37,2.16,9.05
+1320,SKU-APP-01320,Nexa Jeans G684,Apparel,Jeans,Nexa,60.07,98.16,0.71
+1321,SKU-ELE-01321,Terra Router Z624,Electronics,Router,Terra,49.85,69.88,5.27
+1322,SKU-ELE-01322,Kinetic Router Q158,Electronics,Router,Kinetic,246.61,348.51,4.45
+1323,SKU-HEA-01323,Wave Toothpaste H720,Health & Beauty,Toothpaste,Wave,33.0,44.87,0.16
+1324,SKU-TOY-01324,Terra Puzzle Q987,Toys & Games,Puzzle,Terra,9.4,12.08,2.44
+1325,SKU-FUR-01325,Evolve Bookshelf Y611,Furniture,Bookshelf,Evolve,113.64,170.69,35.48
+1326,SKU-ELE-01326,Xenon Laptop V339,Electronics,Laptop,Xenon,66.64,108.11,0.8
+1327,SKU-ELE-01327,Gravity Camera R900,Electronics,Camera,Gravity,72.16,104.34,1.25
+1328,SKU-OFF-01328,Bravo Shredder V941,Office Supplies,Shredder,Bravo,14.22,16.8,6.98
+1329,SKU-HOM-01329,Bravo Water Heater J698,Home Appliances,Water Heater,Bravo,63.27,76.59,52.67
+1330,SKU-ELE-01330,Pulse Smart Watch I593,Electronics,Smart Watch,Pulse,125.51,206.82,3.15
+1331,SKU-ELE-01331,Lumen Camera Z232,Electronics,Camera,Lumen,246.17,381.1,3.88
+1332,SKU-FOO-01332,Bravo Olive Oil T306,Food & Beverage,Olive Oil,Bravo,10.08,15.12,1.84
+1333,SKU-HOM-01333,Orbit Water Heater D300,Home Appliances,Water Heater,Orbit,264.43,399.02,22.49
+1334,SKU-FUR-01334,Jade Dining Table Y874,Furniture,Dining Table,Jade,122.07,177.43,61.56
+1335,SKU-TOY-01335,Solis Building Blocks S623,Toys & Games,Building Blocks,Solis,8.42,13.21,0.49
+1336,SKU-HEA-01336,Nexa Face Cream H222,Health & Beauty,Face Cream,Nexa,6.07,9.93,0.25
+1337,SKU-APP-01337,Fusion Sneakers N341,Apparel,Sneakers,Fusion,10.74,13.98,0.48
+1338,SKU-OFF-01338,Orbit Notebook B897,Office Supplies,Notebook,Orbit,3.41,4.59,9.08
+1339,SKU-FUR-01339,Fusion Office Chair R329,Furniture,Office Chair,Fusion,73.12,91.8,70.22
+1340,SKU-OFF-01340,Cyrus Stapler S811,Office Supplies,Stapler,Cyrus,79.75,120.76,7.78
+1341,SKU-HEA-01341,Zephyr Vitamins Y140,Health & Beauty,Vitamins,Zephyr,3.95,5.54,0.55
+1342,SKU-OFF-01342,Cyrus Shredder K316,Office Supplies,Shredder,Cyrus,8.78,13.5,3.19
+1343,SKU-FOO-01343,Bravo Coffee Beans S512,Food & Beverage,Coffee Beans,Bravo,2.52,3.4,6.78
+1344,SKU-TOY-01344,Terra RC Car R769,Toys & Games,RC Car,Terra,5.51,8.77,3.41
+1345,SKU-IND-01345,Pulse Hydraulic Pump B159,Industrial,Hydraulic Pump,Pulse,338.96,477.65,37.86
+1346,SKU-ELE-01346,Fusion Laptop Y836,Electronics,Laptop,Fusion,263.67,318.03,4.0
+1347,SKU-IND-01347,Rapid Safety Helmet C742,Industrial,Safety Helmet,Rapid,27.67,36.77,97.8
+1348,SKU-AUT-01348,Vivid Engine Oil V519,Automotive,Engine Oil,Vivid,245.25,306.88,10.57
+1349,SKU-ELE-01349,Lumen Headphones I553,Electronics,Headphones,Lumen,116.2,172.92,3.8
+1350,SKU-APP-01350,Cyrus Jeans C103,Apparel,Jeans,Cyrus,26.6,40.42,1.21
+1351,SKU-FUR-01351,Bravo Desk U531,Furniture,Desk,Bravo,316.46,365.57,41.86
+1352,SKU-FOO-01352,Quanta Tea M434,Food & Beverage,Tea,Quanta,1.5,2.18,11.39
+1353,SKU-TOY-01353,Orbit RC Car A881,Toys & Games,RC Car,Orbit,3.62,5.85,3.91
+1354,SKU-ELE-01354,Wave Smartphone F422,Electronics,Smartphone,Wave,68.75,98.36,4.13
+1355,SKU-HOM-01355,Zephyr Air Fryer Q747,Home Appliances,Air Fryer,Zephyr,55.26,91.02,13.83
+1356,SKU-ELE-01356,Xenon Laptop T123,Electronics,Laptop,Xenon,152.17,205.32,1.8
+1357,SKU-HOM-01357,Ultra Washing Machine K871,Home Appliances,Washing Machine,Ultra,154.5,213.02,52.98
+1358,SKU-TOY-01358,Helix Action Figure A734,Toys & Games,Action Figure,Helix,70.05,110.85,3.73
+1359,SKU-OFF-01359,Solis Printer Ink F387,Office Supplies,Printer Ink,Solis,94.91,133.21,8.92
+1360,SKU-IND-01360,Fusion Power Drill G742,Industrial,Power Drill,Fusion,80.97,132.3,3.33
+1361,SKU-TOY-01361,Solis Action Figure C988,Toys & Games,Action Figure,Solis,7.33,10.43,3.41
+1362,SKU-HEA-01362,Bravo Toothpaste O297,Health & Beauty,Toothpaste,Bravo,3.08,4.12,0.55
+1363,SKU-APP-01363,Orbit Backpack A527,Apparel,Backpack,Orbit,54.96,88.53,1.33
+1364,SKU-AUT-01364,Dynamo Air Filter E624,Automotive,Air Filter,Dynamo,56.58,75.68,3.82
+1365,SKU-ELE-01365,Vivid Smartphone H871,Electronics,Smartphone,Vivid,308.42,424.86,1.04
+1366,SKU-ELE-01366,Gravity Headphones X651,Electronics,Headphones,Gravity,221.05,313.29,0.96
+1367,SKU-AUT-01367,Wave Wipers P554,Automotive,Wipers,Wave,49.18,71.87,13.26
+1368,SKU-TOY-01368,Bravo Board Game C140,Toys & Games,Board Game,Bravo,5.88,7.1,3.13
+1369,SKU-HEA-01369,Aurora Sunscreen A292,Health & Beauty,Sunscreen,Aurora,15.53,19.99,0.76
+1370,SKU-FOO-01370,Solis Tea V932,Food & Beverage,Tea,Solis,4.95,6.73,8.9
+1371,SKU-HOM-01371,Rapid Water Heater T876,Home Appliances,Water Heater,Rapid,139.42,223.08,30.21
+1372,SKU-TOY-01372,Ultra Board Game K716,Toys & Games,Board Game,Ultra,4.91,5.77,3.02
+1373,SKU-ELE-01373,Solis Smart Watch Z848,Electronics,Smart Watch,Solis,218.55,289.35,3.48
+1374,SKU-ELE-01374,Orbit Laptop W820,Electronics,Laptop,Orbit,664.22,765.29,5.1
+1375,SKU-FOO-01375,Fusion Olive Oil W127,Food & Beverage,Olive Oil,Fusion,11.68,16.3,3.32
+1376,SKU-FUR-01376,Pulse Office Chair Y755,Furniture,Office Chair,Pulse,92.21,121.04,75.02
+1377,SKU-TOY-01377,Bravo Doll Y124,Toys & Games,Doll,Bravo,3.06,3.89,2.7
+1378,SKU-FOO-01378,Cyrus Olive Oil D605,Food & Beverage,Olive Oil,Cyrus,12.36,14.51,6.75
+1379,SKU-FUR-01379,Xenon Bed Frame I184,Furniture,Bed Frame,Xenon,53.02,84.54,74.9
+1380,SKU-FOO-01380,Aurora Coffee Beans S251,Food & Beverage,Coffee Beans,Aurora,6.49,8.48,2.6
+1381,SKU-OFF-01381,Quanta Printer Ink I418,Office Supplies,Printer Ink,Quanta,4.08,6.4,5.0
+1382,SKU-FOO-01382,Dynamo Pasta R658,Food & Beverage,Pasta,Dynamo,16.77,19.74,3.25
+1383,SKU-OFF-01383,Ultra Marker Set U379,Office Supplies,Marker Set,Ultra,7.81,10.34,2.96
+1384,SKU-HEA-01384,Iconic Face Cream R154,Health & Beauty,Face Cream,Iconic,6.1,7.07,1.43
+1385,SKU-HEA-01385,Iconic Face Cream X620,Health & Beauty,Face Cream,Iconic,24.39,35.1,1.03
+1386,SKU-ELE-01386,Ultra Camera U662,Electronics,Camera,Ultra,87.15,141.88,1.54
+1387,SKU-TOY-01387,Nexa Puzzle D963,Toys & Games,Puzzle,Nexa,9.88,15.22,1.01
+1388,SKU-TOY-01388,Helix RC Car R689,Toys & Games,RC Car,Helix,23.49,34.28,1.99
+1389,SKU-IND-01389,Aurora Conveyor Belt Q993,Industrial,Conveyor Belt,Aurora,174.51,253.61,48.83
+1390,SKU-ELE-01390,Dynamo Router G589,Electronics,Router,Dynamo,264.51,426.8,0.35
+1391,SKU-APP-01391,Wave Jeans O366,Apparel,Jeans,Wave,43.65,66.25,1.5
+1392,SKU-IND-01392,Bravo Safety Helmet H803,Industrial,Safety Helmet,Bravo,139.91,179.22,110.63
+1393,SKU-FUR-01393,Bravo Office Chair G927,Furniture,Office Chair,Bravo,154.97,252.82,15.9
+1394,SKU-HEA-01394,Iconic Vitamins F806,Health & Beauty,Vitamins,Iconic,18.02,26.57,0.44
+1395,SKU-IND-01395,Wave Power Drill V191,Industrial,Power Drill,Wave,37.97,54.86,42.33
+1396,SKU-AUT-01396,Gravity Air Filter V842,Automotive,Air Filter,Gravity,56.7,65.44,5.93
+1397,SKU-OFF-01397,Iconic Stapler M700,Office Supplies,Stapler,Iconic,22.52,30.79,8.68
+1398,SKU-FOO-01398,Xenon Snack Box T708,Food & Beverage,Snack Box,Xenon,16.82,22.89,4.71
+1399,SKU-ELE-01399,Evolve Router E357,Electronics,Router,Evolve,84.72,103.63,4.61
+1400,SKU-IND-01400,Evolve Conveyor Belt C260,Industrial,Conveyor Belt,Evolve,157.69,241.6,113.7
+1401,SKU-OFF-01401,Pulse Printer Ink J272,Office Supplies,Printer Ink,Pulse,22.91,27.91,2.01
+1402,SKU-IND-01402,Nexa Hydraulic Pump X426,Industrial,Hydraulic Pump,Nexa,30.29,40.72,17.0
+1403,SKU-OFF-01403,Lumen Stapler C728,Office Supplies,Stapler,Lumen,1.35,2.15,8.89
+1404,SKU-ELE-01404,Quanta Laptop N654,Electronics,Laptop,Quanta,53.55,83.27,5.3
+1405,SKU-ELE-01405,Lumen Smart Watch J985,Electronics,Smart Watch,Lumen,86.97,121.73,0.98
+1406,SKU-AUT-01406,Lumen Wipers T629,Automotive,Wipers,Lumen,14.74,21.29,12.03
+1407,SKU-ELE-01407,Ultra Smart Watch W187,Electronics,Smart Watch,Ultra,41.36,60.32,2.58
+1408,SKU-HOM-01408,Zephyr Refrigerator R996,Home Appliances,Refrigerator,Zephyr,107.04,141.03,11.8
+1409,SKU-OFF-01409,Ultra Shredder B287,Office Supplies,Shredder,Ultra,17.03,20.84,7.19
+1410,SKU-FOO-01410,Cyrus Olive Oil W145,Food & Beverage,Olive Oil,Cyrus,6.01,9.64,4.42
+1411,SKU-OFF-01411,Cyrus Shredder D391,Office Supplies,Shredder,Cyrus,10.81,15.37,2.45
+1412,SKU-HOM-01412,Cyrus Washing Machine N213,Home Appliances,Washing Machine,Cyrus,37.4,52.51,50.84
+1413,SKU-HOM-01413,Pulse Vacuum Cleaner K440,Home Appliances,Vacuum Cleaner,Pulse,33.52,47.53,16.62
+1414,SKU-AUT-01414,Iconic Engine Oil T944,Automotive,Engine Oil,Iconic,79.31,127.63,4.05
+1415,SKU-ELE-01415,Dynamo Laptop B187,Electronics,Laptop,Dynamo,72.88,113.51,4.13
+1416,SKU-TOY-01416,Rapid Building Blocks G811,Toys & Games,Building Blocks,Rapid,11.63,18.56,3.84
+1417,SKU-OFF-01417,Vivid Notebook V263,Office Supplies,Notebook,Vivid,2.45,3.92,10.0
+1418,SKU-AUT-01418,Evolve Tires R773,Automotive,Tires,Evolve,13.15,21.43,13.13
+1419,SKU-FUR-01419,Gravity Cabinet N499,Furniture,Cabinet,Gravity,453.95,559.0,21.16
+1420,SKU-HEA-01420,Iconic Sunscreen T748,Health & Beauty,Sunscreen,Iconic,8.71,13.49,0.17
+1421,SKU-HEA-01421,Helix Shampoo W542,Health & Beauty,Shampoo,Helix,3.97,6.03,0.93
+1422,SKU-APP-01422,Gravity T-Shirt P222,Apparel,T-Shirt,Gravity,5.9,7.83,0.56
+1423,SKU-AUT-01423,Helix Air Filter F336,Automotive,Air Filter,Helix,17.25,22.77,7.21
+1424,SKU-HEA-01424,Quanta Perfume Z338,Health & Beauty,Perfume,Quanta,14.8,20.59,0.65
+1425,SKU-OFF-01425,Nexa Marker Set I229,Office Supplies,Marker Set,Nexa,70.59,101.87,6.38
+1426,SKU-HEA-01426,Xenon Face Cream Q643,Health & Beauty,Face Cream,Xenon,8.39,11.44,1.35
+1427,SKU-ELE-01427,Lumen Headphones G286,Electronics,Headphones,Lumen,85.78,133.03,1.82
+1428,SKU-ELE-01428,Aurora Tablet P925,Electronics,Tablet,Aurora,841.47,1203.23,3.04
+1429,SKU-ELE-01429,Cyrus Tablet U903,Electronics,Tablet,Cyrus,378.51,525.58,4.69
+1430,SKU-TOY-01430,Fusion RC Car N589,Toys & Games,RC Car,Fusion,3.18,4.96,1.73
+1431,SKU-HOM-01431,Helix Washing Machine V302,Home Appliances,Washing Machine,Helix,290.88,473.17,29.56
+1432,SKU-TOY-01432,Maxis Doll B605,Toys & Games,Doll,Maxis,23.08,34.32,2.06
+1433,SKU-OFF-01433,Xenon Printer Ink J667,Office Supplies,Printer Ink,Xenon,33.7,39.41,7.03
+1434,SKU-APP-01434,Gravity T-Shirt Q990,Apparel,T-Shirt,Gravity,37.11,46.66,1.93
+1435,SKU-ELE-01435,Lumen Headphones K412,Electronics,Headphones,Lumen,51.16,78.74,1.14
+1436,SKU-TOY-01436,Zephyr RC Car F586,Toys & Games,RC Car,Zephyr,4.48,6.69,1.97
+1437,SKU-APP-01437,Cyrus Jeans S151,Apparel,Jeans,Cyrus,8.09,12.89,1.02
+1438,SKU-AUT-01438,Xenon Tires H515,Automotive,Tires,Xenon,101.44,144.08,6.34
+1439,SKU-TOY-01439,Lumen RC Car Y548,Toys & Games,RC Car,Lumen,6.88,9.32,3.16
+1440,SKU-APP-01440,Wave Jacket B556,Apparel,Jacket,Wave,10.09,11.77,1.33
+1441,SKU-APP-01441,Pulse Backpack L674,Apparel,Backpack,Pulse,7.4,9.73,0.91
+1442,SKU-HEA-01442,Gravity Sunscreen N685,Health & Beauty,Sunscreen,Gravity,13.0,20.85,0.69
+1443,SKU-OFF-01443,Vivid Printer Ink U270,Office Supplies,Printer Ink,Vivid,3.86,5.56,3.07
+1444,SKU-ELE-01444,Helix Headphones E976,Electronics,Headphones,Helix,77.4,123.56,1.74
+1445,SKU-AUT-01445,Rapid Car Battery F276,Automotive,Car Battery,Rapid,30.77,38.2,12.59
+1446,SKU-HOM-01446,Vivid Water Heater U716,Home Appliances,Water Heater,Vivid,34.67,45.06,10.11
+1447,SKU-AUT-01447,Fusion Tires Y430,Automotive,Tires,Fusion,28.21,33.02,11.54
+1448,SKU-HEA-01448,Ultra Vitamins M998,Health & Beauty,Vitamins,Ultra,8.52,12.94,0.34
+1449,SKU-HOM-01449,Zephyr Washing Machine V555,Home Appliances,Washing Machine,Zephyr,58.58,90.28,51.95
+1450,SKU-OFF-01450,Lumen Notebook A658,Office Supplies,Notebook,Lumen,8.57,13.43,5.84
+1451,SKU-FUR-01451,Wave Desk L604,Furniture,Desk,Wave,125.22,185.66,22.15
+1452,SKU-FOO-01452,Vivid Pasta C495,Food & Beverage,Pasta,Vivid,5.81,9.28,3.17
+1453,SKU-ELE-01453,Fusion Smart Watch K894,Electronics,Smart Watch,Fusion,336.99,412.6,3.21
+1454,SKU-HOM-01454,Pulse Refrigerator L542,Home Appliances,Refrigerator,Pulse,410.09,475.71,28.5
+1455,SKU-HEA-01455,Evolve Toothpaste B978,Health & Beauty,Toothpaste,Evolve,7.96,12.28,0.85
+1456,SKU-IND-01456,Jade Conveyor Belt Z575,Industrial,Conveyor Belt,Jade,845.48,1004.99,11.85
+1457,SKU-IND-01457,Aurora Welding Machine Q223,Industrial,Welding Machine,Aurora,40.93,51.69,90.14
+1458,SKU-FUR-01458,Solis Desk G890,Furniture,Desk,Solis,245.7,292.79,59.2
+1459,SKU-IND-01459,Evolve Conveyor Belt A667,Industrial,Conveyor Belt,Evolve,159.67,256.53,72.25
+1460,SKU-FUR-01460,Evolve Office Chair S914,Furniture,Office Chair,Evolve,274.25,421.15,73.71
+1461,SKU-AUT-01461,Pulse Car Battery P659,Automotive,Car Battery,Pulse,11.35,13.58,1.54
+1462,SKU-TOY-01462,Dynamo RC Car X583,Toys & Games,RC Car,Dynamo,14.62,19.98,1.43
+1463,SKU-APP-01463,Quanta T-Shirt J681,Apparel,T-Shirt,Quanta,19.98,31.01,1.46
+1464,SKU-OFF-01464,Jade Paper Ream C292,Office Supplies,Paper Ream,Jade,2.03,2.74,9.63
+1465,SKU-IND-01465,Maxis Safety Helmet Y260,Industrial,Safety Helmet,Maxis,963.56,1180.0,92.56
+1466,SKU-FOO-01466,Maxis Snack Box Q794,Food & Beverage,Snack Box,Maxis,4.98,8.14,2.62
+1467,SKU-OFF-01467,Cyrus Paper Ream Q430,Office Supplies,Paper Ream,Cyrus,26.32,40.19,9.27
+1468,SKU-IND-01468,Solis Power Drill A475,Industrial,Power Drill,Solis,45.61,75.1,56.74
+1469,SKU-OFF-01469,Fusion Notebook K160,Office Supplies,Notebook,Fusion,19.58,25.94,2.48
+1470,SKU-TOY-01470,Xenon Doll F448,Toys & Games,Doll,Xenon,15.3,24.96,1.78
+1471,SKU-APP-01471,Bravo Backpack Q178,Apparel,Backpack,Bravo,45.3,61.45,0.93
+1472,SKU-ELE-01472,Zephyr Smartphone K681,Electronics,Smartphone,Zephyr,81.34,113.64,0.86
+1473,SKU-AUT-01473,Pulse Car Battery T601,Automotive,Car Battery,Pulse,49.31,59.9,0.66
+1474,SKU-FUR-01474,Solis Desk D315,Furniture,Desk,Solis,391.82,517.46,46.59
+1475,SKU-IND-01475,Nexa Bearing Set Z655,Industrial,Bearing Set,Nexa,406.45,485.48,53.02
+1476,SKU-TOY-01476,Fusion Building Blocks K647,Toys & Games,Building Blocks,Fusion,27.11,43.91,3.14
+1477,SKU-HOM-01477,Helix Air Fryer Y995,Home Appliances,Air Fryer,Helix,104.02,166.49,27.0
+1478,SKU-IND-01478,Wave Bearing Set F827,Industrial,Bearing Set,Wave,167.5,218.58,7.07
+1479,SKU-HOM-01479,Terra Vacuum Cleaner G458,Home Appliances,Vacuum Cleaner,Terra,475.77,766.07,53.46
+1480,SKU-AUT-01480,Zephyr Air Filter L593,Automotive,Air Filter,Zephyr,162.48,195.32,14.73
+1481,SKU-TOY-01481,Kinetic Action Figure T869,Toys & Games,Action Figure,Kinetic,25.15,33.03,0.3
+1482,SKU-FUR-01482,Rapid Bed Frame Q705,Furniture,Bed Frame,Rapid,427.0,491.55,22.97
+1483,SKU-ELE-01483,Wave Tablet D355,Electronics,Tablet,Wave,51.62,75.83,3.65
+1484,SKU-OFF-01484,Helix Stapler U423,Office Supplies,Stapler,Helix,1.98,3.07,9.88
+1485,SKU-IND-01485,Pulse Bearing Set T653,Industrial,Bearing Set,Pulse,814.55,1109.57,13.05
+1486,SKU-HOM-01486,Terra Washing Machine U159,Home Appliances,Washing Machine,Terra,455.13,627.41,5.46
+1487,SKU-OFF-01487,Maxis Notebook X352,Office Supplies,Notebook,Maxis,7.41,10.92,5.47
+1488,SKU-OFF-01488,Ultra Notebook A936,Office Supplies,Notebook,Ultra,2.72,4.04,8.49
+1489,SKU-HEA-01489,Aurora Vitamins E719,Health & Beauty,Vitamins,Aurora,13.35,19.8,0.48
+1490,SKU-TOY-01490,Fusion RC Car I588,Toys & Games,RC Car,Fusion,59.8,81.48,0.2
+1491,SKU-AUT-01491,Jade Tires W694,Automotive,Tires,Jade,51.42,61.56,13.94
+1492,SKU-HEA-01492,Gravity Perfume Y580,Health & Beauty,Perfume,Gravity,42.54,51.49,0.24
+1493,SKU-FUR-01493,Nexa Bed Frame N679,Furniture,Bed Frame,Nexa,502.95,644.48,79.3
+1494,SKU-ELE-01494,Cyrus Smart Watch O877,Electronics,Smart Watch,Cyrus,71.31,84.84,2.74
+1495,SKU-OFF-01495,Evolve Marker Set T278,Office Supplies,Marker Set,Evolve,1.04,1.64,4.03
+1496,SKU-IND-01496,Solis Hydraulic Pump L336,Industrial,Hydraulic Pump,Solis,32.65,45.97,111.22
+1497,SKU-OFF-01497,Quanta Marker Set Y235,Office Supplies,Marker Set,Quanta,6.09,8.19,4.58
+1498,SKU-OFF-01498,Kinetic Stapler T902,Office Supplies,Stapler,Kinetic,11.43,14.42,9.88
+1499,SKU-IND-01499,Terra Hydraulic Pump Y360,Industrial,Hydraulic Pump,Terra,304.45,496.11,20.22
+1500,SKU-FUR-01500,Wave Bookshelf G666,Furniture,Bookshelf,Wave,141.94,189.57,62.31

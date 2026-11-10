@@ -1,0 +1,1001 @@
+﻿EmployeeID,EmployeeName,Department,JobTitle,ApprovalLimit,HireDate,LocationID,BankAccountID
+1,Emma Nguyen,Procurement,Buyer,50000,2022-12-19,812,BA84812971
+2,Mohamed Silva,Procurement,Buyer,50000,2017-03-31,639,BA23644041
+3,Dina Lotfy,Procurement,Buyer,50000,2014-01-24,776,BA92493573
+4,Anna Tanaka,Procurement,Buyer,50000,2022-01-07,372,BA39904169
+5,Priya Santos,Procurement,Buyer,50000,2013-12-11,870,BA52295026
+6,Min-jun Said,Procurement,Buyer,50000,2024-10-24,1024,BA15682792
+7,David Nasr,Procurement,Buyer,50000,2017-05-14,127,BA33146244
+8,Ivan Mostafa,Procurement,Buyer,50000,2020-08-28,143,BA79415028
+9,Amira Garcia,Procurement,Buyer,50000,2018-09-17,217,BA32344776
+10,Ali Clark,Procurement,Buyer,50000,2017-07-30,398,BA34476858
+11,Dina Yilmaz,Procurement,Buyer,50000,2022-12-30,371,BA23162356
+12,Chen Mansour,Procurement,Buyer,50000,2025-01-05,936,BA90103202
+13,Fatima Anwar,Procurement,Buyer,50000,2018-09-25,339,BA35712272
+14,Chen Helmy,Procurement,Buyer,50000,2012-12-08,1065,BA80513410
+15,Ayse Farouk,Procurement,Buyer,50000,2021-10-16,907,BA28703795
+16,Mahmoud Ibrahim,Procurement,Buyer,50000,2018-03-14,1128,BA51644803
+17,Karim Schmidt,Procurement,Buyer,50000,2023-12-29,1192,BA11229871
+18,Michael Rossi,Procurement,Buyer,50000,2021-01-28,86,BA88316349
+19,Aisha Garcia,Procurement,Buyer,50000,2023-12-18,820,BA77584239
+20,Ivan Tanaka,Procurement,Buyer,50000,2024-03-04,1041,BA60920440
+21,Carlos Kim,Procurement,Buyer,50000,2014-12-21,40,BA13611590
+22,Lucas Anwar,Procurement,Buyer,50000,2013-08-08,198,BA37854650
+23,Robert Khan,Procurement,Buyer,50000,2013-05-08,358,BA78842863
+24,Hany Schmidt,Procurement,Buyer,50000,2015-12-05,248,BA25103035
+25,Sophia Omar,Procurement,Buyer,50000,2023-10-12,964,BA10882242
+26,Mehmet Dubois,Procurement,Buyer,50000,2013-04-23,160,BA29690423
+27,Lucas Brown,Procurement,Buyer,50000,2025-07-01,1110,BA29874604
+28,Emma Silva,Procurement,Buyer,50000,2022-01-26,430,BA20913924
+29,Karim Ali,Procurement,Buyer,50000,2022-02-25,714,BA14982601
+30,Priya Smith,Procurement,Buyer,50000,2015-09-25,491,BA77875828
+31,Fatima Yilmaz,Procurement,Buyer,50000,2023-11-17,419,BA55957697
+32,Mahmoud Wilson,Procurement,Buyer,50000,2012-09-27,1038,BA54568697
+33,Mahmoud Sharma,Procurement,Buyer,50000,2023-02-26,427,BA56739573
+34,Fatima Martin,Procurement,Buyer,50000,2014-02-26,1174,BA20425464
+35,Mahmoud Miller,Procurement,Buyer,50000,2017-11-18,761,BA27057256
+36,Ivan Ibrahim,Procurement,Buyer,50000,2022-05-02,432,BA85788077
+37,John Omar,Procurement,Buyer,50000,2020-01-13,1038,BA70525341
+38,Emma Kamel,Procurement,Buyer,50000,2024-02-22,334,BA87521048
+39,Marco Smith,Procurement,Buyer,50000,2019-12-10,409,BA14367019
+40,Ibrahim Rizk,Procurement,Buyer,50000,2016-06-04,1067,BA83203987
+41,Kenji Helmy,Procurement,Buyer,50000,2022-12-05,229,BA80593820
+42,Pierre Patel,Procurement,Buyer,50000,2012-10-25,1061,BA78779035
+43,Mehmet Sato,Procurement,Buyer,50000,2016-10-17,4,BA40788551
+44,Sami Weber,Procurement,Buyer,50000,2020-10-05,11,BA32352466
+45,Omar Farouk,Procurement,Buyer,50000,2021-10-22,165,BA27600457
+46,Heba Abdelrahman,Procurement,Buyer,50000,2015-04-22,739,BA52956481
+47,Amira Ali,Procurement,Buyer,50000,2020-05-05,1022,BA75376510
+48,Anna Garcia,Procurement,Buyer,50000,2013-01-31,1016,BA82808089
+49,Hassan Sato,Procurement,Buyer,50000,2019-06-26,750,BA46018981
+50,Khaled Zhang,Procurement,Buyer,50000,2016-04-26,770,BA49078761
+51,Daniel Petrov,Procurement,Buyer,50000,2013-08-04,1189,BA37653405
+52,James Kim,Procurement,Buyer,50000,2012-12-23,1139,BA41649353
+53,Min-jun Li,Procurement,Buyer,50000,2022-05-20,84,BA90492048
+54,Olivia Yilmaz,Procurement,Buyer,50000,2019-11-21,673,BA16727237
+55,Laura Schmidt,Procurement,Buyer,50000,2016-01-27,440,BA85042981
+56,Ali Sato,Procurement,Buyer,50000,2020-03-10,162,BA66465723
+57,Diego Sharma,Procurement,Buyer,50000,2021-07-17,955,BA88841937
+58,Laila Novak,Procurement,Buyer,50000,2017-05-24,651,BA36462308
+59,Ibrahim Kaya,Procurement,Buyer,50000,2013-09-22,794,BA17727477
+60,Laura Zhang,Procurement,Buyer,50000,2019-06-17,620,BA78420653
+61,Hany Garcia,Procurement,Buyer,50000,2020-05-29,81,BA25297464
+62,Maria Hassan,Procurement,Buyer,50000,2015-07-01,1041,BA15873720
+63,Pierre Wilson,Procurement,Buyer,50000,2018-12-04,482,BA40501148
+64,Lucas Gaber,Procurement,Buyer,50000,2021-07-13,264,BA81889231
+65,Laila Johnson,Procurement,Buyer,50000,2013-12-15,766,BA65396414
+66,Chen Zaki,Procurement,Buyer,50000,2017-07-14,365,BA68739012
+67,Ahmed Mansour,Procurement,Buyer,50000,2016-09-07,826,BA54274743
+68,Khaled Petrov,Procurement,Buyer,50000,2014-10-23,613,BA44061036
+69,Walid Shawky,Procurement,Buyer,50000,2024-05-31,543,BA80775473
+70,Luca Shawky,Procurement,Buyer,50000,2014-04-21,120,BA87599088
+71,Ali Fouad,Procurement,Buyer,50000,2023-11-06,226,BA35316577
+72,Farida Weber,Procurement,Buyer,50000,2025-07-10,1038,BA79284992
+73,Mahmoud Schmidt,Procurement,Buyer,50000,2012-06-09,1160,BA69400790
+74,Diego Ali,Procurement,Buyer,50000,2021-12-15,664,BA41587602
+75,Emma Soliman,Procurement,Buyer,50000,2025-04-14,560,BA30094320
+76,Mona Shawky,Procurement,Buyer,50000,2016-04-17,216,BA24315141
+77,Chen Kaya,Procurement,Buyer,50000,2021-08-27,861,BA36443183
+78,Karim Abdelrahman,Procurement,Buyer,50000,2020-02-06,778,BA27328019
+79,Walid Gaber,Procurement,Buyer,50000,2012-11-11,642,BA77053102
+80,Karim Nguyen,Procurement,Buyer,50000,2018-01-21,323,BA10826840
+81,John Kaya,Procurement,Buyer,50000,2025-06-22,97,BA68400122
+82,Daniel Kim,Procurement,Buyer,50000,2016-08-13,1164,BA71967968
+83,Dina Badawi,Procurement,Buyer,50000,2023-07-09,285,BA51032432
+84,David Younis,Procurement,Buyer,50000,2021-05-16,784,BA58710316
+85,Emma Taylor,Procurement,Buyer,50000,2022-10-28,76,BA75321200
+86,Chen Novak,Procurement,Buyer,50000,2013-06-17,820,BA43323309
+87,Rania Dubois,Procurement,Buyer,50000,2024-07-09,229,BA71548027
+88,Fatima Abdelrahman,Procurement,Buyer,50000,2018-06-14,840,BA52332019
+89,Emma Yilmaz,Procurement,Buyer,50000,2019-05-15,241,BA15882426
+90,Laura Wang,Procurement,Buyer,50000,2018-04-20,595,BA72628066
+91,Lucas Naguib,Procurement,Buyer,50000,2017-10-04,498,BA64425948
+92,Ayse Patel,Procurement,Buyer,50000,2024-04-21,615,BA75244188
+93,Laila Zaki,Procurement,Buyer,50000,2021-06-03,387,BA88239527
+94,Sami Tanaka,Procurement,Buyer,50000,2018-02-06,406,BA40760484
+95,Noha Zaki,Procurement,Buyer,50000,2024-03-22,436,BA56624344
+96,Ayse Rizk,Procurement,Buyer,50000,2014-11-08,765,BA65765920
+97,Heba Wilson,Procurement,Buyer,50000,2014-11-03,981,BA22038397
+98,Lucas Zhang,Procurement,Buyer,50000,2018-08-13,440,BA13169060
+99,Yasmin Brown,Procurement,Buyer,50000,2014-12-05,26,BA70729936
+100,Youssef Rizk,Procurement,Buyer,50000,2019-12-11,234,BA19313539
+101,Hans Hassan,Procurement,Senior Buyer,150000,2018-03-01,125,BA68661644
+102,Hassan Petrov,Procurement,Senior Buyer,150000,2019-06-14,755,BA97778707
+103,Karim Petrov,Procurement,Senior Buyer,150000,2023-11-01,970,BA49945346
+104,Robert Nasr,Procurement,Senior Buyer,150000,2023-04-30,255,BA72516521
+105,James Omar,Procurement,Senior Buyer,150000,2018-06-08,641,BA92135846
+106,Ahmed Nguyen,Procurement,Senior Buyer,150000,2024-08-20,574,BA53839742
+107,Ali Sharma,Procurement,Senior Buyer,150000,2017-04-06,527,BA24237870
+108,Amr Sato,Procurement,Senior Buyer,150000,2021-05-18,1063,BA17745015
+109,Farida Abdelrahman,Procurement,Senior Buyer,150000,2019-12-14,321,BA46570894
+110,Ibrahim Naguib,Procurement,Senior Buyer,150000,2013-09-07,749,BA88410795
+111,Salma Petrov,Procurement,Senior Buyer,150000,2014-02-18,651,BA97958539
+112,Michael Wilson,Procurement,Senior Buyer,150000,2019-05-28,1051,BA55881278
+113,Mona Rossi,Procurement,Senior Buyer,150000,2020-06-18,266,BA71672283
+114,Kenji Salem,Procurement,Senior Buyer,150000,2014-10-24,1121,BA61260610
+115,Khaled Kamel,Procurement,Senior Buyer,150000,2018-11-06,1031,BA69976618
+116,Michael Demir,Procurement,Senior Buyer,150000,2015-10-30,539,BA34520341
+117,David Soliman,Procurement,Senior Buyer,150000,2024-02-24,989,BA26376198
+118,Arjun Hamdy,Procurement,Senior Buyer,150000,2016-03-02,777,BA95192289
+119,Anna Hamdy,Procurement,Senior Buyer,150000,2018-02-22,387,BA24147494
+120,Ayse Nasr,Procurement,Senior Buyer,150000,2022-11-06,1024,BA62975866
+121,Hans Weber,Procurement,Senior Buyer,150000,2015-06-08,30,BA77661419
+122,Luca Fouad,Procurement,Senior Buyer,150000,2018-07-04,168,BA16139409
+123,Yasmin Yilmaz,Procurement,Senior Buyer,150000,2015-11-27,1066,BA11922266
+124,Marco Rossi,Procurement,Senior Buyer,150000,2014-08-10,952,BA46418034
+125,Robert Bianchi,Procurement,Senior Buyer,150000,2022-03-29,359,BA55180088
+126,John Li,Procurement,Senior Buyer,150000,2014-11-07,1183,BA74016068
+127,Fatima Farouk,Procurement,Senior Buyer,150000,2012-06-03,789,BA67285763
+128,Nour Khan,Procurement,Senior Buyer,150000,2018-10-07,292,BA69743436
+129,Sami Garcia,Procurement,Senior Buyer,150000,2016-01-21,1030,BA73547589
+130,James Park,Procurement,Senior Buyer,150000,2015-05-15,1191,BA46806598
+131,David Fouad,Procurement,Senior Buyer,150000,2020-01-06,959,BA46570045
+132,Lucas Ibrahim,Procurement,Senior Buyer,150000,2014-12-01,750,BA73680716
+133,Farida Wilson,Procurement,Senior Buyer,150000,2020-02-18,1036,BA25512174
+134,Youssef Wang,Procurement,Senior Buyer,150000,2013-11-07,967,BA41376606
+135,Omar Zhang,Procurement,Senior Buyer,150000,2015-04-06,587,BA54846552
+136,Amira Khan,Procurement,Senior Buyer,150000,2018-06-24,911,BA28136948
+137,Laila Rossi,Procurement,Senior Buyer,150000,2023-04-30,1011,BA36507984
+138,Youssef Nguyen,Procurement,Senior Buyer,150000,2014-08-14,40,BA19308567
+139,Laila Mansour,Procurement,Senior Buyer,150000,2017-02-16,554,BA95815147
+140,Farida Santos,Procurement,Senior Buyer,150000,2018-01-16,1124,BA78009046
+141,Khaled Nasr,Procurement,Senior Buyer,150000,2016-01-27,317,BA17881808
+142,Dina Younis,Procurement,Senior Buyer,150000,2012-05-23,738,BA34077968
+143,Tarek Sato,Procurement,Senior Buyer,150000,2018-10-11,578,BA92363295
+144,Kenji Rizk,Procurement,Senior Buyer,150000,2020-07-08,704,BA44020027
+145,Kenji Weber,Procurement,Senior Buyer,150000,2014-01-03,403,BA79585588
+146,Laila Younis,Procurement,Senior Buyer,150000,2016-12-31,765,BA46223298
+147,Salma Nasr,Procurement,Senior Buyer,150000,2019-06-01,921,BA37900570
+148,Arjun Patel,Procurement,Senior Buyer,150000,2023-03-31,886,BA81765670
+149,Laila Farouk,Procurement,Senior Buyer,150000,2019-06-19,999,BA63638619
+150,Rania Yilmaz,Procurement,Senior Buyer,150000,2013-03-01,304,BA77727519
+151,Youssef Younis,Procurement,Senior Buyer,150000,2021-11-14,170,BA70578876
+152,Hans Said,Procurement,Senior Buyer,150000,2012-11-10,651,BA65769492
+153,Maria Anwar,Procurement,Senior Buyer,150000,2013-05-23,198,BA47295481
+154,Salma Rizk,Procurement,Senior Buyer,150000,2014-05-16,754,BA30316887
+155,David Petrov,Procurement,Senior Buyer,150000,2021-06-13,461,BA10415703
+156,Priya Schmidt,Procurement,Senior Buyer,150000,2015-01-22,863,BA23513300
+157,Heba Park,Procurement,Senior Buyer,150000,2016-05-21,556,BA47384632
+158,Mehmet Abdelrahman,Procurement,Senior Buyer,150000,2013-09-06,675,BA95668575
+159,Anna Mostafa,Procurement,Senior Buyer,150000,2020-03-16,1148,BA52916184
+160,Ahmed Kamel,Procurement,Senior Buyer,150000,2017-05-29,754,BA48898932
+161,Min-jun Silva,Procurement,Senior Buyer,150000,2013-03-06,1131,BA52787228
+162,Arjun Kim,Procurement,Senior Buyer,150000,2013-06-21,292,BA58419496
+163,Amira Miller,Procurement,Senior Buyer,150000,2013-01-03,1161,BA63271764
+164,Dina Singh,Procurement,Senior Buyer,150000,2024-04-26,258,BA89017301
+165,Min-jun Santos,Procurement,Senior Buyer,150000,2025-04-10,876,BA56084994
+166,Mehmet Fouad,Procurement,Senior Buyer,150000,2024-05-30,56,BA52047044
+167,Chen Bianchi,Procurement,Senior Buyer,150000,2012-05-21,813,BA21350144
+168,Anna Martin,Procurement,Senior Buyer,150000,2020-02-11,1057,BA88207949
+169,Mohamed Demir,Procurement,Senior Buyer,150000,2017-08-04,325,BA97160169
+170,Ivan Zaki,Procurement,Senior Buyer,150000,2020-02-09,189,BA11722344
+171,Farida Martin,Procurement,Procurement Manager,500000,2024-09-08,448,BA19146557
+172,Wei Martin,Procurement,Procurement Manager,500000,2013-07-01,81,BA22121923
+173,Salma Wilson,Procurement,Procurement Manager,500000,2019-01-13,4,BA11209086
+174,Dina Martin,Procurement,Procurement Manager,500000,2021-08-08,513,BA30769927
+175,Fatima Sharma,Procurement,Procurement Manager,500000,2025-01-05,1000,BA71352477
+176,Mona Wilson,Procurement,Procurement Manager,500000,2024-02-14,484,BA77373037
+177,David Silva,Procurement,Procurement Manager,500000,2018-05-05,332,BA77884367
+178,Chen Garcia,Procurement,Procurement Manager,500000,2015-05-30,270,BA53963661
+179,Yasmin Novak,Procurement,Procurement Manager,500000,2023-03-13,96,BA68001825
+180,Ibrahim Garcia,Procurement,Procurement Manager,500000,2018-08-03,474,BA65981676
+181,Rania Ibrahim,Procurement,Procurement Manager,500000,2020-10-04,379,BA32400668
+182,Pierre Fouad,Procurement,Procurement Manager,500000,2016-12-11,539,BA39373627
+183,Maria Singh,Procurement,Procurement Manager,500000,2021-08-09,388,BA52585621
+184,Tarek Clark,Procurement,Procurement Manager,500000,2013-11-10,709,BA65104105
+185,Sami Kim,Procurement,Procurement Manager,500000,2017-08-18,869,BA53162655
+186,Yasmin Helmy,Procurement,Procurement Manager,500000,2023-04-29,15,BA49657358
+187,Salma Hassan,Procurement,Procurement Manager,500000,2014-09-08,7,BA64136687
+188,Raj Kaya,Procurement,Procurement Manager,500000,2017-01-23,333,BA92321355
+189,Raj Shawky,Procurement,Procurement Manager,500000,2013-02-28,277,BA87485070
+190,Farida Rizk,Procurement,Procurement Manager,500000,2013-05-07,107,BA38584209
+191,Mohamed Miller,Procurement,Procurement Manager,500000,2021-04-13,1076,BA90875771
+192,Mona Mansour,Procurement,Procurement Manager,500000,2016-06-03,106,BA53654128
+193,Omar Brown,Procurement,Procurement Manager,500000,2018-01-23,1026,BA45804639
+194,Laila Singh,Procurement,Procurement Manager,500000,2019-11-16,80,BA37854216
+195,Dina Sharma,Procurement,Procurement Manager,500000,2025-08-06,755,BA76376610
+196,Yasmin Khan,Procurement,Procurement Manager,500000,2014-10-20,459,BA15287483
+197,Chen Johnson,Procurement,Procurement Manager,500000,2020-09-13,671,BA70697271
+198,Olivia Sabry,Procurement,Procurement Manager,500000,2024-10-04,627,BA68905645
+199,Youssef Mansour,Procurement,Procurement Manager,500000,2012-11-02,268,BA74583574
+200,Yasmin Rossi,Procurement,Procurement Manager,500000,2020-04-28,123,BA14096966
+201,Olivia Wang,Procurement,Procurement Manager,500000,2024-02-02,1051,BA64896129
+202,Farida Farouk,Procurement,Procurement Manager,500000,2019-11-04,876,BA68885218
+203,Khaled Nguyen,Procurement,Procurement Manager,500000,2014-01-20,913,BA22284093
+204,Sara Hamdy,Procurement,Procurement Manager,500000,2015-08-31,742,BA12686601
+205,Mona Rizk,Procurement,Procurement Manager,500000,2016-12-15,616,BA61449169
+206,Amr Soliman,Procurement,Procurement Manager,500000,2021-09-14,1022,BA33177356
+207,Emma Badawi,Procurement,Procurement Manager,500000,2021-09-30,194,BA55274989
+208,Hassan Li,Procurement,Procurement Manager,500000,2022-03-03,728,BA15012033
+209,Hans Farouk,Procurement,Procurement Manager,500000,2015-04-12,260,BA44605411
+210,Nour Dubois,Procurement,Procurement Manager,500000,2014-12-02,782,BA44846395
+211,Mehmet Santos,Procurement,Procurement Manager,500000,2021-10-23,456,BA30820073
+212,Mostafa Sabry,Procurement,Procurement Manager,500000,2021-08-26,513,BA71206255
+213,Lucas Salem,Procurement,Procurement Manager,500000,2013-09-20,398,BA63055452
+214,Ayse Silva,Procurement,Procurement Manager,500000,2012-08-26,716,BA53580405
+215,Tarek Brown,Procurement,Procurement Manager,500000,2024-07-27,74,BA42280108
+216,Dina Nguyen,Procurement,Procurement Manager,500000,2022-04-02,927,BA85796721
+217,Maria Taylor,Procurement,Procurement Manager,500000,2024-02-01,488,BA73797961
+218,Raj Tanaka,Procurement,Procurement Manager,500000,2020-11-20,1177,BA57437285
+219,Olivia Schmidt,Procurement,Procurement Manager,500000,2015-08-27,539,BA83780101
+220,Laila Ibrahim,Procurement,Procurement Manager,500000,2017-11-01,148,BA16426879
+221,Wei Petrov,Finance,AP Clerk,0,2019-09-04,345,BA29236045
+222,Sami Miller,Finance,AP Clerk,0,2022-11-25,552,BA41738787
+223,Hassan Salem,Finance,AP Clerk,0,2023-09-15,462,BA76282446
+224,Ibrahim Clark,Finance,AP Clerk,0,2015-07-08,318,BA50126794
+225,Rania Helmy,Finance,AP Clerk,0,2018-10-25,399,BA77389733
+226,Omar Sharma,Finance,AP Clerk,0,2025-05-26,880,BA76440625
+227,Daniel Zhang,Finance,AP Clerk,0,2021-09-15,453,BA69533166
+228,Heba Clark,Finance,AP Clerk,0,2016-08-08,187,BA42991173
+229,Mehmet Nasr,Finance,AP Clerk,0,2018-05-03,743,BA56567114
+230,Sara Omar,Finance,AP Clerk,0,2015-12-08,888,BA36420390
+231,Walid Younis,Finance,AP Clerk,0,2015-09-27,597,BA28354490
+232,Hany Santos,Finance,AP Clerk,0,2024-03-09,870,BA32993355
+233,Hany Silva,Finance,AP Clerk,0,2014-03-24,238,BA30532680
+234,Noha Clark,Finance,AP Clerk,0,2017-09-10,174,BA19527139
+235,Luca Badawi,Finance,AP Clerk,0,2024-11-20,955,BA52798488
+236,Sami Hamdy,Finance,AP Clerk,0,2012-11-22,947,BA56424438
+237,Arjun Brown,Finance,AP Clerk,0,2017-10-05,616,BA19347026
+238,Amira Hassan,Finance,AP Clerk,0,2022-06-29,583,BA58294827
+239,Rania Khan,Finance,AP Clerk,0,2012-07-13,551,BA30610368
+240,Amira Brown,Finance,AP Clerk,0,2025-03-23,265,BA25798395
+241,Hany Lopez,Finance,AP Clerk,0,2019-07-14,857,BA97431448
+242,Youssef Farouk,Finance,AP Clerk,0,2025-02-20,459,BA94819655
+243,Emma Novak,Finance,AP Clerk,0,2015-05-24,903,BA35934568
+244,Pierre Ibrahim,Finance,AP Clerk,0,2015-04-29,531,BA76024619
+245,Pierre Smith,Finance,AP Clerk,0,2024-05-17,1019,BA55166826
+246,Raj Sato,Finance,AP Clerk,0,2021-10-11,1017,BA14737497
+247,Robert Naguib,Finance,AP Clerk,0,2014-01-02,974,BA36163360
+248,Nour Helmy,Finance,AP Clerk,0,2022-03-04,323,BA67891608
+249,Khaled Rossi,Finance,AP Clerk,0,2017-11-24,803,BA11026970
+250,Hans Li,Finance,AP Clerk,0,2018-05-28,905,BA97421737
+251,Mostafa Silva,Finance,AP Clerk,0,2013-10-22,866,BA42665432
+252,Mohamed Bianchi,Finance,AP Clerk,0,2015-09-21,1056,BA76901891
+253,Sherif Kim,Finance,AP Clerk,0,2015-02-27,189,BA33008057
+254,Hans Martin,Finance,AP Clerk,0,2024-06-22,789,BA72165437
+255,Ivan Ali,Finance,AP Clerk,0,2014-01-23,840,BA19384460
+256,Mahmoud Omar,Finance,AP Clerk,0,2019-08-13,429,BA98730260
+257,John Smith,Finance,AP Clerk,0,2024-11-28,306,BA59174048
+258,Raj Weber,Finance,AP Clerk,0,2024-05-25,679,BA27491439
+259,Raj Nasr,Finance,AP Clerk,0,2016-02-12,310,BA75028218
+260,Raj Said,Finance,AP Clerk,0,2013-10-19,706,BA31769747
+261,Hassan Lotfy,Finance,AP Clerk,0,2023-01-16,145,BA71644308
+262,Heba Santos,Finance,AP Clerk,0,2021-09-30,475,BA47288224
+263,Fatima Rossi,Finance,AP Clerk,0,2022-02-14,477,BA85200776
+264,Raj Taylor,Finance,AP Clerk,0,2013-10-06,881,BA51392340
+265,Robert Clark,Finance,AP Clerk,0,2021-05-03,24,BA83036187
+266,Emma Helmy,Finance,AP Clerk,0,2016-12-26,437,BA18504420
+267,Hany Said,Finance,AP Clerk,0,2017-10-10,789,BA93851189
+268,Chen Santos,Finance,AP Clerk,0,2020-03-13,597,BA64439753
+269,Amira Farouk,Finance,AP Clerk,0,2017-04-15,898,BA83994713
+270,Priya Rizk,Finance,AP Clerk,0,2022-12-02,1043,BA96735235
+271,James Sharma,Finance,AP Clerk,0,2013-03-25,931,BA30735947
+272,Farida Ali,Finance,AP Clerk,0,2013-06-09,402,BA55102040
+273,Daniel Badawi,Finance,AP Clerk,0,2025-07-03,155,BA68366057
+274,Michael Park,Finance,AP Clerk,0,2019-03-24,105,BA53211127
+275,Walid Omar,Finance,AP Clerk,0,2023-02-03,770,BA23849490
+276,Luca Tanaka,Finance,AP Clerk,0,2019-09-06,152,BA61630468
+277,Ivan Kaya,Finance,AP Clerk,0,2020-11-02,1006,BA86810785
+278,Kenji Novak,Finance,AP Clerk,0,2013-12-27,695,BA45120848
+279,Youssef Kamel,Finance,AP Clerk,0,2014-09-30,44,BA31412098
+280,Mehmet Mostafa,Finance,AP Clerk,0,2021-11-01,950,BA66472839
+281,Lucas Said,Finance,AP Clerk,0,2018-04-30,233,BA72991937
+282,Laura Salem,Finance,AP Clerk,0,2020-06-09,1191,BA36315957
+283,Michael Zhang,Finance,AP Clerk,0,2018-11-01,322,BA17823085
+284,Youssef Wilson,Finance,AP Clerk,0,2013-08-05,661,BA47994511
+285,Khaled Dubois,Finance,AP Clerk,0,2015-07-09,555,BA38899179
+286,Salma Schmidt,Finance,AP Clerk,0,2024-12-21,423,BA18252885
+287,Noha Mansour,Finance,AP Clerk,0,2016-12-03,207,BA62976121
+288,Rania Mostafa,Finance,AP Clerk,0,2015-05-17,74,BA71123095
+289,Youssef Anwar,Finance,AP Clerk,0,2021-10-20,647,BA40138590
+290,Daniel Bianchi,Finance,AP Clerk,0,2015-10-14,1180,BA84112509
+291,Ibrahim Hassan,Finance,AP Clerk,0,2024-07-05,413,BA59838262
+292,Diego Demir,Finance,AP Clerk,0,2024-06-04,361,BA65754918
+293,Heba Garcia,Finance,AP Clerk,0,2019-07-01,787,BA91851579
+294,Salma Ibrahim,Finance,AP Clerk,0,2020-02-27,1199,BA90770665
+295,Dina Kaya,Finance,AP Clerk,0,2013-11-30,638,BA85359360
+296,Diego Brown,Finance,AP Clerk,0,2014-08-24,1163,BA97116096
+297,Daniel Demir,Finance,AP Clerk,0,2017-09-07,824,BA51408973
+298,Dina Rizk,Finance,AP Clerk,0,2018-05-31,957,BA25013543
+299,Heba Johnson,Finance,AP Clerk,0,2024-12-17,296,BA67119728
+300,Robert Rizk,Finance,AP Clerk,0,2023-02-22,663,BA95693521
+301,Priya Demir,Finance,AP Clerk,0,2019-10-18,849,BA40277877
+302,Hassan Miller,Finance,AP Clerk,0,2019-12-31,435,BA87006736
+303,Hany Salem,Finance,AP Clerk,0,2020-07-15,882,BA61564477
+304,David Demir,Finance,AP Clerk,0,2018-12-29,465,BA67708793
+305,Mohamed Naguib,Finance,AP Clerk,0,2017-11-22,867,BA84789965
+306,Lucas Nguyen,Finance,AP Clerk,0,2020-06-16,546,BA74744305
+307,Karim Nasr,Finance,AP Clerk,0,2017-10-30,83,BA57575976
+308,Olivia Martin,Finance,AP Clerk,0,2024-03-28,117,BA92515250
+309,Luca Khan,Finance,AP Clerk,0,2012-12-18,1136,BA72595881
+310,Michael Abdelrahman,Finance,AP Clerk,0,2018-10-01,765,BA67271675
+311,Salma Lopez,Finance,Finance Manager,1500000,2021-02-27,693,BA25861386
+312,Walid Clark,Finance,Finance Manager,1500000,2019-09-30,925,BA90289935
+313,Khaled Taylor,Finance,Finance Manager,1500000,2020-03-22,327,BA46086616
+314,Hans Salem,Finance,Finance Manager,1500000,2021-11-08,439,BA80795706
+315,Fatima Miller,Finance,Finance Manager,1500000,2017-06-24,521,BA39388486
+316,Robert Weber,Finance,Finance Manager,1500000,2013-10-27,790,BA70939626
+317,Aisha Schmidt,Finance,Finance Manager,1500000,2013-10-31,622,BA35450618
+318,Raj Hamdy,Finance,Finance Manager,1500000,2023-06-12,327,BA91847658
+319,Maria Nguyen,Finance,Finance Manager,1500000,2016-03-29,622,BA61297715
+320,Tarek Farouk,Finance,Finance Manager,1500000,2015-08-07,449,BA79451724
+321,Emma Ibrahim,Finance,Finance Manager,1500000,2019-05-21,298,BA32759254
+322,Noha Abdelrahman,Finance,Finance Manager,1500000,2016-06-24,231,BA45030223
+323,Salma Naguib,Finance,Finance Manager,1500000,2014-10-16,318,BA36294629
+324,Marco Sabry,Finance,Finance Manager,1500000,2024-04-11,647,BA42483816
+325,Walid Silva,Finance,Finance Manager,1500000,2019-03-11,437,BA82770498
+326,Robert Miller,Finance,Finance Manager,1500000,2025-04-02,508,BA11666726
+327,Omar Wilson,Finance,Finance Manager,1500000,2012-10-20,938,BA81476231
+328,Dina Garcia,Finance,Finance Manager,1500000,2018-08-14,834,BA17331380
+329,Emma Petrov,Finance,Finance Manager,1500000,2021-11-25,525,BA98495414
+330,David Smith,Finance,Finance Manager,1500000,2024-10-27,691,BA23267768
+331,Youssef Silva,Finance,Finance Manager,1500000,2023-12-22,47,BA44819126
+332,Anna Younis,Finance,Finance Manager,1500000,2021-11-29,491,BA46536388
+333,Laura Smith,Finance,Finance Manager,1500000,2014-07-31,543,BA21584654
+334,Carlos Bianchi,Finance,Finance Manager,1500000,2012-07-21,357,BA61172131
+335,Ayse Rossi,Finance,Finance Manager,1500000,2021-09-14,242,BA24412738
+336,Ibrahim Younis,Finance,Finance Manager,1500000,2021-02-18,889,BA72860190
+337,Sherif Salem,Finance,Finance Manager,1500000,2014-05-09,15,BA39050689
+338,Anna Abdelrahman,Finance,Finance Manager,1500000,2024-04-30,1173,BA29777026
+339,Michael Dubois,Finance,Finance Manager,1500000,2017-07-14,1173,BA93448492
+340,Hassan Helmy,Finance,Finance Manager,1500000,2017-08-29,751,BA38652880
+341,Min-jun Tanaka,Finance,Finance Manager,1500000,2018-11-16,353,BA26017936
+342,Rania Nguyen,Finance,Finance Manager,1500000,2014-07-07,353,BA90119870
+343,Khaled Gaber,Finance,Finance Manager,1500000,2024-07-06,645,BA84295963
+344,Arjun Anwar,Finance,Finance Manager,1500000,2021-11-14,803,BA39298563
+345,Luca Rossi,Finance,Finance Manager,1500000,2015-03-03,430,BA78113018
+346,Hans Fouad,Finance,Finance Manager,1500000,2021-08-21,529,BA84115610
+347,Hassan Nguyen,Finance,Finance Manager,1500000,2024-10-17,65,BA78940484
+348,Aisha Bianchi,Finance,Finance Manager,1500000,2019-07-26,1064,BA54677013
+349,Sophia Sato,Finance,Finance Manager,1500000,2012-10-12,1082,BA73826339
+350,Sara Shawky,Finance,Finance Manager,1500000,2015-02-12,315,BA66697815
+351,Min-jun Demir,Finance,Finance Director,10000000,2013-12-16,1123,BA63247521
+352,Sherif Lotfy,Finance,Finance Director,10000000,2021-11-13,1018,BA41055758
+353,Khaled Singh,Finance,Finance Director,10000000,2021-08-17,224,BA56988550
+354,Carlos Yilmaz,Finance,Finance Director,10000000,2023-08-11,184,BA54333094
+355,Noha Khan,Finance,Finance Director,10000000,2023-12-20,502,BA50747872
+356,Walid Naguib,Finance,Finance Director,10000000,2021-12-15,831,BA93879005
+357,Mahmoud Shawky,Finance,Finance Director,10000000,2013-11-03,449,BA37297027
+358,Rania Kim,Finance,Finance Director,10000000,2016-08-25,880,BA11739061
+359,Karim Zaki,Finance,Finance Director,10000000,2019-04-07,201,BA72812182
+360,Sara Kamel,Finance,Finance Director,10000000,2019-05-20,1112,BA75469739
+361,Priya Zaki,Finance,Finance Director,10000000,2024-01-03,794,BA17470485
+362,Mona Li,Finance,Finance Director,10000000,2019-02-15,301,BA48954980
+363,Amr Novak,Finance,Finance Director,10000000,2019-01-06,939,BA76026901
+364,Sherif Soliman,Finance,Finance Director,10000000,2015-06-12,493,BA31386621
+365,Raj Singh,Finance,Finance Director,10000000,2022-05-18,912,BA22440992
+366,Marco Hassan,Finance,Finance Director,10000000,2014-02-19,844,BA34097435
+367,Fatima Gaber,Finance,Finance Director,10000000,2020-03-23,811,BA28792355
+368,Yasmin Badawi,Finance,Finance Director,10000000,2024-11-18,146,BA70804229
+369,Amr Omar,Finance,Finance Director,10000000,2017-02-13,21,BA86352439
+370,Salma Tanaka,Finance,Finance Director,10000000,2017-08-03,840,BA61652312
+371,Mostafa Petrov,Warehouse,Warehouse Operator,0,2013-06-12,276,BA62879654
+372,Mehmet Anwar,Warehouse,Warehouse Operator,0,2018-04-18,81,BA64808622
+373,Anna Khan,Warehouse,Warehouse Operator,0,2014-12-22,618,BA21355654
+374,Sami Kamel,Warehouse,Warehouse Operator,0,2022-06-22,1122,BA62911604
+375,Robert Singh,Warehouse,Warehouse Operator,0,2023-07-11,844,BA67122109
+376,Anna Yilmaz,Warehouse,Warehouse Operator,0,2017-01-30,361,BA68639212
+377,Ahmed Smith,Warehouse,Warehouse Operator,0,2019-04-19,464,BA18574094
+378,Arjun Shawky,Warehouse,Warehouse Operator,0,2015-02-02,838,BA84796180
+379,Mohamed Sabry,Warehouse,Warehouse Operator,0,2019-02-07,540,BA98564220
+380,Mostafa Anwar,Warehouse,Warehouse Operator,0,2015-01-14,671,BA79951390
+381,Salma Nguyen,Warehouse,Warehouse Operator,0,2012-06-15,1009,BA23490856
+382,Mona Soliman,Warehouse,Warehouse Operator,0,2012-09-26,69,BA85345409
+383,Amira Novak,Warehouse,Warehouse Operator,0,2024-07-06,29,BA49863816
+384,Hans Mansour,Warehouse,Warehouse Operator,0,2012-09-19,1069,BA33731912
+385,John Anwar,Warehouse,Warehouse Operator,0,2018-11-07,323,BA18081504
+386,Noha Lotfy,Warehouse,Warehouse Operator,0,2020-09-04,987,BA65278141
+387,Nour Younis,Warehouse,Warehouse Operator,0,2013-06-16,348,BA75828173
+388,Wei Taylor,Warehouse,Warehouse Operator,0,2023-06-02,1017,BA26316275
+389,Aisha Lotfy,Warehouse,Warehouse Operator,0,2020-05-06,1192,BA84874181
+390,Heba Hamdy,Warehouse,Warehouse Operator,0,2014-07-18,1106,BA42776775
+391,Hans Singh,Warehouse,Warehouse Operator,0,2022-03-06,274,BA20893350
+392,Mostafa Demir,Warehouse,Warehouse Operator,0,2013-03-08,621,BA31033927
+393,Min-jun Anwar,Warehouse,Warehouse Operator,0,2018-04-01,57,BA61264397
+394,Chen Badawi,Warehouse,Warehouse Operator,0,2018-10-31,321,BA66231101
+395,Karim Miller,Warehouse,Warehouse Operator,0,2021-05-25,500,BA72292432
+396,Sami Wilson,Warehouse,Warehouse Operator,0,2023-12-29,44,BA93982419
+397,Hany Miller,Warehouse,Warehouse Operator,0,2013-04-15,780,BA18278216
+398,Kenji Naguib,Warehouse,Warehouse Operator,0,2025-08-16,232,BA80139616
+399,Fatima Nguyen,Warehouse,Warehouse Operator,0,2024-07-17,185,BA37646197
+400,Yasmin Johnson,Warehouse,Warehouse Operator,0,2024-09-02,782,BA87834047
+401,Carlos Novak,Warehouse,Warehouse Operator,0,2022-11-30,1008,BA68051479
+402,Laura Hassan,Warehouse,Warehouse Operator,0,2015-11-11,1197,BA19257459
+403,Pierre Khan,Warehouse,Warehouse Operator,0,2024-07-21,236,BA83082164
+404,Mahmoud Kaya,Warehouse,Warehouse Operator,0,2023-09-12,932,BA31592518
+405,Aisha Patel,Warehouse,Warehouse Operator,0,2016-02-29,846,BA76090700
+406,Ayse Demir,Warehouse,Warehouse Operator,0,2025-03-23,976,BA23856772
+407,Olivia Miller,Warehouse,Warehouse Operator,0,2021-10-04,195,BA25973739
+408,Arjun Lopez,Warehouse,Warehouse Operator,0,2014-08-11,575,BA95388479
+409,Olivia Nasr,Warehouse,Warehouse Operator,0,2013-08-25,1059,BA23357607
+410,Sara Yilmaz,Warehouse,Warehouse Operator,0,2019-01-19,689,BA82866860
+411,Min-jun Omar,Warehouse,Warehouse Operator,0,2013-09-26,242,BA40063535
+412,Luca Garcia,Warehouse,Warehouse Operator,0,2013-10-22,1,BA64606527
+413,Kenji Abdelrahman,Warehouse,Warehouse Operator,0,2013-03-01,878,BA96366525
+414,Heba Zaki,Warehouse,Warehouse Operator,0,2022-05-16,82,BA45057539
+415,Tarek Younis,Warehouse,Warehouse Operator,0,2022-04-03,1007,BA74071324
+416,Aisha Khan,Warehouse,Warehouse Operator,0,2016-11-10,790,BA52006236
+417,Omar Sabry,Warehouse,Warehouse Operator,0,2025-08-31,306,BA70033352
+418,Kenji Kim,Warehouse,Warehouse Operator,0,2022-02-18,255,BA34982350
+419,James Wilson,Warehouse,Warehouse Operator,0,2020-06-30,112,BA67212949
+420,Rania Taylor,Warehouse,Warehouse Operator,0,2013-10-16,407,BA97200836
+421,David Park,Warehouse,Warehouse Operator,0,2012-10-24,704,BA75346327
+422,Ivan Demir,Warehouse,Warehouse Operator,0,2021-02-08,368,BA80948031
+423,Arjun Bianchi,Warehouse,Warehouse Operator,0,2015-06-21,599,BA54808312
+424,Raj Nguyen,Warehouse,Warehouse Operator,0,2018-05-25,755,BA79660282
+425,Luca Johnson,Warehouse,Warehouse Operator,0,2024-11-16,576,BA72886111
+426,Raj Helmy,Warehouse,Warehouse Operator,0,2020-05-10,300,BA21236262
+427,Mona Nguyen,Warehouse,Warehouse Operator,0,2016-04-15,938,BA82317016
+428,Pierre Bianchi,Warehouse,Warehouse Operator,0,2016-03-30,862,BA23919163
+429,Mostafa Zhang,Warehouse,Warehouse Operator,0,2013-06-03,556,BA56387983
+430,Daniel Taylor,Warehouse,Warehouse Operator,0,2017-04-14,217,BA70356459
+431,Aisha Helmy,Warehouse,Warehouse Operator,0,2012-09-29,597,BA68212144
+432,Ibrahim Smith,Warehouse,Warehouse Operator,0,2019-08-18,433,BA96326240
+433,Mona Said,Warehouse,Warehouse Operator,0,2016-02-09,585,BA93665643
+434,Ibrahim Brown,Warehouse,Warehouse Operator,0,2017-05-26,151,BA97323254
+435,Amira Sato,Warehouse,Warehouse Operator,0,2014-02-22,546,BA69034260
+436,Noha Miller,Warehouse,Warehouse Operator,0,2013-04-03,62,BA40324104
+437,Yasmin Bianchi,Warehouse,Warehouse Operator,0,2014-06-06,487,BA89734446
+438,Salma Yilmaz,Warehouse,Warehouse Operator,0,2012-11-27,839,BA25952426
+439,Wei Ibrahim,Warehouse,Warehouse Operator,0,2020-11-20,194,BA89647800
+440,Fatima Wilson,Warehouse,Warehouse Operator,0,2012-05-29,154,BA85673754
+441,Priya Salem,Warehouse,Warehouse Operator,0,2024-05-08,355,BA82303230
+442,Amr Zaki,Warehouse,Warehouse Operator,0,2020-10-06,1088,BA35687434
+443,Walid Sato,Warehouse,Warehouse Operator,0,2015-12-15,318,BA75421707
+444,Luca Gaber,Warehouse,Warehouse Operator,0,2017-05-25,1131,BA65204792
+445,Michael Weber,Warehouse,Warehouse Operator,0,2023-11-05,298,BA40201189
+446,Daniel Ali,Warehouse,Warehouse Operator,0,2016-08-01,69,BA94536024
+447,Mona Smith,Warehouse,Warehouse Operator,0,2020-07-17,940,BA20746681
+448,Mehmet Omar,Warehouse,Warehouse Operator,0,2015-01-17,143,BA26891023
+449,Ibrahim Lotfy,Warehouse,Warehouse Operator,0,2012-05-15,137,BA40553213
+450,Min-jun Rizk,Warehouse,Warehouse Operator,0,2022-12-21,641,BA22449691
+451,Nour Zaki,Warehouse,Warehouse Operator,0,2018-03-13,247,BA44232052
+452,Nour Li,Warehouse,Warehouse Operator,0,2025-04-21,726,BA20105596
+453,Tarek Zhang,Warehouse,Warehouse Operator,0,2018-09-14,632,BA88074997
+454,Heba Rossi,Warehouse,Warehouse Operator,0,2014-06-04,857,BA66620257
+455,David Zhang,Warehouse,Warehouse Operator,0,2013-01-04,376,BA71942732
+456,Heba Ibrahim,Warehouse,Warehouse Operator,0,2015-02-03,336,BA57848341
+457,Diego Mansour,Warehouse,Warehouse Operator,0,2021-11-17,289,BA36244335
+458,Pierre Dubois,Warehouse,Warehouse Operator,0,2020-08-28,899,BA57250323
+459,Tarek Silva,Warehouse,Warehouse Operator,0,2012-04-27,449,BA71940967
+460,Maria Gaber,Warehouse,Warehouse Operator,0,2015-02-09,1023,BA42197321
+461,Farida Clark,Warehouse,Warehouse Operator,0,2013-06-28,603,BA89629156
+462,Noha Omar,Warehouse,Warehouse Operator,0,2022-05-21,953,BA85772426
+463,Diego Kim,Warehouse,Warehouse Operator,0,2020-10-24,810,BA75387472
+464,Rania Miller,Warehouse,Warehouse Operator,0,2014-08-27,832,BA31545034
+465,Carlos Farouk,Warehouse,Warehouse Operator,0,2021-04-21,1167,BA45353925
+466,Hans Taylor,Warehouse,Warehouse Operator,0,2015-08-06,544,BA85105082
+467,Noha Singh,Warehouse,Warehouse Operator,0,2023-12-26,1024,BA63058192
+468,Hassan Kim,Warehouse,Warehouse Operator,0,2024-11-02,990,BA83571508
+469,Emma Weber,Warehouse,Warehouse Operator,0,2013-06-10,516,BA78722588
+470,Amr Smith,Warehouse,Warehouse Operator,0,2021-08-17,836,BA98353190
+471,Sami Salem,Warehouse,Warehouse Operator,0,2023-03-12,542,BA33377880
+472,Rania Hamdy,Warehouse,Warehouse Operator,0,2022-04-09,800,BA70946142
+473,Khaled Sharma,Warehouse,Warehouse Operator,0,2025-07-22,499,BA28582896
+474,John Kim,Warehouse,Warehouse Operator,0,2015-07-08,592,BA21614158
+475,Mohamed Nasr,Warehouse,Warehouse Operator,0,2013-10-13,287,BA78085035
+476,Mona Miller,Warehouse,Warehouse Operator,0,2025-06-13,763,BA98477642
+477,Arjun Mostafa,Warehouse,Warehouse Operator,0,2017-09-07,1143,BA50655251
+478,Sara Wang,Warehouse,Warehouse Operator,0,2020-10-20,425,BA22143565
+479,Priya Yilmaz,Warehouse,Warehouse Operator,0,2016-09-12,83,BA86205297
+480,Salma Kaya,Warehouse,Warehouse Operator,0,2016-04-24,850,BA97794808
+481,Raj Demir,Warehouse,Warehouse Operator,0,2015-11-18,246,BA79584108
+482,Sherif Anwar,Warehouse,Warehouse Operator,0,2025-01-23,836,BA43466631
+483,Arjun Zhang,Warehouse,Warehouse Operator,0,2025-02-07,795,BA42040676
+484,Emma Naguib,Warehouse,Warehouse Operator,0,2013-01-17,1139,BA23417756
+485,Tarek Yilmaz,Warehouse,Warehouse Operator,0,2024-06-12,708,BA74596310
+486,Diego Anwar,Warehouse,Warehouse Operator,0,2018-11-25,145,BA41879820
+487,Ivan Santos,Warehouse,Warehouse Operator,0,2018-12-30,335,BA37090363
+488,James Silva,Warehouse,Warehouse Operator,0,2020-08-11,326,BA74867109
+489,Tarek Petrov,Warehouse,Warehouse Operator,0,2025-01-01,1125,BA28693999
+490,Michael Yilmaz,Warehouse,Warehouse Operator,0,2023-06-10,1033,BA23247883
+491,Arjun Farouk,Warehouse,Warehouse Operator,0,2018-12-08,492,BA84519282
+492,Laura Santos,Warehouse,Warehouse Operator,0,2024-03-16,1053,BA72689828
+493,Walid Kaya,Warehouse,Warehouse Operator,0,2015-11-02,716,BA49536042
+494,Wei Mostafa,Warehouse,Warehouse Operator,0,2014-03-08,378,BA64685276
+495,Michael Sato,Warehouse,Warehouse Operator,0,2016-11-21,110,BA54206458
+496,Tarek Sharma,Warehouse,Warehouse Operator,0,2014-08-03,1097,BA59695031
+497,Mostafa Clark,Warehouse,Warehouse Operator,0,2017-06-08,1070,BA10826646
+498,Sophia Said,Warehouse,Warehouse Operator,0,2016-06-02,896,BA38334310
+499,Carlos Miller,Warehouse,Warehouse Operator,0,2025-01-20,124,BA85118431
+500,Nour Kamel,Warehouse,Warehouse Operator,0,2018-05-22,670,BA88817543
+501,Sophia Petrov,Warehouse,Warehouse Operator,0,2022-07-07,473,BA21436271
+502,Ali Lopez,Warehouse,Warehouse Operator,0,2023-03-14,820,BA14434014
+503,Wei Helmy,Warehouse,Warehouse Operator,0,2013-09-07,1063,BA49991361
+504,Mehmet Brown,Warehouse,Warehouse Operator,0,2014-08-17,643,BA80973206
+505,Sophia Hamdy,Warehouse,Warehouse Operator,0,2024-01-11,1134,BA12225126
+506,Omar Park,Warehouse,Warehouse Operator,0,2012-06-29,233,BA43559699
+507,Heba Patel,Warehouse,Warehouse Operator,0,2018-07-20,1085,BA71820197
+508,Wei Gaber,Warehouse,Warehouse Operator,0,2017-05-17,1048,BA50240571
+509,Pierre Ali,Warehouse,Warehouse Operator,0,2025-01-02,994,BA57762772
+510,Nour Smith,Warehouse,Warehouse Operator,0,2013-11-13,1143,BA32480280
+511,Laura Said,Warehouse,Warehouse Operator,0,2013-02-15,280,BA93076550
+512,Priya Li,Warehouse,Warehouse Operator,0,2015-06-03,232,BA90675856
+513,Noha Zhang,Warehouse,Warehouse Operator,0,2023-05-20,39,BA54520811
+514,Sami Bianchi,Warehouse,Warehouse Operator,0,2018-08-24,909,BA97950425
+515,Fatima Li,Warehouse,Warehouse Operator,0,2020-03-13,543,BA89931988
+516,Mohamed Said,Warehouse,Warehouse Operator,0,2020-06-08,351,BA71781132
+517,Hany Sato,Warehouse,Warehouse Operator,0,2018-05-15,76,BA45251630
+518,Kenji Rossi,Warehouse,Warehouse Operator,0,2016-02-15,318,BA75419883
+519,Mostafa Zaki,Warehouse,Warehouse Operator,0,2016-01-27,1153,BA92428010
+520,Wei Sabry,Warehouse,Warehouse Operator,0,2022-06-11,85,BA20318370
+521,Sara Schmidt,Warehouse,Warehouse Operator,0,2013-02-24,10,BA33945074
+522,Maria Kim,Warehouse,Warehouse Operator,0,2019-11-01,302,BA86570415
+523,James Ibrahim,Warehouse,Warehouse Operator,0,2015-11-02,391,BA56195741
+524,Karim Helmy,Warehouse,Warehouse Operator,0,2014-02-02,239,BA88752752
+525,Daniel Kaya,Warehouse,Warehouse Operator,0,2021-01-12,244,BA86654055
+526,Youssef Lotfy,Warehouse,Warehouse Operator,0,2014-03-20,653,BA10757264
+527,Aisha Lopez,Warehouse,Warehouse Operator,0,2024-09-01,17,BA27881863
+528,Karim Mansour,Warehouse,Warehouse Operator,0,2021-09-08,1178,BA66575187
+529,Ibrahim Martin,Warehouse,Warehouse Operator,0,2016-03-22,599,BA41158197
+530,Maria Miller,Warehouse,Warehouse Operator,0,2015-08-05,441,BA29658429
+531,Mohamed Nguyen,Warehouse,Warehouse Operator,0,2012-09-06,92,BA39204793
+532,Ahmed Kaya,Warehouse,Warehouse Operator,0,2020-01-15,235,BA78954552
+533,Anna Miller,Warehouse,Warehouse Operator,0,2025-06-12,1080,BA69358249
+534,Diego Mostafa,Warehouse,Warehouse Operator,0,2019-09-28,403,BA17470786
+535,Kenji Miller,Warehouse,Warehouse Operator,0,2015-04-29,826,BA98856667
+536,Carlos Lopez,Warehouse,Warehouse Operator,0,2024-02-17,197,BA34455846
+537,Tarek Soliman,Warehouse,Warehouse Operator,0,2023-04-28,445,BA81662500
+538,Mehmet Farouk,Warehouse,Warehouse Operator,0,2020-02-26,392,BA92637527
+539,Noha Helmy,Warehouse,Warehouse Operator,0,2019-07-13,1010,BA13959653
+540,Amr Martin,Warehouse,Warehouse Operator,0,2019-10-31,479,BA52177305
+541,Daniel Hassan,Warehouse,Warehouse Operator,0,2018-09-10,957,BA81218261
+542,Heba Petrov,Warehouse,Warehouse Operator,0,2017-06-26,1107,BA51777952
+543,James Schmidt,Warehouse,Warehouse Operator,0,2017-06-19,392,BA57200811
+544,Ayse Lotfy,Warehouse,Warehouse Operator,0,2020-03-07,254,BA84195628
+545,Olivia Salem,Warehouse,Warehouse Operator,0,2012-06-15,1017,BA98215306
+546,David Sato,Warehouse,Warehouse Operator,0,2019-02-20,1113,BA56914890
+547,Sara Said,Warehouse,Warehouse Operator,0,2016-06-28,1116,BA78893888
+548,Priya Brown,Warehouse,Warehouse Operator,0,2016-10-11,159,BA90328493
+549,Wei Mansour,Warehouse,Warehouse Operator,0,2020-06-07,744,BA33820555
+550,Lucas Lotfy,Warehouse,Warehouse Operator,0,2017-02-10,140,BA32052670
+551,Omar Soliman,Warehouse,Warehouse Operator,0,2016-02-14,423,BA51866398
+552,Mohamed Yilmaz,Warehouse,Warehouse Operator,0,2019-03-30,489,BA24288388
+553,Sophia Weber,Warehouse,Warehouse Operator,0,2019-06-10,1081,BA25743276
+554,Nour Brown,Warehouse,Warehouse Operator,0,2017-09-09,880,BA42756619
+555,David Tanaka,Warehouse,Warehouse Operator,0,2020-02-26,1132,BA86124235
+556,Mohamed Hassan,Warehouse,Warehouse Operator,0,2015-07-22,1002,BA49057670
+557,Priya Ali,Warehouse,Warehouse Operator,0,2020-10-15,417,BA69303425
+558,Pierre Mostafa,Warehouse,Warehouse Operator,0,2024-06-01,1039,BA39237570
+559,Carlos Nasr,Warehouse,Warehouse Operator,0,2019-01-31,104,BA66172665
+560,Arjun Zaki,Warehouse,Warehouse Operator,0,2013-08-14,242,BA45942406
+561,Maria Wang,Warehouse,Warehouse Operator,0,2021-12-01,1042,BA42677560
+562,Amira Lopez,Warehouse,Warehouse Operator,0,2021-07-10,66,BA90197191
+563,Walid Hamdy,Warehouse,Warehouse Operator,0,2022-06-10,798,BA14507632
+564,Hans Novak,Warehouse,Warehouse Operator,0,2013-04-06,1070,BA61450928
+565,Walid Ibrahim,Warehouse,Warehouse Operator,0,2023-09-10,279,BA26282473
+566,Luca Ali,Warehouse,Warehouse Operator,0,2019-10-05,837,BA12231591
+567,Sara Salem,Warehouse,Warehouse Operator,0,2019-10-17,681,BA95496117
+568,Diego Lopez,Warehouse,Warehouse Operator,0,2018-02-20,843,BA81865249
+569,Arjun Miller,Warehouse,Warehouse Operator,0,2021-10-03,370,BA18377317
+570,Heba Silva,Warehouse,Warehouse Operator,0,2015-06-25,140,BA62346411
+571,Mehmet Demir,Warehouse,Warehouse Supervisor,5000,2014-06-29,1104,BA16219200
+572,Diego Ibrahim,Warehouse,Warehouse Supervisor,5000,2019-11-07,125,BA76033591
+573,Michael Zaki,Warehouse,Warehouse Supervisor,5000,2014-05-07,411,BA86610129
+574,Amr Sabry,Warehouse,Warehouse Supervisor,5000,2024-01-21,2,BA28528617
+575,Sara Mansour,Warehouse,Warehouse Supervisor,5000,2021-01-29,236,BA28476315
+576,Rania Anwar,Warehouse,Warehouse Supervisor,5000,2013-11-04,783,BA64273547
+577,Laura Mostafa,Warehouse,Warehouse Supervisor,5000,2017-05-27,52,BA86226358
+578,Laila Lotfy,Warehouse,Warehouse Supervisor,5000,2023-05-22,263,BA57310802
+579,Daniel Smith,Warehouse,Warehouse Supervisor,5000,2013-08-14,412,BA18799728
+580,Salma Sharma,Warehouse,Warehouse Supervisor,5000,2013-12-13,399,BA64667534
+581,Diego Li,Warehouse,Warehouse Supervisor,5000,2020-11-16,1188,BA33344183
+582,Sami Li,Warehouse,Warehouse Supervisor,5000,2023-03-05,224,BA29695766
+583,Robert Li,Warehouse,Warehouse Supervisor,5000,2018-04-06,263,BA34787804
+584,Mahmoud Li,Warehouse,Warehouse Supervisor,5000,2017-11-05,911,BA44332239
+585,Yasmin Naguib,Warehouse,Warehouse Supervisor,5000,2019-10-01,550,BA84156800
+586,Daniel Martin,Warehouse,Warehouse Supervisor,5000,2016-02-27,598,BA69911623
+587,Michael Gaber,Warehouse,Warehouse Supervisor,5000,2016-12-26,1167,BA91459967
+588,Aisha Martin,Warehouse,Warehouse Supervisor,5000,2015-03-07,247,BA25187250
+589,Ali Sabry,Warehouse,Warehouse Supervisor,5000,2012-11-07,9,BA90148743
+590,Sara Rossi,Warehouse,Warehouse Supervisor,5000,2015-08-14,1057,BA67466236
+591,Chen Anwar,Warehouse,Warehouse Supervisor,5000,2023-10-28,355,BA29796985
+592,John Younis,Warehouse,Warehouse Supervisor,5000,2025-07-28,385,BA24026378
+593,Wei Anwar,Warehouse,Warehouse Supervisor,5000,2012-10-10,986,BA39931379
+594,Laila Schmidt,Warehouse,Warehouse Supervisor,5000,2014-11-23,750,BA12777890
+595,Fatima Zhang,Warehouse,Warehouse Supervisor,5000,2016-10-12,115,BA13471177
+596,Arjun Salem,Warehouse,Warehouse Supervisor,5000,2022-04-18,1072,BA22677276
+597,Yasmin Sato,Warehouse,Warehouse Supervisor,5000,2015-01-16,1114,BA57220987
+598,Farida Tanaka,Warehouse,Warehouse Supervisor,5000,2024-03-20,11,BA33010495
+599,Sherif Rossi,Warehouse,Warehouse Supervisor,5000,2017-03-10,1002,BA43302942
+600,Nour Lopez,Warehouse,Warehouse Supervisor,5000,2020-08-23,212,BA43943895
+601,Sherif Johnson,Warehouse,Warehouse Supervisor,5000,2014-01-17,172,BA48217656
+602,Hany Brown,Warehouse,Warehouse Supervisor,5000,2016-07-25,918,BA85676865
+603,Luca Novak,Warehouse,Warehouse Supervisor,5000,2021-04-25,711,BA68090858
+604,Mehmet Tanaka,Warehouse,Warehouse Supervisor,5000,2015-02-11,525,BA97421861
+605,Min-jun Johnson,Warehouse,Warehouse Supervisor,5000,2016-03-19,667,BA76605654
+606,Hassan Smith,Warehouse,Warehouse Supervisor,5000,2022-04-24,241,BA26363188
+607,Noha Park,Warehouse,Warehouse Supervisor,5000,2022-02-23,833,BA18630715
+608,Sophia Badawi,Warehouse,Warehouse Supervisor,5000,2020-07-05,428,BA69513152
+609,Lucas Younis,Warehouse,Warehouse Supervisor,5000,2018-11-17,369,BA32781604
+610,Fatima Zaki,Warehouse,Warehouse Supervisor,5000,2021-12-23,671,BA64254232
+611,Hassan Rizk,Warehouse,Warehouse Supervisor,5000,2016-07-27,461,BA74233851
+612,Anna Weber,Warehouse,Warehouse Supervisor,5000,2018-09-02,78,BA36108207
+613,Karim Anwar,Warehouse,Warehouse Supervisor,5000,2022-12-27,289,BA48185593
+614,Wei Said,Warehouse,Warehouse Supervisor,5000,2016-04-15,1176,BA65125683
+615,Rania Martin,Warehouse,Warehouse Supervisor,5000,2024-11-09,351,BA94712624
+616,Nour Weber,Warehouse,Warehouse Supervisor,5000,2013-04-05,475,BA65438180
+617,Sherif Mansour,Warehouse,Warehouse Supervisor,5000,2015-02-09,211,BA64022790
+618,Emma Schmidt,Warehouse,Warehouse Supervisor,5000,2024-06-18,63,BA93359598
+619,Raj Younis,Warehouse,Warehouse Supervisor,5000,2014-11-13,1086,BA32701466
+620,John Tanaka,Warehouse,Warehouse Supervisor,5000,2021-03-26,713,BA45682843
+621,Lucas Santos,Warehouse,Warehouse Supervisor,5000,2016-10-12,1065,BA86805199
+622,Aisha Wang,Warehouse,Warehouse Supervisor,5000,2022-07-10,998,BA65662791
+623,Amira Patel,Warehouse,Warehouse Supervisor,5000,2021-05-19,433,BA57698575
+624,Ivan Wang,Warehouse,Warehouse Supervisor,5000,2025-06-23,577,BA49074548
+625,Carlos Rizk,Warehouse,Warehouse Supervisor,5000,2016-11-18,832,BA38105383
+626,Tarek Badawi,Warehouse,Warehouse Supervisor,5000,2017-10-19,933,BA94459656
+627,Mostafa Sharma,Warehouse,Warehouse Supervisor,5000,2024-07-21,589,BA25407554
+628,Lucas Kaya,Warehouse,Warehouse Supervisor,5000,2021-12-27,45,BA60121332
+629,Mahmoud Badawi,Warehouse,Warehouse Supervisor,5000,2016-10-27,337,BA11696781
+630,Ahmed Li,Warehouse,Warehouse Supervisor,5000,2015-01-04,374,BA91411424
+631,Khaled Said,Warehouse,Warehouse Supervisor,5000,2017-12-23,420,BA49854037
+632,Robert Rossi,Warehouse,Warehouse Supervisor,5000,2023-06-24,707,BA93272839
+633,Pierre Johnson,Warehouse,Warehouse Supervisor,5000,2017-06-06,1159,BA98940763
+634,Laila Taylor,Warehouse,Warehouse Supervisor,5000,2022-09-09,178,BA33107917
+635,Sophia Clark,Warehouse,Warehouse Supervisor,5000,2019-09-14,410,BA60480661
+636,Heba Sato,Warehouse,Warehouse Supervisor,5000,2019-04-10,321,BA64447300
+637,Ibrahim Weber,Warehouse,Warehouse Supervisor,5000,2022-09-01,695,BA33362675
+638,Ayse Fouad,Warehouse,Warehouse Supervisor,5000,2014-10-20,978,BA62225139
+639,Anna Naguib,Warehouse,Warehouse Supervisor,5000,2015-12-23,1135,BA74345388
+640,Tarek Demir,Warehouse,Warehouse Supervisor,5000,2024-03-18,609,BA93074338
+641,Daniel Lotfy,Warehouse,Warehouse Manager,25000,2019-06-23,358,BA78057814
+642,Arjun Naguib,Warehouse,Warehouse Manager,25000,2024-02-23,262,BA89819362
+643,Hans Santos,Warehouse,Warehouse Manager,25000,2015-09-19,971,BA49431782
+644,Nour Ibrahim,Warehouse,Warehouse Manager,25000,2020-07-12,55,BA55742658
+645,Min-jun Patel,Warehouse,Warehouse Manager,25000,2020-10-22,137,BA21104828
+646,Mohamed Ibrahim,Warehouse,Warehouse Manager,25000,2022-05-21,74,BA29324670
+647,Ali Said,Warehouse,Warehouse Manager,25000,2024-07-02,880,BA16189695
+648,Ali Farouk,Warehouse,Warehouse Manager,25000,2023-11-18,1024,BA57010357
+649,Ali Petrov,Warehouse,Warehouse Manager,25000,2018-06-05,969,BA27053926
+650,Salma Garcia,Warehouse,Warehouse Manager,25000,2015-12-25,330,BA15855108
+651,Hassan Martin,Warehouse,Warehouse Manager,25000,2017-05-09,1005,BA81717132
+652,Priya Hassan,Warehouse,Warehouse Manager,25000,2022-08-28,6,BA89314811
+653,Maria Park,Warehouse,Warehouse Manager,25000,2013-05-11,1171,BA70802167
+654,Hans Wang,Warehouse,Warehouse Manager,25000,2016-12-22,717,BA37876758
+655,Sherif Helmy,Warehouse,Warehouse Manager,25000,2013-10-24,854,BA85077069
+656,Farida Sabry,Warehouse,Warehouse Manager,25000,2025-08-11,117,BA60591901
+657,Marco Yilmaz,Warehouse,Warehouse Manager,25000,2024-11-29,1173,BA61023857
+658,Youssef Clark,Warehouse,Warehouse Manager,25000,2024-11-16,471,BA86402932
+659,Michael Fouad,Warehouse,Warehouse Manager,25000,2015-05-13,335,BA35468011
+660,Sophia Kim,Warehouse,Warehouse Manager,25000,2020-10-10,1021,BA97729558
+661,Luca Park,Warehouse,Warehouse Manager,25000,2022-03-08,626,BA10192930
+662,Laila Khan,Warehouse,Warehouse Manager,25000,2017-09-20,159,BA69553752
+663,Sara Dubois,Warehouse,Warehouse Manager,25000,2016-05-11,257,BA25476869
+664,Sherif Nguyen,Warehouse,Warehouse Manager,25000,2019-09-10,437,BA10289751
+665,Rania Rizk,Warehouse,Warehouse Manager,25000,2020-08-09,101,BA72055118
+666,Luca Sabry,Warehouse,Warehouse Manager,25000,2020-06-28,609,BA49149650
+667,Pierre Martin,Warehouse,Warehouse Manager,25000,2021-05-16,527,BA33116808
+668,Chen Nasr,Warehouse,Warehouse Manager,25000,2020-08-07,779,BA57477528
+669,Min-jun Abdelrahman,Warehouse,Warehouse Manager,25000,2019-02-25,864,BA31096157
+670,Robert Ali,Warehouse,Warehouse Manager,25000,2021-04-26,163,BA27551431
+671,Anna Gaber,Customer Service,CS Agent,500,2018-08-03,935,BA16092469
+672,Mostafa Fouad,Customer Service,CS Agent,500,2017-01-09,987,BA80291391
+673,Michael Silva,Customer Service,CS Agent,500,2016-05-24,21,BA63261483
+674,Ibrahim Taylor,Customer Service,CS Agent,500,2025-07-21,913,BA39857943
+675,Sophia Garcia,Customer Service,CS Agent,500,2017-02-25,1131,BA31014304
+676,David Singh,Customer Service,CS Agent,500,2021-06-09,472,BA30115339
+677,Chen Wang,Customer Service,CS Agent,500,2016-08-12,297,BA75533010
+678,Yasmin Wilson,Customer Service,CS Agent,500,2012-11-01,662,BA51076859
+679,Hassan Ibrahim,Customer Service,CS Agent,500,2020-07-17,351,BA69168519
+680,Amr Abdelrahman,Customer Service,CS Agent,500,2024-03-06,252,BA52701677
+681,Raj Ali,Customer Service,CS Agent,500,2016-08-16,999,BA27140151
+682,Wei Soliman,Customer Service,CS Agent,500,2021-04-02,722,BA20784164
+683,Lucas Shawky,Customer Service,CS Agent,500,2021-01-22,1074,BA33956932
+684,Nour Ali,Customer Service,CS Agent,500,2017-06-10,860,BA54351394
+685,Lucas Weber,Customer Service,CS Agent,500,2017-07-23,884,BA15638310
+686,Aisha Hamdy,Customer Service,CS Agent,500,2025-04-29,944,BA76561707
+687,Emma Khan,Customer Service,CS Agent,500,2019-07-15,400,BA92527681
+688,Hans Ali,Customer Service,CS Agent,500,2020-08-14,157,BA23553600
+689,Daniel Novak,Customer Service,CS Agent,500,2018-02-26,556,BA53763433
+690,Carlos Ibrahim,Customer Service,CS Agent,500,2017-04-18,1167,BA28223057
+691,Maria Zhang,Customer Service,CS Agent,500,2025-06-10,1002,BA77321742
+692,Youssef Zhang,Customer Service,CS Agent,500,2024-11-06,868,BA75376210
+693,Mohamed Soliman,Customer Service,CS Agent,500,2019-01-04,429,BA87258561
+694,Ayse Sabry,Customer Service,CS Agent,500,2014-06-14,253,BA12553365
+695,Ali Weber,Customer Service,CS Agent,500,2022-09-26,967,BA71315715
+696,Mohamed Sharma,Customer Service,CS Agent,500,2024-02-13,528,BA16474058
+697,Hans Nguyen,Customer Service,CS Agent,500,2020-07-09,939,BA87481752
+698,Salma Kamel,Customer Service,CS Agent,500,2022-02-10,254,BA55700934
+699,Luca Kamel,Customer Service,CS Agent,500,2024-09-08,563,BA48974581
+700,Youssef Brown,Customer Service,CS Agent,500,2013-04-12,958,BA60656337
+701,Kenji Silva,Customer Service,CS Agent,500,2016-11-24,1076,BA34899379
+702,Mostafa Bianchi,Customer Service,CS Agent,500,2015-01-29,53,BA89319329
+703,Khaled Abdelrahman,Customer Service,CS Agent,500,2013-09-26,462,BA20235286
+704,Laila Petrov,Customer Service,CS Agent,500,2017-03-14,321,BA41864963
+705,Fatima Helmy,Customer Service,CS Agent,500,2020-12-08,900,BA60838958
+706,Sara Badawi,Customer Service,CS Agent,500,2025-09-01,936,BA10858251
+707,Pierre Garcia,Customer Service,CS Agent,500,2024-04-09,768,BA52754347
+708,Mona Yilmaz,Customer Service,CS Agent,500,2021-06-23,895,BA53445170
+709,Youssef Hamdy,Customer Service,CS Agent,500,2017-05-22,398,BA78221146
+710,Tarek Mostafa,Customer Service,CS Agent,500,2016-11-11,70,BA83999722
+711,Youssef Badawi,Customer Service,CS Agent,500,2023-12-24,639,BA69455681
+712,Kenji Johnson,Customer Service,CS Agent,500,2022-03-13,26,BA83942710
+713,Ayse Park,Customer Service,CS Agent,500,2013-10-05,728,BA98166824
+714,Robert Zhang,Customer Service,CS Agent,500,2021-10-06,728,BA84322798
+715,Sami Gaber,Customer Service,CS Agent,500,2024-01-15,645,BA36421698
+716,Sherif Novak,Customer Service,CS Agent,500,2022-05-25,1016,BA51987850
+717,Salma Gaber,Customer Service,CS Agent,500,2020-11-03,133,BA60416768
+718,Maria Nasr,Customer Service,CS Agent,500,2019-01-15,488,BA88431621
+719,James Helmy,Customer Service,CS Agent,500,2019-01-25,1190,BA21646653
+720,Kenji Brown,Customer Service,CS Agent,500,2024-04-03,306,BA44696716
+721,Ivan Zhang,Customer Service,CS Agent,500,2024-02-06,1160,BA38776587
+722,Mona Nasr,Customer Service,CS Agent,500,2022-12-04,4,BA66020936
+723,Ayse Kaya,Customer Service,CS Agent,500,2021-06-01,45,BA18997460
+724,Hassan Lopez,Customer Service,CS Agent,500,2012-10-06,256,BA66126037
+725,Robert Abdelrahman,Customer Service,CS Agent,500,2021-12-30,1134,BA29894937
+726,Tarek Sabry,Customer Service,CS Agent,500,2020-12-11,773,BA11354501
+727,Arjun Sabry,Customer Service,CS Agent,500,2016-02-23,638,BA62927341
+728,Pierre Zhang,Customer Service,CS Agent,500,2021-02-23,148,BA96104714
+729,Karim Hassan,Customer Service,CS Agent,500,2012-06-30,151,BA32416846
+730,Fatima Badawi,Customer Service,CS Agent,500,2019-02-28,1029,BA11421892
+731,Mona Brown,Customer Service,CS Agent,500,2020-10-29,985,BA49883818
+732,Aisha Rossi,Customer Service,CS Agent,500,2015-05-15,72,BA88467297
+733,Aisha Mansour,Customer Service,CS Agent,500,2015-02-10,520,BA45153983
+734,Luca Martin,Customer Service,CS Agent,500,2016-10-30,656,BA94828080
+735,Amira Abdelrahman,Customer Service,CS Agent,500,2023-10-20,856,BA92553908
+736,Mostafa Patel,Customer Service,CS Agent,500,2021-09-29,11,BA55194502
+737,Kenji Ali,Customer Service,CS Agent,500,2017-12-05,993,BA34013065
+738,Hassan Demir,Customer Service,CS Agent,500,2020-09-25,631,BA27734736
+739,Sherif Sato,Customer Service,CS Agent,500,2019-11-23,646,BA67949728
+740,Sara Ibrahim,Customer Service,CS Agent,500,2021-11-20,432,BA18879041
+741,Ahmed Salem,Customer Service,CS Agent,500,2021-10-28,60,BA80212848
+742,Arjun Park,Customer Service,CS Agent,500,2019-03-24,1118,BA97778861
+743,John Gaber,Customer Service,CS Agent,500,2014-09-12,987,BA40231241
+744,Mehmet Taylor,Customer Service,CS Agent,500,2020-10-15,995,BA24086537
+745,Sherif Bianchi,Customer Service,CS Agent,500,2015-09-14,833,BA63649402
+746,Luca Singh,Customer Service,CS Agent,500,2012-07-23,584,BA90172082
+747,Mona Kamel,Customer Service,CS Agent,500,2023-11-20,1093,BA86989237
+748,Hassan Weber,Customer Service,CS Agent,500,2013-04-25,131,BA28798654
+749,Priya Helmy,Customer Service,CS Agent,500,2021-10-08,325,BA14416080
+750,Ayse Kim,Customer Service,CS Agent,500,2024-05-19,538,BA94622190
+751,Hassan Naguib,Customer Service,CS Agent,500,2014-09-22,943,BA19831991
+752,Maria Clark,Customer Service,CS Agent,500,2025-07-28,402,BA18587412
+753,Amr Schmidt,Customer Service,CS Agent,500,2012-05-31,1048,BA43814760
+754,Chen Ibrahim,Customer Service,CS Agent,500,2022-11-29,379,BA90031550
+755,Raj Soliman,Customer Service,CS Agent,500,2017-07-03,427,BA47727125
+756,Hassan Younis,Customer Service,CS Agent,500,2022-05-05,386,BA38529887
+757,Khaled Fouad,Customer Service,CS Agent,500,2014-01-11,493,BA32445647
+758,Noha Smith,Customer Service,CS Agent,500,2016-03-27,978,BA88044170
+759,Ibrahim Tanaka,Customer Service,CS Agent,500,2012-07-10,401,BA18766082
+760,Tarek Novak,Customer Service,CS Agent,500,2015-02-15,586,BA44708098
+761,Laila Bianchi,Customer Service,CS Agent,500,2015-10-13,7,BA88839694
+762,David Yilmaz,Customer Service,CS Agent,500,2013-01-23,665,BA98732979
+763,Ivan Bianchi,Customer Service,CS Agent,500,2017-01-22,278,BA39955186
+764,Laura Demir,Customer Service,CS Agent,500,2022-11-03,591,BA93090202
+765,Aisha Zaki,Customer Service,CS Agent,500,2022-09-20,398,BA14062264
+766,Laila Demir,Customer Service,CS Agent,500,2016-11-30,456,BA89434527
+767,Laila Soliman,Customer Service,CS Agent,500,2020-09-22,131,BA29312411
+768,Walid Zhang,Customer Service,CS Agent,500,2015-07-19,553,BA35116330
+769,Chen Lopez,Customer Service,CS Agent,500,2017-05-06,919,BA95082111
+770,Maria Rizk,Customer Service,CS Agent,500,2025-02-28,732,BA56484461
+771,Michael Li,Customer Service,CS Agent,500,2013-04-19,513,BA44716256
+772,Omar Khan,Customer Service,CS Agent,500,2012-09-04,1016,BA36389256
+773,Mehmet Mansour,Customer Service,CS Agent,500,2021-08-22,682,BA56451732
+774,Hany Singh,Customer Service,CS Agent,500,2021-11-19,737,BA70036249
+775,James Rizk,Customer Service,CS Agent,500,2020-05-24,342,BA59764927
+776,Omar Lotfy,Customer Service,CS Agent,500,2014-10-31,823,BA95673044
+777,Priya Mostafa,Customer Service,CS Agent,500,2025-05-18,433,BA91775771
+778,Mona Lopez,Customer Service,CS Agent,500,2023-04-12,234,BA18944648
+779,Dina Li,Customer Service,CS Agent,500,2016-05-13,905,BA21287259
+780,Carlos Dubois,Customer Service,CS Agent,500,2020-02-07,693,BA13148866
+781,Sara Zhang,Customer Service,CS Agent,500,2019-10-01,564,BA27321909
+782,Amr Wilson,Customer Service,CS Agent,500,2013-02-24,857,BA26960318
+783,Aisha Zhang,Customer Service,CS Agent,500,2015-01-07,716,BA51810331
+784,Chen Smith,Customer Service,CS Agent,500,2024-03-08,912,BA73935484
+785,Rania Kamel,Customer Service,CS Agent,500,2022-07-21,508,BA13746683
+786,Nour Naguib,Customer Service,CS Agent,500,2022-03-09,1200,BA41728112
+787,Anna Silva,Customer Service,CS Agent,500,2016-11-10,669,BA34826717
+788,Michael Hamdy,Customer Service,CS Agent,500,2019-12-09,565,BA11753284
+789,Aisha Nguyen,Customer Service,CS Agent,500,2016-09-06,1077,BA18047676
+790,Marco Kim,Customer Service,CS Agent,500,2022-09-03,1199,BA84319907
+791,Youssef Sato,Customer Service,CS Agent,500,2019-06-22,321,BA23469964
+792,Salma Taylor,Customer Service,CS Agent,500,2020-10-16,279,BA51584705
+793,Laila Mostafa,Customer Service,CS Agent,500,2023-02-26,623,BA43818270
+794,Youssef Dubois,Customer Service,CS Agent,500,2022-12-13,86,BA60948474
+795,Amr Anwar,Customer Service,CS Agent,500,2020-04-16,825,BA73254901
+796,Marco Novak,Customer Service,CS Agent,500,2016-08-17,814,BA89219035
+797,Karim Garcia,Customer Service,CS Agent,500,2015-09-21,105,BA10185061
+798,Pierre Kamel,Customer Service,CS Agent,500,2015-05-03,323,BA84232895
+799,Kenji Li,Customer Service,CS Agent,500,2023-02-23,1155,BA70204993
+800,Michael Kim,Customer Service,CS Agent,500,2017-12-11,217,BA76746864
+801,Walid Hassan,Customer Service,CS Team Lead,3000,2024-06-21,599,BA30850598
+802,Aisha Sabry,Customer Service,CS Team Lead,3000,2023-11-27,817,BA93346927
+803,Hans Kim,Customer Service,CS Team Lead,3000,2019-06-29,295,BA20185153
+804,Chen Sato,Customer Service,CS Team Lead,3000,2016-05-04,407,BA47972720
+805,Mehmet Zaki,Customer Service,CS Team Lead,3000,2022-07-17,913,BA49513008
+806,Ibrahim Hamdy,Customer Service,CS Team Lead,3000,2023-05-26,510,BA43789333
+807,Olivia Kaya,Customer Service,CS Team Lead,3000,2014-12-24,979,BA21853875
+808,Amira Zhang,Customer Service,CS Team Lead,3000,2017-08-31,72,BA88408180
+809,Salma Dubois,Customer Service,CS Team Lead,3000,2014-10-03,757,BA81787399
+810,Sami Sabry,Customer Service,CS Team Lead,3000,2024-07-03,410,BA97983454
+811,Wei Wang,Customer Service,CS Team Lead,3000,2013-01-17,1100,BA72996129
+812,Rania Petrov,Customer Service,CS Team Lead,3000,2014-11-20,528,BA98552080
+813,Tarek Ali,Customer Service,CS Team Lead,3000,2014-06-15,107,BA48825801
+814,Maria Salem,Customer Service,CS Team Lead,3000,2024-04-22,1004,BA56038490
+815,Priya Rossi,Customer Service,CS Team Lead,3000,2017-01-09,634,BA79453658
+816,Nour Petrov,Customer Service,CS Team Lead,3000,2018-06-12,72,BA71135020
+817,Priya Younis,Customer Service,CS Team Lead,3000,2023-03-06,892,BA29867583
+818,Ayse Santos,Customer Service,CS Team Lead,3000,2013-06-10,701,BA60589969
+819,Anna Rizk,Customer Service,CS Team Lead,3000,2014-09-05,1101,BA65054965
+820,Rania Badawi,Customer Service,CS Team Lead,3000,2014-08-07,843,BA98132893
+821,Tarek Bianchi,Customer Service,CS Team Lead,3000,2015-12-12,770,BA85217721
+822,Anna Petrov,Customer Service,CS Team Lead,3000,2023-04-22,266,BA74815859
+823,Pierre Sharma,Customer Service,CS Team Lead,3000,2015-09-12,723,BA84341770
+824,David Martin,Customer Service,CS Team Lead,3000,2019-07-06,205,BA72908821
+825,Khaled Khan,Customer Service,CS Team Lead,3000,2016-05-10,466,BA59713462
+826,Khaled Kim,Customer Service,CS Team Lead,3000,2017-09-22,520,BA58397263
+827,Yasmin Singh,Customer Service,CS Team Lead,3000,2014-08-02,686,BA91762422
+828,Heba Martin,Customer Service,CS Team Lead,3000,2018-09-29,252,BA16994903
+829,Mahmoud Salem,Customer Service,CS Team Lead,3000,2021-09-11,666,BA78204508
+830,Fatima Clark,Customer Service,CS Team Lead,3000,2016-10-30,390,BA87738883
+831,Arjun Johnson,Customer Service,CS Team Lead,3000,2016-09-09,1087,BA58931564
+832,Yasmin Patel,Customer Service,CS Team Lead,3000,2021-10-15,1189,BA15879978
+833,Wei Smith,Customer Service,CS Team Lead,3000,2018-10-06,993,BA30017872
+834,Amira Soliman,Customer Service,CS Team Lead,3000,2016-10-14,283,BA35189507
+835,Yasmin Lotfy,Customer Service,CS Team Lead,3000,2021-02-28,885,BA57588829
+836,Heba Omar,Customer Service,CS Team Lead,3000,2023-05-25,1179,BA55518895
+837,Ali Silva,Customer Service,CS Team Lead,3000,2021-04-23,1109,BA76363102
+838,Amira Johnson,Customer Service,CS Team Lead,3000,2014-07-10,1048,BA27325162
+839,Carlos Wang,Customer Service,CS Team Lead,3000,2023-08-07,80,BA79605988
+840,Laura Helmy,Customer Service,CS Team Lead,3000,2020-06-01,181,BA10720678
+841,Sherif Nasr,Customer Service,CS Team Lead,3000,2019-02-09,924,BA36712498
+842,Carlos Santos,Customer Service,CS Team Lead,3000,2015-01-22,369,BA34840123
+843,Hans Tanaka,Customer Service,CS Team Lead,3000,2020-09-30,557,BA46434113
+844,Anna Said,Customer Service,CS Team Lead,3000,2012-05-22,580,BA47251930
+845,Amr Kaya,Customer Service,CS Team Lead,3000,2020-01-17,903,BA85042005
+846,Maria Silva,Customer Service,CS Team Lead,3000,2019-07-01,890,BA51808980
+847,Olivia Dubois,Customer Service,CS Team Lead,3000,2014-04-18,356,BA55370822
+848,Lucas Fouad,Customer Service,CS Team Lead,3000,2019-08-27,950,BA51597415
+849,Tarek Schmidt,Customer Service,CS Team Lead,3000,2016-07-27,561,BA65502902
+850,Olivia Li,Customer Service,CS Team Lead,3000,2020-12-18,701,BA54953993
+851,Lucas Lopez,Customer Service,CS Manager,50000,2016-08-02,990,BA27873598
+852,Heba Schmidt,Customer Service,CS Manager,50000,2017-09-12,342,BA41740240
+853,Carlos Mostafa,Customer Service,CS Manager,50000,2012-07-11,43,BA90109644
+854,Daniel Said,Customer Service,CS Manager,50000,2020-05-07,787,BA33802962
+855,Mona Mostafa,Customer Service,CS Manager,50000,2022-10-07,350,BA89293120
+856,Youssef Mostafa,Customer Service,CS Manager,50000,2023-10-24,312,BA93230477
+857,Priya Mansour,Customer Service,CS Manager,50000,2018-11-21,587,BA15204362
+858,John Miller,Customer Service,CS Manager,50000,2018-12-26,1053,BA77750864
+859,Amr Bianchi,Customer Service,CS Manager,50000,2024-06-09,1022,BA30751969
+860,Karim Novak,Customer Service,CS Manager,50000,2025-07-09,877,BA80405738
+861,Khaled Silva,Customer Service,CS Manager,50000,2020-06-05,325,BA62109428
+862,Lucas Patel,Customer Service,CS Manager,50000,2025-03-16,1134,BA19433078
+863,Daniel Younis,Customer Service,CS Manager,50000,2012-12-23,988,BA78009520
+864,Ibrahim Sabry,Customer Service,CS Manager,50000,2015-02-12,45,BA66233026
+865,Mehmet Smith,Customer Service,CS Manager,50000,2024-07-11,294,BA79865684
+866,Ibrahim Badawi,Customer Service,CS Manager,50000,2015-04-10,146,BA76300884
+867,Hassan Zhang,Customer Service,CS Manager,50000,2015-07-21,364,BA48821308
+868,Ayse Gaber,Customer Service,CS Manager,50000,2015-12-25,813,BA93100130
+869,Maria Helmy,Customer Service,CS Manager,50000,2014-02-10,665,BA15786883
+870,Marco Clark,Customer Service,CS Manager,50000,2016-03-25,175,BA47222850
+871,David Taylor,Logistics,Dispatcher,0,2018-11-16,785,BA58977386
+872,Hany Kamel,Logistics,Dispatcher,0,2015-12-26,714,BA52717234
+873,Noha Hamdy,Logistics,Dispatcher,0,2015-01-07,1057,BA15560966
+874,Ahmed Wang,Logistics,Dispatcher,0,2017-11-17,374,BA93648968
+875,Robert Mansour,Logistics,Dispatcher,0,2019-10-13,1056,BA48063347
+876,Noha Said,Logistics,Dispatcher,0,2018-01-08,789,BA40818991
+877,Ahmed Hamdy,Logistics,Dispatcher,0,2020-12-14,301,BA59017409
+878,Min-jun Singh,Logistics,Dispatcher,0,2020-04-07,388,BA49855127
+879,Aisha Badawi,Logistics,Dispatcher,0,2018-12-02,895,BA67103233
+880,Diego Miller,Logistics,Dispatcher,0,2015-09-01,831,BA41708857
+881,Chen Hassan,Logistics,Dispatcher,0,2023-01-27,762,BA11883608
+882,Luca Hamdy,Logistics,Dispatcher,0,2019-11-25,484,BA76587144
+883,Emma Martin,Logistics,Dispatcher,0,2021-07-26,464,BA72145489
+884,Anna Ibrahim,Logistics,Dispatcher,0,2023-08-10,671,BA82248393
+885,Mostafa Naguib,Logistics,Dispatcher,0,2021-08-05,932,BA97607752
+886,Daniel Garcia,Logistics,Dispatcher,0,2021-08-23,304,BA39420669
+887,Noha Anwar,Logistics,Dispatcher,0,2012-06-20,1078,BA77901012
+888,Hany Shawky,Logistics,Dispatcher,0,2020-06-30,240,BA24039955
+889,Karim Khan,Logistics,Dispatcher,0,2021-03-13,576,BA43370281
+890,Sherif Sabry,Logistics,Dispatcher,0,2020-05-24,372,BA90234849
+891,Amira Tanaka,Logistics,Dispatcher,0,2022-08-14,1100,BA38293897
+892,Laila Tanaka,Logistics,Dispatcher,0,2013-06-23,211,BA60605267
+893,John Helmy,Logistics,Dispatcher,0,2013-02-12,154,BA12084427
+894,Hans Dubois,Logistics,Dispatcher,0,2020-06-06,821,BA19345495
+895,Amira Clark,Logistics,Dispatcher,0,2023-10-28,200,BA79061566
+896,Michael Salem,Logistics,Dispatcher,0,2025-06-03,1187,BA41529246
+897,Mostafa Nasr,Logistics,Dispatcher,0,2012-10-08,918,BA13250400
+898,Rania Shawky,Logistics,Dispatcher,0,2014-07-27,1059,BA66440521
+899,Mahmoud Hamdy,Logistics,Dispatcher,0,2014-04-10,367,BA95217730
+900,James Abdelrahman,Logistics,Dispatcher,0,2017-11-05,896,BA63761272
+901,Hassan Tanaka,Logistics,Dispatcher,0,2017-01-11,703,BA47394516
+902,Sara Novak,Logistics,Dispatcher,0,2015-06-03,509,BA60522913
+903,Priya Singh,Logistics,Dispatcher,0,2019-12-17,597,BA27331780
+904,Ahmed Dubois,Logistics,Dispatcher,0,2014-08-21,21,BA43986970
+905,John Schmidt,Logistics,Dispatcher,0,2023-01-15,175,BA55314417
+906,Carlos Helmy,Logistics,Dispatcher,0,2019-09-24,150,BA88238164
+907,Anna Shawky,Logistics,Dispatcher,0,2024-04-03,906,BA76478438
+908,Rania Hassan,Logistics,Dispatcher,0,2015-04-29,323,BA25601290
+909,Mostafa Schmidt,Logistics,Dispatcher,0,2024-04-16,890,BA21493532
+910,Mohamed Lopez,Logistics,Dispatcher,0,2018-12-17,854,BA71194811
+911,Kenji Sharma,Logistics,Dispatcher,0,2021-01-04,175,BA96857205
+912,Aisha Younis,Logistics,Dispatcher,0,2012-05-23,391,BA87177057
+913,Min-jun Hassan,Logistics,Dispatcher,0,2020-03-27,312,BA81453629
+914,Lucas Sharma,Logistics,Dispatcher,0,2023-10-14,138,BA60022167
+915,Luca Demir,Logistics,Dispatcher,0,2013-05-02,961,BA13852066
+916,Tarek Kaya,Logistics,Dispatcher,0,2018-04-20,447,BA30248397
+917,Emma Hamdy,Logistics,Dispatcher,0,2018-07-06,1095,BA19423575
+918,Sami Shawky,Logistics,Dispatcher,0,2017-03-17,1014,BA87101644
+919,Aisha Ali,Logistics,Dispatcher,0,2012-06-09,1045,BA52644164
+920,Mohamed Petrov,Logistics,Dispatcher,0,2025-05-01,889,BA33426420
+921,David Anwar,Logistics,Dispatcher,0,2016-01-17,603,BA71713465
+922,Sophia Salem,Logistics,Dispatcher,0,2019-08-08,511,BA95978207
+923,Min-jun Mansour,Logistics,Dispatcher,0,2023-09-21,441,BA25130485
+924,Dina Anwar,Logistics,Dispatcher,0,2013-07-25,753,BA85717876
+925,Farida Nasr,Logistics,Dispatcher,0,2018-04-12,535,BA36740002
+926,Laura Hamdy,Logistics,Dispatcher,0,2013-06-18,1031,BA46878317
+927,Arjun Rossi,Logistics,Dispatcher,0,2023-07-19,212,BA71999003
+928,Yasmin Taylor,Logistics,Dispatcher,0,2016-08-26,439,BA76179678
+929,Maria Johnson,Logistics,Dispatcher,0,2025-02-24,596,BA63982507
+930,Laura Sato,Logistics,Dispatcher,0,2012-07-06,338,BA30887096
+931,Kenji Smith,Logistics,Dispatcher,0,2013-01-24,278,BA23186107
+932,Wei Schmidt,Logistics,Dispatcher,0,2013-11-12,674,BA90006980
+933,Mehmet Shawky,Logistics,Dispatcher,0,2021-02-28,195,BA55756661
+934,Dina Clark,Logistics,Dispatcher,0,2016-05-11,939,BA79323842
+935,Walid Bianchi,Logistics,Dispatcher,0,2023-02-21,457,BA23794798
+936,Dina Fouad,Logistics,Dispatcher,0,2014-06-12,901,BA73824404
+937,Karim Sabry,Logistics,Dispatcher,0,2024-04-25,77,BA55513810
+938,Mahmoud Lotfy,Logistics,Dispatcher,0,2015-11-10,946,BA46945406
+939,Aisha Naguib,Logistics,Dispatcher,0,2016-12-17,565,BA30049792
+940,Raj Clark,Logistics,Dispatcher,0,2021-09-27,1022,BA39934307
+941,Raj Badawi,Logistics,Dispatcher,0,2019-07-07,836,BA95665240
+942,Carlos Petrov,Logistics,Dispatcher,0,2019-05-01,965,BA19858168
+943,Tarek Li,Logistics,Dispatcher,0,2025-07-09,782,BA84789450
+944,John Naguib,Logistics,Dispatcher,0,2024-12-21,132,BA51177906
+945,Laura Martin,Logistics,Dispatcher,0,2016-02-13,1171,BA91606410
+946,Robert Salem,Logistics,Dispatcher,0,2016-07-02,471,BA11692410
+947,Mahmoud Garcia,Logistics,Dispatcher,0,2022-03-31,1063,BA63796101
+948,Wei Dubois,Logistics,Dispatcher,0,2019-09-16,611,BA25132447
+949,Ivan Lotfy,Logistics,Dispatcher,0,2015-03-31,761,BA46973608
+950,Diego Smith,Logistics,Dispatcher,0,2016-08-07,219,BA26185439
+951,Emma Wang,Logistics,Dispatcher,0,2019-02-23,1078,BA76979641
+952,Mohamed Khan,Logistics,Dispatcher,0,2014-02-16,950,BA12478787
+953,Mahmoud Santos,Logistics,Dispatcher,0,2018-07-09,534,BA27250232
+954,Michael Wang,Logistics,Dispatcher,0,2025-08-08,503,BA37743339
+955,Aisha Soliman,Logistics,Dispatcher,0,2019-07-26,959,BA43392220
+956,Min-jun Zaki,Logistics,Dispatcher,0,2022-06-06,199,BA31562670
+957,Ivan Rossi,Logistics,Dispatcher,0,2016-08-23,342,BA33896312
+958,Nour Kaya,Logistics,Dispatcher,0,2024-04-09,169,BA35434704
+959,Aisha Nasr,Logistics,Dispatcher,0,2012-06-12,633,BA12015422
+960,Farida Nguyen,Logistics,Dispatcher,0,2017-07-23,448,BA75434175
+961,Nour Johnson,Logistics,Dispatcher,0,2015-01-06,1176,BA75419298
+962,Omar Mostafa,Logistics,Dispatcher,0,2019-07-11,1073,BA41612323
+963,Heba Kaya,Logistics,Dispatcher,0,2024-10-01,719,BA48537627
+964,John Farouk,Logistics,Dispatcher,0,2019-11-07,919,BA28794145
+965,Tarek Santos,Logistics,Dispatcher,0,2019-01-24,609,BA28511617
+966,Arjun Clark,Logistics,Dispatcher,0,2020-01-30,511,BA38298537
+967,Sherif Kaya,Logistics,Dispatcher,0,2022-07-18,945,BA63918147
+968,Chen Said,Logistics,Dispatcher,0,2022-11-26,434,BA87632047
+969,Walid Tanaka,Logistics,Dispatcher,0,2024-04-22,375,BA12342540
+970,Sherif Hassan,Logistics,Dispatcher,0,2019-01-10,170,BA30339160
+971,Carlos Garcia,Logistics,Logistics Manager,0,2023-01-25,998,BA12497095
+972,Hans Anwar,Logistics,Logistics Manager,0,2017-04-24,952,BA33998756
+973,Min-jun Hamdy,Logistics,Logistics Manager,0,2022-05-12,23,BA33008527
+974,Fatima Rizk,Logistics,Logistics Manager,0,2019-11-11,1012,BA20760944
+975,Chen Silva,Logistics,Logistics Manager,0,2012-11-07,286,BA37113789
+976,Amira Nasr,Logistics,Logistics Manager,0,2018-09-03,1066,BA50204738
+977,Fatima Mansour,Logistics,Logistics Manager,0,2015-09-22,213,BA67417339
+978,Maria Bianchi,Logistics,Logistics Manager,0,2016-07-25,191,BA26516984
+979,Kenji Santos,Logistics,Logistics Manager,0,2014-04-12,309,BA25557016
+980,Sophia Kaya,Logistics,Logistics Manager,0,2024-12-05,1121,BA96453468
+981,Priya Zhang,Logistics,Logistics Manager,0,2016-05-03,1135,BA11818432
+982,Karim Brown,Logistics,Logistics Manager,0,2022-06-30,793,BA16950231
+983,Mohamed Wilson,Logistics,Logistics Manager,0,2021-06-16,29,BA36953491
+984,Ali Tanaka,Logistics,Logistics Manager,0,2013-07-29,741,BA72154086
+985,Hans Shawky,Logistics,Logistics Manager,0,2020-06-13,359,BA12906502
+986,Hany Nguyen,Logistics,Logistics Manager,0,2018-10-15,877,BA60192980
+987,Chen Brown,Logistics,Logistics Manager,0,2019-10-15,690,BA24922567
+988,Yasmin Anwar,Logistics,Logistics Manager,0,2024-03-29,1051,BA83410497
+989,Daniel Wang,Logistics,Logistics Manager,0,2021-10-03,844,BA20710902
+990,Kenji Bianchi,Logistics,Logistics Manager,0,2023-08-29,378,BA83529101
+991,Priya Miller,Logistics,Logistics Manager,0,2020-01-17,929,BA29242595
+992,Carlos Sharma,Logistics,Logistics Manager,0,2025-08-22,289,BA91828435
+993,Mona Khan,Logistics,Logistics Manager,0,2015-05-16,460,BA36322234
+994,Amr Ali,Logistics,Logistics Manager,0,2018-07-10,283,BA19348916
+995,Sophia Sharma,Logistics,Logistics Manager,0,2024-08-30,265,BA51110658
+996,Pierre Said,Logistics,Logistics Manager,0,2012-06-06,484,BA86294141
+997,Kenji Badawi,Logistics,Logistics Manager,0,2021-12-24,1023,BA75512953
+998,Yasmin Sabry,Logistics,Logistics Manager,0,2021-01-08,534,BA14078859
+999,Marco Younis,Logistics,Logistics Manager,0,2019-04-11,147,BA28999005
+1000,Sami Ali,Logistics,Logistics Manager,0,2018-07-12,901,BA80824880

@@ -1,0 +1,1001 @@
+﻿WarehouseID,WarehouseName,WarehouseType,LocationID,CapacityUnits,OpenedDate
+1,Munich Distribution Center 001,Distribution Center,945,101000,2023-11-19
+2,Dammam Fulfillment Hub 002,Fulfillment Hub,767,73000,2014-11-29
+3,Shenzhen Cold Storage 003,Cold Storage,531,172000,2018-04-26
+4,Madrid Cross-dock 004,Cross-dock,249,75000,2023-04-28
+5,Seoul Regional Store 005,Regional Store,53,134000,2015-08-10
+6,Istanbul Regional Store 006,Regional Store,1102,104000,2019-10-12
+7,Los Angeles Cold Storage 007,Cold Storage,1010,179000,2016-04-26
+8,Hamburg Cross-dock 008,Cross-dock,242,133000,2020-04-19
+9,Guangzhou Cold Storage 009,Cold Storage,964,167000,2021-10-29
+10,Port Said Regional Store 010,Regional Store,58,181000,2021-01-17
+11,Kuwait City Regional Store 011,Regional Store,285,30000,2020-04-30
+12,Casablanca Cold Storage 012,Cold Storage,181,167000,2022-02-08
+13,Milan Cross-dock 013,Cross-dock,409,192000,2020-01-21
+14,Mansoura Regional Store 014,Regional Store,384,12000,2020-10-29
+15,Istanbul Cross-dock 015,Cross-dock,616,93000,2015-08-06
+16,Dammam Regional Store 016,Regional Store,551,54000,2014-12-30
+17,Manchester Regional Store 017,Regional Store,137,196000,2016-05-27
+18,Amman Regional Store 018,Regional Store,180,73000,2020-02-09
+19,Abu Dhabi Fulfillment Hub 019,Fulfillment Hub,985,41000,2018-09-10
+20,Jeddah Regional Store 020,Regional Store,658,23000,2018-05-24
+21,Munich Regional Store 021,Regional Store,1107,159000,2019-03-15
+22,Delhi Cross-dock 022,Cross-dock,157,16000,2024-07-15
+23,Guangzhou Fulfillment Hub 023,Fulfillment Hub,370,64000,2018-07-01
+24,London Regional Store 024,Regional Store,190,113000,2019-03-01
+25,Manchester Regional Store 025,Regional Store,1109,13000,2019-09-28
+26,Manchester Fulfillment Hub 026,Fulfillment Hub,191,39000,2022-06-02
+27,Shanghai Cross-dock 027,Cross-dock,962,198000,2022-01-06
+28,Kuwait City Regional Store 028,Regional Store,231,94000,2024-06-09
+29,Jeddah Regional Store 029,Regional Store,874,64000,2021-01-19
+30,Assiut Fulfillment Hub 030,Fulfillment Hub,547,174000,2024-03-09
+31,Manchester Fulfillment Hub 031,Fulfillment Hub,1163,20000,2020-10-23
+32,Paris Regional Store 032,Regional Store,84,56000,2020-02-03
+33,Dubai Cold Storage 033,Cold Storage,390,172000,2020-04-14
+34,Port Said Fulfillment Hub 034,Fulfillment Hub,868,151000,2019-07-09
+35,Casablanca Cold Storage 035,Cold Storage,1099,89000,2016-10-07
+36,Seoul Fulfillment Hub 036,Fulfillment Hub,647,196000,2018-05-25
+37,Dammam Distribution Center 037,Distribution Center,119,117000,2020-09-29
+38,Sydney Regional Store 038,Regional Store,756,150000,2020-10-05
+39,Barcelona Distribution Center 039,Distribution Center,574,197000,2016-05-07
+40,Dubai Distribution Center 040,Distribution Center,930,103000,2022-09-15
+41,Kuwait City Cold Storage 041,Cold Storage,663,98000,2021-10-24
+42,Tokyo Cross-dock 042,Cross-dock,1078,134000,2019-12-18
+43,Miami Fulfillment Hub 043,Fulfillment Hub,148,18000,2019-03-31
+44,Beijing Fulfillment Hub 044,Fulfillment Hub,749,88000,2020-04-13
+45,Johannesburg Cross-dock 045,Cross-dock,885,139000,2020-07-08
+46,Alexandria Cross-dock 046,Cross-dock,488,78000,2019-01-02
+47,Milan Fulfillment Hub 047,Fulfillment Hub,571,143000,2023-04-17
+48,Berlin Fulfillment Hub 048,Fulfillment Hub,835,83000,2016-05-06
+49,Assiut Cross-dock 049,Cross-dock,547,42000,2018-06-19
+50,Miami Cross-dock 050,Cross-dock,472,33000,2018-09-15
+51,Chennai Cold Storage 051,Cold Storage,698,111000,2015-10-09
+52,Beijing Fulfillment Hub 052,Fulfillment Hub,965,42000,2015-08-31
+53,Sydney Regional Store 053,Regional Store,162,76000,2023-07-29
+54,Ankara Cold Storage 054,Cold Storage,1049,106000,2022-06-02
+55,Berlin Fulfillment Hub 055,Fulfillment Hub,241,14000,2018-05-20
+56,Jeddah Distribution Center 056,Distribution Center,118,86000,2017-05-29
+57,Cairo Cross-dock 057,Cross-dock,217,65000,2018-10-17
+58,Los Angeles Cold Storage 058,Cold Storage,92,66000,2021-09-25
+59,Riyadh Distribution Center 059,Distribution Center,1143,182000,2017-09-14
+60,Munich Distribution Center 060,Distribution Center,351,185000,2015-06-10
+61,Jeddah Regional Store 061,Regional Store,928,63000,2018-12-05
+62,Giza Regional Store 062,Regional Store,219,176000,2020-09-08
+63,Mexico City Distribution Center 063,Distribution Center,636,48000,2019-12-03
+64,Hamburg Fulfillment Hub 064,Fulfillment Hub,512,72000,2016-06-26
+65,New York Distribution Center 065,Distribution Center,792,188000,2023-02-05
+66,Seoul Cold Storage 066,Cold Storage,1187,24000,2021-01-04
+67,Izmir Regional Store 067,Regional Store,780,79000,2021-11-19
+68,Madrid Fulfillment Hub 068,Fulfillment Hub,843,161000,2024-03-23
+69,Shenzhen Regional Store 069,Regional Store,315,188000,2019-11-05
+70,Houston Cross-dock 070,Cross-dock,147,189000,2020-06-29
+71,Chennai Cold Storage 071,Cold Storage,104,176000,2022-04-25
+72,Chicago Distribution Center 072,Distribution Center,361,193000,2022-06-01
+73,Amman Distribution Center 073,Distribution Center,666,96000,2023-02-22
+74,Casablanca Fulfillment Hub 074,Fulfillment Hub,73,68000,2021-09-23
+75,Guangzhou Distribution Center 075,Distribution Center,316,80000,2015-05-12
+76,Alexandria Regional Store 076,Regional Store,758,28000,2018-03-29
+77,Ankara Cross-dock 077,Cross-dock,1049,31000,2020-08-16
+78,Sydney Fulfillment Hub 078,Fulfillment Hub,1188,194000,2019-03-04
+79,Sharjah Regional Store 079,Regional Store,284,42000,2015-03-19
+80,Kuwait City Cross-dock 080,Cross-dock,123,125000,2017-06-04
+81,Miami Cross-dock 081,Cross-dock,688,50000,2017-10-28
+82,Guangzhou Distribution Center 082,Distribution Center,1126,134000,2015-02-22
+83,Casablanca Cold Storage 083,Cold Storage,505,96000,2022-04-20
+84,Mansoura Regional Store 084,Regional Store,1086,25000,2018-07-06
+85,London Regional Store 085,Regional Store,892,77000,2022-08-02
+86,Seoul Regional Store 086,Regional Store,1079,147000,2023-05-14
+87,Assiut Cross-dock 087,Cross-dock,1141,161000,2023-07-01
+88,Johannesburg Distribution Center 088,Distribution Center,129,61000,2023-09-27
+89,Luxor Regional Store 089,Regional Store,494,62000,2019-09-12
+90,Mansoura Distribution Center 090,Distribution Center,60,147000,2017-03-06
+91,Sydney Cold Storage 091,Cold Storage,54,87000,2015-08-13
+92,Milan Distribution Center 092,Distribution Center,571,18000,2020-12-08
+93,Los Angeles Fulfillment Hub 093,Fulfillment Hub,794,28000,2016-01-14
+94,Los Angeles Cross-dock 094,Cross-dock,1064,77000,2017-03-01
+95,Mumbai Cross-dock 095,Cross-dock,156,57000,2017-03-12
+96,Miami Regional Store 096,Regional Store,40,28000,2017-06-25
+97,Amman Regional Store 097,Regional Store,126,157000,2018-06-15
+98,Madrid Regional Store 098,Regional Store,1113,94000,2018-01-19
+99,Los Angeles Cold Storage 099,Cold Storage,794,142000,2019-12-23
+100,Los Angeles Fulfillment Hub 100,Fulfillment Hub,578,5000,2024-03-22
+101,Doha Cross-dock 101,Cross-dock,124,83000,2021-02-25
+102,Abu Dhabi Regional Store 102,Regional Store,445,98000,2021-06-13
+103,Beijing Fulfillment Hub 103,Fulfillment Hub,155,117000,2016-05-22
+104,Chicago Distribution Center 104,Distribution Center,37,193000,2015-11-29
+105,Toronto Distribution Center 105,Distribution Center,527,94000,2016-08-25
+106,Jeddah Regional Store 106,Regional Store,604,100000,2023-02-24
+107,Giza Regional Store 107,Regional Store,543,179000,2016-06-28
+108,Lagos Fulfillment Hub 108,Fulfillment Hub,1046,82000,2024-06-26
+109,Muscat Distribution Center 109,Distribution Center,1097,81000,2022-03-24
+110,Los Angeles Distribution Center 110,Distribution Center,146,36000,2022-12-16
+111,Luxor Fulfillment Hub 111,Fulfillment Hub,332,145000,2017-10-06
+112,Luxor Distribution Center 112,Distribution Center,602,8000,2016-04-29
+113,Chennai Regional Store 113,Regional Store,482,47000,2016-06-06
+114,Los Angeles Cold Storage 114,Cold Storage,524,86000,2023-03-29
+115,Miami Regional Store 115,Regional Store,850,89000,2019-01-14
+116,Sydney Regional Store 116,Regional Store,216,12000,2018-10-26
+117,Johannesburg Cold Storage 117,Cold Storage,993,108000,2017-03-24
+118,Mumbai Regional Store 118,Regional Store,318,194000,2018-04-19
+119,Toronto Cross-dock 119,Cross-dock,419,25000,2018-06-05
+120,Singapore Regional Store 120,Regional Store,267,101000,2022-03-04
+121,Alexandria Cross-dock 121,Cross-dock,758,119000,2022-11-28
+122,Berlin Fulfillment Hub 122,Fulfillment Hub,835,68000,2019-05-23
+123,Mumbai Distribution Center 123,Distribution Center,750,117000,2018-01-29
+124,Seoul Cross-dock 124,Cross-dock,593,71000,2019-03-29
+125,Miami Regional Store 125,Regional Store,364,35000,2016-07-05
+126,Doha Regional Store 126,Regional Store,826,168000,2015-06-18
+127,Rotterdam Fulfillment Hub 127,Fulfillment Hub,143,199000,2017-01-28
+128,Singapore Cross-dock 128,Cross-dock,375,80000,2015-01-11
+129,Jeddah Regional Store 129,Regional Store,820,23000,2015-02-15
+130,Johannesburg Regional Store 130,Regional Store,831,36000,2017-02-19
+131,Tokyo Fulfillment Hub 131,Fulfillment Hub,322,179000,2023-09-02
+132,Rome Fulfillment Hub 132,Fulfillment Hub,410,176000,2016-08-11
+133,Port Said Fulfillment Hub 133,Fulfillment Hub,382,100000,2021-08-28
+134,Houston Cold Storage 134,Cold Storage,1065,174000,2016-03-27
+135,Houston Distribution Center 135,Distribution Center,687,48000,2019-05-10
+136,Rotterdam Regional Store 136,Regional Store,143,83000,2020-10-07
+137,Milan Distribution Center 137,Distribution Center,193,26000,2020-04-25
+138,Paris Cold Storage 138,Cold Storage,84,111000,2022-09-01
+139,Lagos Fulfillment Hub 139,Fulfillment Hub,290,141000,2017-04-16
+140,Singapore Regional Store 140,Regional Store,267,192000,2022-02-09
+141,Chennai Regional Store 141,Regional Store,536,152000,2018-10-07
+142,Madrid Regional Store 142,Regional Store,897,134000,2019-03-06
+143,Manchester Regional Store 143,Regional Store,1055,136000,2017-12-09
+144,Ankara Distribution Center 144,Distribution Center,671,127000,2024-08-11
+145,Riyadh Fulfillment Hub 145,Fulfillment Hub,927,86000,2022-11-30
+146,Paris Distribution Center 146,Distribution Center,786,102000,2019-05-08
+147,Port Said Regional Store 147,Regional Store,382,38000,2022-02-11
+148,Madrid Regional Store 148,Regional Store,735,8000,2023-10-24
+149,Houston Fulfillment Hub 149,Fulfillment Hub,363,158000,2017-08-01
+150,Beijing Regional Store 150,Regional Store,371,101000,2018-01-01
+151,Singapore Fulfillment Hub 151,Fulfillment Hub,1185,174000,2022-04-20
+152,Abu Dhabi Fulfillment Hub 152,Fulfillment Hub,1093,28000,2017-08-01
+153,Manchester Fulfillment Hub 153,Fulfillment Hub,785,81000,2015-09-18
+154,Jeddah Regional Store 154,Regional Store,712,55000,2020-08-26
+155,Abu Dhabi Distribution Center 155,Distribution Center,823,169000,2016-10-13
+156,Miami Cold Storage 156,Cold Storage,904,78000,2020-07-27
+157,Abu Dhabi Regional Store 157,Regional Store,67,128000,2015-11-01
+158,Seoul Cross-dock 158,Cross-dock,431,21000,2019-07-03
+159,Amman Distribution Center 159,Distribution Center,126,107000,2017-02-18
+160,Mexico City Regional Store 160,Regional Store,636,91000,2019-12-31
+161,Paris Regional Store 161,Regional Store,354,124000,2017-01-06
+162,Casablanca Cross-dock 162,Cross-dock,397,119000,2017-04-06
+163,Houston Fulfillment Hub 163,Fulfillment Hub,1011,26000,2023-08-30
+164,Manchester Fulfillment Hub 164,Fulfillment Hub,245,14000,2024-06-19
+165,Abu Dhabi Fulfillment Hub 165,Fulfillment Hub,1093,29000,2018-01-05
+166,Lagos Fulfillment Hub 166,Fulfillment Hub,506,47000,2021-02-24
+167,Sharjah Regional Store 167,Regional Store,230,146000,2018-04-15
+168,Jeddah Fulfillment Hub 168,Fulfillment Hub,172,57000,2016-06-18
+169,Mumbai Regional Store 169,Regional Store,858,194000,2015-10-09
+170,Port Said Fulfillment Hub 170,Fulfillment Hub,1084,21000,2023-07-25
+171,Ankara Cross-dock 171,Cross-dock,1049,104000,2015-06-09
+172,Sao Paulo Cold Storage 172,Cold Storage,205,144000,2019-08-21
+173,Manchester Fulfillment Hub 173,Fulfillment Hub,1055,15000,2016-12-12
+174,Cairo Distribution Center 174,Distribution Center,271,105000,2022-04-13
+175,Dammam Cross-dock 175,Cross-dock,551,18000,2016-02-11
+176,Assiut Fulfillment Hub 176,Fulfillment Hub,7,159000,2020-06-21
+177,Toronto Regional Store 177,Regional Store,311,96000,2018-03-08
+178,Mansoura Regional Store 178,Regional Store,384,173000,2019-12-03
+179,Sharjah Regional Store 179,Regional Store,1148,133000,2016-08-14
+180,Jeddah Cold Storage 180,Cold Storage,334,66000,2015-12-09
+181,Luxor Fulfillment Hub 181,Fulfillment Hub,332,35000,2016-07-17
+182,Suez Distribution Center 182,Distribution Center,329,35000,2020-06-20
+183,Barcelona Fulfillment Hub 183,Fulfillment Hub,304,11000,2021-03-03
+184,Sydney Regional Store 184,Regional Store,648,63000,2023-09-14
+185,Milan Distribution Center 185,Distribution Center,247,147000,2024-01-27
+186,Berlin Distribution Center 186,Distribution Center,349,74000,2022-03-16
+187,Guangzhou Cold Storage 187,Cold Storage,640,33000,2014-11-28
+188,Shanghai Fulfillment Hub 188,Fulfillment Hub,908,20000,2021-09-20
+189,Johannesburg Distribution Center 189,Distribution Center,129,90000,2021-09-28
+190,Toronto Fulfillment Hub 190,Fulfillment Hub,419,45000,2021-09-30
+191,Chicago Distribution Center 191,Distribution Center,685,148000,2021-04-14
+192,Johannesburg Distribution Center 192,Distribution Center,1101,70000,2021-07-25
+193,Seoul Fulfillment Hub 193,Fulfillment Hub,1133,29000,2020-07-21
+194,Johannesburg Fulfillment Hub 194,Fulfillment Hub,1047,58000,2020-11-22
+195,Dubai Regional Store 195,Regional Store,606,91000,2021-08-11
+196,Jeddah Fulfillment Hub 196,Fulfillment Hub,118,12000,2015-03-20
+197,Berlin Regional Store 197,Regional Store,1159,26000,2019-10-20
+198,Shanghai Regional Store 198,Regional Store,746,192000,2016-01-17
+199,Assiut Regional Store 199,Regional Store,1087,72000,2023-12-03
+200,Berlin Cold Storage 200,Cold Storage,1105,150000,2024-07-17
+201,Madrid Fulfillment Hub 201,Fulfillment Hub,951,182000,2016-05-06
+202,Casablanca Distribution Center 202,Distribution Center,505,27000,2023-07-29
+203,London Distribution Center 203,Distribution Center,730,138000,2019-06-15
+204,Lagos Distribution Center 204,Distribution Center,830,167000,2021-05-31
+205,Milan Regional Store 205,Regional Store,1057,9000,2021-03-22
+206,Alexandria Cross-dock 206,Cross-dock,272,65000,2015-12-12
+207,Amman Distribution Center 207,Distribution Center,666,31000,2023-09-29
+208,Sharjah Distribution Center 208,Distribution Center,716,11000,2021-02-06
+209,Madrid Regional Store 209,Regional Store,249,62000,2019-08-04
+210,Singapore Cross-dock 210,Cross-dock,483,40000,2020-11-05
+211,Milan Distribution Center 211,Distribution Center,1111,179000,2024-06-01
+212,Lagos Regional Store 212,Regional Store,20,51000,2021-03-02
+213,Riyadh Regional Store 213,Regional Store,603,150000,2021-04-04
+214,Paris Fulfillment Hub 214,Fulfillment Hub,732,15000,2023-06-05
+215,Jeddah Fulfillment Hub 215,Fulfillment Hub,1090,125000,2021-09-05
+216,Muscat Regional Store 216,Regional Store,341,140000,2016-03-12
+217,Miami Fulfillment Hub 217,Fulfillment Hub,472,34000,2022-11-07
+218,Sao Paulo Cold Storage 218,Cold Storage,97,89000,2023-08-28
+219,Berlin Regional Store 219,Regional Store,403,186000,2022-01-08
+220,Riyadh Cross-dock 220,Cross-dock,1197,124000,2016-04-15
+221,Alexandria Regional Store 221,Regional Store,920,162000,2019-12-09
+222,Manchester Cold Storage 222,Cold Storage,515,87000,2015-04-27
+223,Mansoura Distribution Center 223,Distribution Center,762,51000,2022-05-27
+224,Izmir Distribution Center 224,Distribution Center,1158,96000,2024-03-21
+225,Mexico City Regional Store 225,Regional Store,528,83000,2015-02-20
+226,Paris Distribution Center 226,Distribution Center,354,196000,2015-11-11
+227,Manchester Regional Store 227,Regional Store,1055,88000,2023-12-24
+228,Delhi Cross-dock 228,Cross-dock,1021,127000,2022-09-02
+229,Hamburg Fulfillment Hub 229,Fulfillment Hub,620,119000,2022-11-25
+230,Kuwait City Distribution Center 230,Distribution Center,15,77000,2016-11-03
+231,Doha Regional Store 231,Regional Store,16,78000,2021-01-26
+232,Barcelona Distribution Center 232,Distribution Center,142,169000,2022-12-15
+233,Istanbul Distribution Center 233,Distribution Center,832,45000,2015-06-19
+234,Delhi Fulfillment Hub 234,Fulfillment Hub,211,86000,2017-08-01
+235,Istanbul Distribution Center 235,Distribution Center,76,135000,2017-09-10
+236,Riyadh Cross-dock 236,Cross-dock,819,16000,2020-02-15
+237,Los Angeles Cold Storage 237,Cold Storage,578,137000,2017-04-15
+238,Sao Paulo Regional Store 238,Regional Store,637,167000,2018-02-26
+239,Kuwait City Cross-dock 239,Cross-dock,231,91000,2017-04-27
+240,Mexico City Fulfillment Hub 240,Fulfillment Hub,258,118000,2015-06-01
+241,Johannesburg Cold Storage 241,Cold Storage,291,99000,2021-05-30
+242,Muscat Regional Store 242,Regional Store,773,134000,2021-01-30
+243,Mexico City Regional Store 243,Regional Store,1176,14000,2023-06-04
+244,Casablanca Distribution Center 244,Distribution Center,1099,125000,2020-06-18
+245,Manchester Distribution Center 245,Distribution Center,137,93000,2021-07-03
+246,Mansoura Distribution Center 246,Distribution Center,816,11000,2018-04-30
+247,Guangzhou Fulfillment Hub 247,Fulfillment Hub,910,161000,2018-08-14
+248,Delhi Distribution Center 248,Distribution Center,49,34000,2018-11-07
+249,Riyadh Regional Store 249,Regional Store,765,120000,2024-05-04
+250,Mumbai Distribution Center 250,Distribution Center,534,170000,2019-06-11
+251,Casablanca Distribution Center 251,Distribution Center,235,184000,2023-04-16
+252,Paris Regional Store 252,Regional Store,948,127000,2017-12-12
+253,Sao Paulo Cold Storage 253,Cold Storage,1123,144000,2021-07-17
+254,Doha Distribution Center 254,Distribution Center,718,119000,2017-06-27
+255,Hamburg Fulfillment Hub 255,Fulfillment Hub,242,156000,2018-09-14
+256,Manchester Regional Store 256,Regional Store,515,195000,2023-04-02
+257,Berlin Cold Storage 257,Cold Storage,619,94000,2021-07-11
+258,Giza Cross-dock 258,Cross-dock,1083,85000,2019-07-31
+259,Milan Fulfillment Hub 259,Fulfillment Hub,949,38000,2018-10-22
+260,Delhi Regional Store 260,Regional Store,805,195000,2022-09-01
+261,Seoul Regional Store 261,Regional Store,917,182000,2016-04-25
+262,Ankara Distribution Center 262,Distribution Center,833,142000,2023-02-25
+263,Mansoura Fulfillment Hub 263,Fulfillment Hub,384,133000,2020-11-19
+264,Seoul Regional Store 264,Regional Store,161,44000,2018-01-11
+265,New York Regional Store 265,Regional Store,1008,182000,2021-09-01
+266,Muscat Distribution Center 266,Distribution Center,665,16000,2024-07-21
+267,Johannesburg Regional Store 267,Regional Store,1155,125000,2018-03-25
+268,Luxor Regional Store 268,Regional Store,818,54000,2018-08-30
+269,Manchester Fulfillment Hub 269,Fulfillment Hub,569,93000,2023-12-12
+270,Johannesburg Fulfillment Hub 270,Fulfillment Hub,777,23000,2018-03-07
+271,Munich Fulfillment Hub 271,Fulfillment Hub,783,31000,2023-03-17
+272,Shanghai Cold Storage 272,Cold Storage,1178,78000,2023-08-27
+273,Mansoura Distribution Center 273,Distribution Center,438,82000,2020-07-13
+274,Berlin Regional Store 274,Regional Store,457,176000,2015-08-06
+275,Beijing Cross-dock 275,Cross-dock,425,121000,2015-05-19
+276,Istanbul Regional Store 276,Regional Store,130,11000,2017-07-22
+277,Izmir Cold Storage 277,Cold Storage,564,186000,2014-12-15
+278,Delhi Cold Storage 278,Cold Storage,535,124000,2022-04-21
+279,Johannesburg Regional Store 279,Regional Store,237,166000,2021-02-03
+280,Assiut Fulfillment Hub 280,Fulfillment Hub,979,185000,2019-04-08
+281,Amman Fulfillment Hub 281,Fulfillment Hub,828,105000,2022-10-22
+282,Lagos Fulfillment Hub 282,Fulfillment Hub,290,39000,2016-02-07
+283,Chicago Regional Store 283,Regional Store,199,92000,2019-09-20
+284,Miami Fulfillment Hub 284,Fulfillment Hub,742,138000,2018-02-14
+285,Assiut Fulfillment Hub 285,Fulfillment Hub,7,11000,2015-01-07
+286,Lagos Distribution Center 286,Distribution Center,182,189000,2019-07-03
+287,Mexico City Regional Store 287,Regional Store,528,73000,2016-03-19
+288,Cairo Distribution Center 288,Distribution Center,1189,133000,2015-03-28
+289,Los Angeles Fulfillment Hub 289,Fulfillment Hub,92,196000,2016-11-13
+290,Toronto Cross-dock 290,Cross-dock,635,173000,2016-09-15
+291,Munich Cross-dock 291,Cross-dock,675,149000,2020-12-21
+292,Madrid Regional Store 292,Regional Store,303,63000,2022-08-08
+293,Milan Regional Store 293,Regional Store,625,107000,2019-07-30
+294,Mansoura Regional Store 294,Regional Store,762,102000,2021-02-08
+295,Giza Fulfillment Hub 295,Fulfillment Hub,165,173000,2015-10-17
+296,Dubai Distribution Center 296,Distribution Center,1146,12000,2022-07-16
+297,Hamburg Regional Store 297,Regional Store,296,9000,2019-09-25
+298,Dammam Distribution Center 298,Distribution Center,443,28000,2019-01-04
+299,Paris Regional Store 299,Regional Store,30,191000,2023-05-11
+300,Dammam Cold Storage 300,Cold Storage,713,110000,2017-11-17
+301,Dammam Fulfillment Hub 301,Fulfillment Hub,713,141000,2019-02-11
+302,Rome Regional Store 302,Regional Store,140,23000,2023-11-30
+303,London Fulfillment Hub 303,Fulfillment Hub,352,7000,2016-04-06
+304,Giza Fulfillment Hub 304,Fulfillment Hub,921,131000,2019-12-06
+305,Guangzhou Fulfillment Hub 305,Fulfillment Hub,856,142000,2020-06-25
+306,Shenzhen Cross-dock 306,Cross-dock,369,88000,2021-09-08
+307,Sydney Cold Storage 307,Cold Storage,756,21000,2023-12-12
+308,Madrid Fulfillment Hub 308,Fulfillment Hub,897,100000,2018-03-05
+309,Muscat Regional Store 309,Regional Store,449,129000,2015-12-06
+310,Delhi Fulfillment Hub 310,Fulfillment Hub,211,46000,2018-09-20
+311,Munich Fulfillment Hub 311,Fulfillment Hub,27,63000,2016-04-30
+312,Dubai Cross-dock 312,Cross-dock,1146,150000,2021-12-17
+313,Assiut Regional Store 313,Regional Store,385,46000,2020-05-16
+314,Chennai Regional Store 314,Regional Store,968,24000,2022-04-02
+315,Dubai Cold Storage 315,Cold Storage,390,127000,2018-02-19
+316,Shenzhen Distribution Center 316,Distribution Center,855,9000,2024-03-12
+317,Istanbul Cross-dock 317,Cross-dock,400,89000,2023-08-13
+318,Munich Fulfillment Hub 318,Fulfillment Hub,729,116000,2023-10-24
+319,Dammam Regional Store 319,Regional Store,1145,17000,2021-10-23
+320,Toronto Distribution Center 320,Distribution Center,905,132000,2016-08-18
+321,New York Distribution Center 321,Distribution Center,198,165000,2016-03-27
+322,Rotterdam Regional Store 322,Regional Store,629,194000,2024-03-21
+323,Cairo Fulfillment Hub 323,Fulfillment Hub,325,56000,2023-05-15
+324,Mumbai Regional Store 324,Regional Store,264,68000,2023-06-20
+325,Munich Cold Storage 325,Cold Storage,999,125000,2021-02-12
+326,Guangzhou Fulfillment Hub 326,Fulfillment Hub,1180,121000,2023-03-25
+327,Milan Cross-dock 327,Cross-dock,1111,123000,2019-08-27
+328,Rotterdam Cold Storage 328,Cold Storage,1007,66000,2016-05-20
+329,Istanbul Regional Store 329,Regional Store,562,15000,2017-04-25
+330,Los Angeles Distribution Center 330,Distribution Center,632,9000,2023-03-07
+331,Cairo Regional Store 331,Regional Store,649,199000,2021-03-10
+332,Lagos Cross-dock 332,Cross-dock,884,84000,2024-08-13
+333,Jeddah Regional Store 333,Regional Store,64,92000,2023-08-23
+334,Johannesburg Cross-dock 334,Cross-dock,993,127000,2022-04-09
+335,Tokyo Distribution Center 335,Distribution Center,970,45000,2015-03-02
+336,Assiut Regional Store 336,Regional Store,1195,79000,2016-08-11
+337,Dubai Distribution Center 337,Distribution Center,714,90000,2018-06-26
+338,Riyadh Regional Store 338,Regional Store,549,23000,2015-02-20
+339,Rotterdam Regional Store 339,Regional Store,575,122000,2024-01-04
+340,Sao Paulo Cold Storage 340,Cold Storage,745,42000,2017-01-12
+341,Miami Distribution Center 341,Distribution Center,364,5000,2018-07-24
+342,Kuwait City Fulfillment Hub 342,Fulfillment Hub,933,126000,2021-06-08
+343,Beijing Distribution Center 343,Distribution Center,533,63000,2015-02-21
+344,Kuwait City Fulfillment Hub 344,Fulfillment Hub,339,144000,2021-01-21
+345,Casablanca Fulfillment Hub 345,Fulfillment Hub,883,109000,2015-10-15
+346,Munich Cross-dock 346,Cross-dock,405,10000,2023-09-06
+347,Sao Paulo Fulfillment Hub 347,Fulfillment Hub,97,140000,2021-08-05
+348,Madrid Cold Storage 348,Cold Storage,627,12000,2018-02-04
+349,Kuwait City Fulfillment Hub 349,Fulfillment Hub,609,66000,2021-09-08
+350,Hamburg Fulfillment Hub 350,Fulfillment Hub,350,138000,2017-11-18
+351,Mexico City Regional Store 351,Regional Store,42,83000,2015-12-03
+352,Milan Fulfillment Hub 352,Fulfillment Hub,571,80000,2014-11-18
+353,Riyadh Regional Store 353,Regional Store,927,48000,2016-12-12
+354,Shanghai Regional Store 354,Regional Store,962,91000,2021-10-05
+355,Los Angeles Regional Store 355,Regional Store,254,62000,2020-05-05
+356,Milan Regional Store 356,Regional Store,517,189000,2017-06-23
+357,Suez Regional Store 357,Regional Store,1085,139000,2021-07-21
+358,New York Cold Storage 358,Cold Storage,414,182000,2018-08-13
+359,Rome Distribution Center 359,Distribution Center,572,70000,2016-05-01
+360,Mansoura Fulfillment Hub 360,Fulfillment Hub,816,190000,2021-06-24
+361,Riyadh Regional Store 361,Regional Store,549,59000,2019-04-14
+362,Los Angeles Distribution Center 362,Distribution Center,1010,65000,2021-05-02
+363,Cairo Cross-dock 363,Cross-dock,433,63000,2020-04-29
+364,Singapore Regional Store 364,Regional Store,591,119000,2015-10-14
+365,Hamburg Distribution Center 365,Distribution Center,620,124000,2015-04-11
+366,Paris Fulfillment Hub 366,Fulfillment Hub,894,17000,2015-10-12
+367,London Regional Store 367,Regional Store,406,114000,2016-12-28
+368,Assiut Distribution Center 368,Distribution Center,331,190000,2016-12-29
+369,Sydney Distribution Center 369,Distribution Center,432,84000,2023-11-05
+370,Riyadh Regional Store 370,Regional Store,279,141000,2022-07-04
+371,Casablanca Regional Store 371,Regional Store,235,128000,2023-06-17
+372,Dubai Cross-dock 372,Cross-dock,984,196000,2019-06-18
+373,Chicago Fulfillment Hub 373,Fulfillment Hub,415,130000,2017-12-18
+374,Cairo Distribution Center 374,Distribution Center,325,96000,2018-10-04
+375,Giza Regional Store 375,Regional Store,975,7000,2023-05-05
+376,Manchester Distribution Center 376,Distribution Center,947,161000,2018-04-16
+377,Berlin Cold Storage 377,Cold Storage,295,71000,2021-01-08
+378,Mexico City Regional Store 378,Regional Store,366,185000,2016-03-18
+379,Sharjah Distribution Center 379,Distribution Center,986,52000,2024-06-17
+380,Jeddah Cross-dock 380,Cross-dock,334,90000,2021-02-10
+381,Luxor Cold Storage 381,Cold Storage,1034,166000,2024-04-23
+382,Miami Regional Store 382,Regional Store,742,34000,2017-09-09
+383,Shanghai Cross-dock 383,Cross-dock,800,58000,2020-11-12
+384,Beijing Distribution Center 384,Distribution Center,641,159000,2017-06-27
+385,Chicago Regional Store 385,Regional Store,37,66000,2019-05-26
+386,Amman Regional Store 386,Regional Store,990,191000,2017-12-20
+387,Hamburg Cross-dock 387,Cross-dock,674,109000,2016-03-10
+388,Guangzhou Fulfillment Hub 388,Fulfillment Hub,208,165000,2019-02-22
+389,London Cold Storage 389,Cold Storage,1000,111000,2020-01-06
+390,Manchester Cross-dock 390,Cross-dock,353,13000,2016-05-02
+391,Assiut Fulfillment Hub 391,Fulfillment Hub,439,163000,2018-09-17
+392,Dammam Fulfillment Hub 392,Fulfillment Hub,767,86000,2015-09-17
+393,Doha Fulfillment Hub 393,Fulfillment Hub,340,80000,2021-02-24
+394,Luxor Fulfillment Hub 394,Fulfillment Hub,8,148000,2017-11-14
+395,Luxor Distribution Center 395,Distribution Center,386,59000,2015-09-02
+396,Jeddah Cross-dock 396,Cross-dock,820,88000,2019-11-05
+397,Istanbul Distribution Center 397,Distribution Center,508,123000,2023-01-06
+398,Shenzhen Fulfillment Hub 398,Fulfillment Hub,855,120000,2024-07-22
+399,Milan Distribution Center 399,Distribution Center,85,147000,2024-04-26
+400,Houston Fulfillment Hub 400,Fulfillment Hub,309,21000,2016-07-01
+401,Doha Fulfillment Hub 401,Fulfillment Hub,286,198000,2016-11-06
+402,Ankara Fulfillment Hub 402,Fulfillment Hub,77,123000,2023-08-03
+403,Johannesburg Regional Store 403,Regional Store,777,125000,2021-01-09
+404,Chicago Fulfillment Hub 404,Fulfillment Hub,253,177000,2020-02-21
+405,Munich Regional Store 405,Regional Store,567,100000,2022-09-09
+406,Cairo Distribution Center 406,Distribution Center,1189,10000,2015-06-04
+407,Munich Fulfillment Hub 407,Fulfillment Hub,297,30000,2020-04-01
+408,Amman Distribution Center 408,Distribution Center,234,189000,2020-06-05
+409,Los Angeles Fulfillment Hub 409,Fulfillment Hub,1118,197000,2024-01-03
+410,Singapore Cross-dock 410,Cross-dock,429,21000,2019-05-24
+411,Milan Regional Store 411,Regional Store,355,138000,2019-10-31
+412,Sydney Cross-dock 412,Cross-dock,864,133000,2022-09-05
+413,Mumbai Fulfillment Hub 413,Fulfillment Hub,156,37000,2017-06-14
+414,Istanbul Fulfillment Hub 414,Fulfillment Hub,454,158000,2015-06-23
+415,Izmir Cold Storage 415,Cold Storage,240,94000,2019-06-08
+416,Shenzhen Distribution Center 416,Distribution Center,1071,49000,2020-10-20
+417,Rome Distribution Center 417,Distribution Center,356,114000,2019-08-06
+418,Madrid Distribution Center 418,Distribution Center,681,181000,2021-10-01
+419,Barcelona Cold Storage 419,Cold Storage,628,47000,2017-04-15
+420,Tokyo Cold Storage 420,Cold Storage,592,125000,2014-12-05
+421,Hamburg Fulfillment Hub 421,Fulfillment Hub,80,147000,2022-07-18
+422,Guangzhou Distribution Center 422,Distribution Center,316,126000,2023-03-04
+423,Sydney Regional Store 423,Regional Store,1026,131000,2020-11-15
+424,Jeddah Fulfillment Hub 424,Fulfillment Hub,658,146000,2017-11-18
+425,Munich Distribution Center 425,Distribution Center,1053,50000,2018-06-09
+426,Izmir Fulfillment Hub 426,Fulfillment Hub,672,24000,2019-07-08
+427,Suez Fulfillment Hub 427,Fulfillment Hub,383,198000,2018-12-10
+428,Chicago Fulfillment Hub 428,Fulfillment Hub,415,67000,2016-12-28
+429,Abu Dhabi Regional Store 429,Regional Store,931,189000,2018-06-14
+430,Doha Regional Store 430,Regional Store,286,57000,2017-09-21
+431,Amman Cross-dock 431,Cross-dock,720,56000,2019-03-15
+432,Sao Paulo Distribution Center 432,Distribution Center,1123,9000,2018-06-27
+433,Sao Paulo Distribution Center 433,Distribution Center,1015,91000,2019-12-29
+434,Madrid Regional Store 434,Regional Store,465,189000,2022-09-27
+435,Riyadh Distribution Center 435,Distribution Center,333,179000,2018-01-18
+436,Shanghai Fulfillment Hub 436,Fulfillment Hub,746,64000,2015-05-11
+437,Milan Distribution Center 437,Distribution Center,733,84000,2022-11-07
+438,Giza Distribution Center 438,Distribution Center,867,135000,2016-08-15
+439,Barcelona Fulfillment Hub 439,Fulfillment Hub,88,191000,2023-12-09
+440,Sydney Distribution Center 440,Distribution Center,648,122000,2019-12-31
+441,Dubai Regional Store 441,Regional Store,12,44000,2019-12-10
+442,Alexandria Fulfillment Hub 442,Fulfillment Hub,1190,74000,2018-10-25
+443,Izmir Regional Store 443,Regional Store,1050,146000,2021-10-18
+444,Izmir Cross-dock 444,Cross-dock,888,9000,2021-03-22
+445,Paris Fulfillment Hub 445,Fulfillment Hub,354,121000,2023-12-16
+446,Rome Regional Store 446,Regional Store,896,154000,2014-12-13
+447,Delhi Cold Storage 447,Cold Storage,535,72000,2016-09-04
+448,Ankara Distribution Center 448,Distribution Center,779,110000,2017-07-10
+449,Riyadh Regional Store 449,Regional Store,279,144000,2016-08-28
+450,Paris Cross-dock 450,Cross-dock,570,121000,2024-02-19
+451,Munich Regional Store 451,Regional Store,1053,9000,2015-07-03
+452,Dubai Distribution Center 452,Distribution Center,228,119000,2015-12-25
+453,Paris Distribution Center 453,Distribution Center,462,50000,2019-02-22
+454,Hamburg Fulfillment Hub 454,Fulfillment Hub,350,149000,2017-05-23
+455,Seoul Distribution Center 455,Distribution Center,215,55000,2018-01-19
+456,Shenzhen Fulfillment Hub 456,Fulfillment Hub,477,195000,2020-09-27
+457,London Regional Store 457,Regional Store,730,27000,2020-04-23
+458,Dubai Fulfillment Hub 458,Fulfillment Hub,66,178000,2023-04-22
+459,Milan Fulfillment Hub 459,Fulfillment Hub,247,11000,2019-03-26
+460,Riyadh Fulfillment Hub 460,Fulfillment Hub,981,138000,2024-01-10
+461,Sao Paulo Fulfillment Hub 461,Fulfillment Hub,313,73000,2016-08-29
+462,Berlin Regional Store 462,Regional Store,403,43000,2016-09-14
+463,Tokyo Regional Store 463,Regional Store,808,47000,2018-08-23
+464,Rome Fulfillment Hub 464,Fulfillment Hub,896,12000,2015-12-09
+465,Amman Fulfillment Hub 465,Fulfillment Hub,1152,30000,2015-01-27
+466,Manchester Distribution Center 466,Distribution Center,191,81000,2018-06-12
+467,Mexico City Cold Storage 467,Cold Storage,906,35000,2020-01-31
+468,Suez Fulfillment Hub 468,Fulfillment Hub,869,193000,2017-07-10
+469,Toronto Fulfillment Hub 469,Fulfillment Hub,149,166000,2017-06-16
+470,Hamburg Fulfillment Hub 470,Fulfillment Hub,1052,97000,2015-09-30
+471,Tokyo Distribution Center 471,Distribution Center,376,23000,2015-11-23
+472,Istanbul Fulfillment Hub 472,Fulfillment Hub,508,197000,2023-06-29
+473,Los Angeles Cold Storage 473,Cold Storage,956,146000,2015-06-09
+474,Rotterdam Distribution Center 474,Distribution Center,629,40000,2021-09-17
+475,Assiut Distribution Center 475,Distribution Center,331,15000,2021-10-30
+476,Riyadh Distribution Center 476,Distribution Center,387,125000,2016-10-15
+477,Berlin Distribution Center 477,Distribution Center,889,12000,2017-03-23
+478,Port Said Cold Storage 478,Cold Storage,220,124000,2018-05-30
+479,Munich Regional Store 479,Regional Store,567,91000,2021-04-12
+480,Madrid Cold Storage 480,Cold Storage,897,176000,2015-02-23
+481,New York Regional Store 481,Regional Store,1062,79000,2022-10-28
+482,Lagos Cross-dock 482,Cross-dock,992,92000,2018-02-23
+483,Seoul Cross-dock 483,Cross-dock,431,111000,2019-09-18
+484,Ankara Cross-dock 484,Cross-dock,239,196000,2023-10-03
+485,Mexico City Regional Store 485,Regional Store,1122,142000,2016-02-05
+486,Kuwait City Regional Store 486,Regional Store,717,135000,2024-02-16
+487,Giza Cross-dock 487,Cross-dock,489,65000,2020-11-04
+488,Giza Fulfillment Hub 488,Fulfillment Hub,1083,99000,2018-12-29
+489,Luxor Regional Store 489,Regional Store,872,42000,2015-06-29
+490,Rome Distribution Center 490,Distribution Center,572,81000,2015-06-15
+491,Casablanca Cross-dock 491,Cross-dock,235,165000,2022-11-03
+492,Shanghai Cross-dock 492,Cross-dock,98,24000,2018-09-30
+493,Sao Paulo Cross-dock 493,Cross-dock,637,37000,2022-04-17
+494,Paris Cross-dock 494,Cross-dock,138,119000,2022-12-31
+495,Delhi Regional Store 495,Regional Store,373,160000,2018-10-01
+496,Luxor Regional Store 496,Regional Store,818,195000,2017-11-27
+497,Doha Fulfillment Hub 497,Fulfillment Hub,16,119000,2017-06-09
+498,Sydney Fulfillment Hub 498,Fulfillment Hub,1188,133000,2021-01-22
+499,Houston Distribution Center 499,Distribution Center,525,61000,2021-10-12
+500,Casablanca Distribution Center 500,Distribution Center,1045,84000,2018-03-26
+501,Shenzhen Fulfillment Hub 501,Fulfillment Hub,207,66000,2020-05-17
+502,Abu Dhabi Regional Store 502,Regional Store,553,26000,2020-02-09
+503,Muscat Regional Store 503,Regional Store,1151,77000,2016-03-20
+504,Giza Distribution Center 504,Distribution Center,759,47000,2019-12-20
+505,Seoul Regional Store 505,Regional Store,971,120000,2022-04-09
+506,Abu Dhabi Fulfillment Hub 506,Fulfillment Hub,823,151000,2024-04-08
+507,Izmir Regional Store 507,Regional Store,888,196000,2018-01-29
+508,Mansoura Fulfillment Hub 508,Fulfillment Hub,438,176000,2017-02-20
+509,Port Said Regional Store 509,Regional Store,544,67000,2023-08-06
+510,Mansoura Fulfillment Hub 510,Fulfillment Hub,60,188000,2023-11-07
+511,Toronto Distribution Center 511,Distribution Center,311,188000,2022-12-18
+512,Izmir Fulfillment Hub 512,Fulfillment Hub,78,103000,2018-02-03
+513,Dubai Regional Store 513,Regional Store,390,45000,2017-07-03
+514,Luxor Cold Storage 514,Cold Storage,872,156000,2020-12-11
+515,Paris Cross-dock 515,Cross-dock,246,27000,2017-04-20
+516,Rotterdam Regional Store 516,Regional Store,575,75000,2022-05-15
+517,Kuwait City Distribution Center 517,Distribution Center,663,108000,2018-09-16
+518,Rotterdam Regional Store 518,Regional Store,197,173000,2018-01-04
+519,Alexandria Regional Store 519,Regional Store,974,195000,2022-09-19
+520,Luxor Fulfillment Hub 520,Fulfillment Hub,926,164000,2018-04-15
+521,Riyadh Fulfillment Hub 521,Fulfillment Hub,225,99000,2016-01-28
+522,Shanghai Distribution Center 522,Distribution Center,44,21000,2022-08-15
+523,Mansoura Distribution Center 523,Distribution Center,6,160000,2017-11-25
+524,London Distribution Center 524,Distribution Center,352,172000,2021-03-30
+525,Sao Paulo Regional Store 525,Regional Store,151,97000,2021-04-13
+526,Johannesburg Regional Store 526,Regional Store,21,113000,2015-08-10
+527,Sharjah Distribution Center 527,Distribution Center,554,170000,2015-02-12
+528,Chicago Cold Storage 528,Cold Storage,631,30000,2022-11-15
+529,Ankara Regional Store 529,Regional Store,23,163000,2015-05-04
+530,Muscat Cross-dock 530,Cross-dock,719,104000,2018-01-21
+531,Tokyo Cold Storage 531,Cold Storage,484,138000,2022-04-19
+532,Berlin Regional Store 532,Regional Store,241,42000,2016-07-15
+533,Hamburg Distribution Center 533,Distribution Center,134,125000,2019-12-08
+534,Beijing Cold Storage 534,Cold Storage,911,57000,2015-12-05
+535,Istanbul Fulfillment Hub 535,Fulfillment Hub,130,106000,2020-04-13
+536,Berlin Distribution Center 536,Distribution Center,241,107000,2021-10-26
+537,Guangzhou Distribution Center 537,Distribution Center,856,191000,2017-03-28
+538,Sydney Regional Store 538,Regional Store,756,135000,2017-07-25
+539,Dubai Cold Storage 539,Cold Storage,1200,113000,2020-01-11
+540,Delhi Fulfillment Hub 540,Fulfillment Hub,49,83000,2022-08-02
+541,Amman Cross-dock 541,Cross-dock,234,70000,2020-02-28
+542,Los Angeles Fulfillment Hub 542,Fulfillment Hub,794,132000,2021-09-13
+543,Mansoura Regional Store 543,Regional Store,276,177000,2018-11-12
+544,Hamburg Distribution Center 544,Distribution Center,458,116000,2016-01-21
+545,Rome Cross-dock 545,Cross-dock,356,133000,2024-04-16
+546,Seoul Cross-dock 546,Cross-dock,971,68000,2022-08-20
+547,Berlin Distribution Center 547,Distribution Center,943,113000,2015-04-10
+548,Delhi Cold Storage 548,Cold Storage,967,116000,2017-07-04
+549,Sharjah Cold Storage 549,Cold Storage,608,138000,2018-11-16
+550,Guangzhou Fulfillment Hub 550,Fulfillment Hub,586,66000,2015-08-04
+551,Chicago Regional Store 551,Regional Store,685,73000,2023-03-28
+552,Munich Regional Store 552,Regional Store,81,75000,2016-06-27
+553,Luxor Distribution Center 553,Distribution Center,656,87000,2016-10-26
+554,Luxor Distribution Center 554,Distribution Center,332,61000,2017-11-28
+555,Shenzhen Regional Store 555,Regional Store,1125,43000,2024-01-01
+556,Mansoura Cross-dock 556,Cross-dock,222,102000,2017-01-05
+557,Mexico City Regional Store 557,Regional Store,42,171000,2018-12-24
+558,Ankara Cross-dock 558,Cross-dock,1157,11000,2021-07-06
+559,London Regional Store 559,Regional Store,190,134000,2016-04-30
+560,Munich Distribution Center 560,Distribution Center,621,164000,2015-08-31
+561,Munich Distribution Center 561,Distribution Center,459,165000,2015-09-15
+562,Sydney Distribution Center 562,Distribution Center,324,171000,2016-08-06
+563,Guangzhou Fulfillment Hub 563,Fulfillment Hub,586,66000,2018-01-04
+564,Kuwait City Regional Store 564,Regional Store,879,24000,2024-01-22
+565,Manchester Regional Store 565,Regional Store,137,199000,2023-11-08
+566,Los Angeles Fulfillment Hub 566,Fulfillment Hub,794,141000,2020-05-25
+567,Guangzhou Cross-dock 567,Cross-dock,1072,74000,2024-01-16
+568,Berlin Fulfillment Hub 568,Fulfillment Hub,349,171000,2015-01-27
+569,Port Said Fulfillment Hub 569,Fulfillment Hub,814,73000,2020-05-03
+570,Berlin Cold Storage 570,Cold Storage,1105,151000,2019-03-01
+571,Houston Fulfillment Hub 571,Fulfillment Hub,1119,192000,2015-12-14
+572,Istanbul Regional Store 572,Regional Store,778,154000,2020-03-28
+573,Delhi Distribution Center 573,Distribution Center,1129,132000,2019-04-15
+574,Kuwait City Fulfillment Hub 574,Fulfillment Hub,933,42000,2022-04-24
+575,Istanbul Regional Store 575,Regional Store,616,187000,2018-11-26
+576,Sao Paulo Regional Store 576,Regional Store,151,88000,2019-01-06
+577,Tokyo Cross-dock 577,Cross-dock,1024,126000,2017-01-23
+578,Lagos Regional Store 578,Regional Store,344,124000,2019-06-11
+579,Johannesburg Regional Store 579,Regional Store,885,53000,2015-07-15
+580,Amman Cross-dock 580,Cross-dock,774,122000,2020-05-14
+581,Cairo Fulfillment Hub 581,Fulfillment Hub,433,81000,2018-07-19
+582,Dubai Fulfillment Hub 582,Fulfillment Hub,930,73000,2017-06-26
+583,Madrid Cross-dock 583,Cross-dock,789,172000,2018-06-14
+584,Milan Regional Store 584,Regional Store,895,145000,2023-07-30
+585,Jeddah Fulfillment Hub 585,Fulfillment Hub,1144,100000,2021-09-22
+586,Mansoura Fulfillment Hub 586,Fulfillment Hub,330,8000,2023-03-10
+587,Seoul Distribution Center 587,Distribution Center,917,143000,2018-09-03
+588,Mumbai Distribution Center 588,Distribution Center,48,148000,2018-09-01
+589,Mexico City Fulfillment Hub 589,Fulfillment Hub,852,37000,2014-12-01
+590,Berlin Regional Store 590,Regional Store,187,152000,2021-07-05
+591,Singapore Regional Store 591,Regional Store,267,82000,2014-12-26
+592,Casablanca Cold Storage 592,Cold Storage,235,147000,2024-05-15
+593,Hamburg Regional Store 593,Regional Store,998,168000,2021-07-25
+594,Muscat Distribution Center 594,Distribution Center,449,141000,2019-05-18
+595,New York Regional Store 595,Regional Store,468,188000,2021-04-19
+596,Alexandria Regional Store 596,Regional Store,434,19000,2024-07-31
+597,Beijing Cross-dock 597,Cross-dock,749,68000,2016-05-14
+598,Lagos Fulfillment Hub 598,Fulfillment Hub,1100,16000,2022-02-20
+599,Port Said Cross-dock 599,Cross-dock,814,38000,2023-04-29
+600,Sharjah Distribution Center 600,Distribution Center,122,77000,2020-07-26
+601,Berlin Fulfillment Hub 601,Fulfillment Hub,619,9000,2021-04-26
+602,Istanbul Distribution Center 602,Distribution Center,130,82000,2019-10-10
+603,Chicago Fulfillment Hub 603,Fulfillment Hub,199,29000,2016-04-21
+604,Johannesburg Regional Store 604,Regional Store,237,27000,2024-06-15
+605,Munich Distribution Center 605,Distribution Center,837,167000,2017-08-15
+606,Berlin Distribution Center 606,Distribution Center,1051,150000,2018-08-03
+607,Munich Regional Store 607,Regional Store,297,93000,2024-05-20
+608,Singapore Regional Store 608,Regional Store,1131,115000,2015-05-06
+609,Delhi Cross-dock 609,Cross-dock,319,61000,2018-10-21
+610,Shenzhen Fulfillment Hub 610,Fulfillment Hub,369,99000,2020-04-07
+611,Shenzhen Fulfillment Hub 611,Fulfillment Hub,153,156000,2017-02-13
+612,Giza Regional Store 612,Regional Store,57,106000,2021-05-23
+613,Mexico City Regional Store 613,Regional Store,744,159000,2019-12-14
+614,Giza Distribution Center 614,Distribution Center,489,99000,2017-05-15
+615,Madrid Cold Storage 615,Cold Storage,141,75000,2016-10-23
+616,Paris Regional Store 616,Regional Store,678,179000,2017-08-11
+617,Chicago Regional Store 617,Regional Store,415,180000,2022-08-04
+618,Miami Distribution Center 618,Distribution Center,472,49000,2019-12-03
+619,Mexico City Cold Storage 619,Cold Storage,1068,95000,2022-08-13
+620,Seoul Cross-dock 620,Cross-dock,485,155000,2021-11-13
+621,Port Said Fulfillment Hub 621,Fulfillment Hub,544,55000,2022-09-06
+622,Kuwait City Fulfillment Hub 622,Fulfillment Hub,825,151000,2023-03-20
+623,Mumbai Fulfillment Hub 623,Fulfillment Hub,1074,180000,2020-11-14
+624,Istanbul Distribution Center 624,Distribution Center,886,51000,2018-05-04
+625,Tokyo Distribution Center 625,Distribution Center,592,34000,2021-08-17
+626,Sao Paulo Fulfillment Hub 626,Fulfillment Hub,367,189000,2024-02-05
+627,Seoul Fulfillment Hub 627,Fulfillment Hub,215,199000,2017-12-15
+628,Toronto Regional Store 628,Regional Store,149,172000,2019-08-05
+629,Beijing Regional Store 629,Regional Store,911,124000,2023-06-13
+630,Johannesburg Cross-dock 630,Cross-dock,885,21000,2020-09-03
+631,Beijing Distribution Center 631,Distribution Center,425,183000,2016-03-16
+632,Beijing Fulfillment Hub 632,Fulfillment Hub,1127,43000,2018-03-29
+633,Hamburg Regional Store 633,Regional Store,1160,39000,2017-04-18
+634,Sao Paulo Regional Store 634,Regional Store,745,144000,2019-06-29
+635,Shenzhen Fulfillment Hub 635,Fulfillment Hub,315,80000,2024-07-27
+636,Sharjah Cold Storage 636,Cold Storage,608,174000,2023-01-22
+637,Kuwait City Regional Store 637,Regional Store,987,175000,2024-04-02
+638,Kuwait City Regional Store 638,Regional Store,609,162000,2022-02-04
+639,Seoul Regional Store 639,Regional Store,593,168000,2019-10-16
+640,Guangzhou Fulfillment Hub 640,Fulfillment Hub,640,111000,2021-04-16
+641,Houston Cold Storage 641,Cold Storage,1011,175000,2019-09-15
+642,Assiut Cold Storage 642,Cold Storage,493,183000,2015-03-11
+643,Port Said Regional Store 643,Regional Store,220,59000,2015-12-09
+644,Ankara Regional Store 644,Regional Store,617,87000,2020-04-03
+645,Suez Cold Storage 645,Cold Storage,761,125000,2021-04-15
+646,Mexico City Regional Store 646,Regional Store,1122,172000,2017-04-15
+647,London Distribution Center 647,Distribution Center,136,80000,2015-02-03
+648,Tokyo Cross-dock 648,Cross-dock,1132,55000,2015-06-23
+649,Delhi Cross-dock 649,Cross-dock,967,67000,2017-11-19
+650,Sao Paulo Regional Store 650,Regional Store,853,160000,2023-04-11
+651,Abu Dhabi Fulfillment Hub 651,Fulfillment Hub,283,106000,2018-11-29
+652,Rome Cross-dock 652,Cross-dock,248,54000,2024-05-19
+653,London Cold Storage 653,Cold Storage,514,144000,2023-08-07
+654,Port Said Fulfillment Hub 654,Fulfillment Hub,220,133000,2023-03-31
+655,Rome Distribution Center 655,Distribution Center,788,106000,2024-05-01
+656,Houston Regional Store 656,Regional Store,903,125000,2017-03-04
+657,Barcelona Fulfillment Hub 657,Fulfillment Hub,574,49000,2024-05-21
+658,Johannesburg Distribution Center 658,Distribution Center,831,40000,2023-11-22
+659,Muscat Cross-dock 659,Cross-dock,935,162000,2022-08-29
+660,Doha Cold Storage 660,Cold Storage,1096,137000,2016-09-07
+661,Doha Fulfillment Hub 661,Fulfillment Hub,826,195000,2017-08-23
+662,Dammam Fulfillment Hub 662,Fulfillment Hub,281,188000,2021-03-20
+663,Delhi Fulfillment Hub 663,Fulfillment Hub,157,75000,2015-03-27
+664,Delhi Regional Store 664,Regional Store,1129,95000,2022-11-19
+665,Dammam Fulfillment Hub 665,Fulfillment Hub,929,170000,2018-12-25
+666,Mumbai Fulfillment Hub 666,Fulfillment Hub,1020,5000,2014-12-31
+667,Ankara Regional Store 667,Regional Store,509,173000,2017-09-19
+668,London Cold Storage 668,Cold Storage,190,37000,2018-09-06
+669,Doha Fulfillment Hub 669,Fulfillment Hub,718,55000,2021-03-30
+670,Dubai Cross-dock 670,Cross-dock,768,98000,2020-09-21
+671,Shanghai Regional Store 671,Regional Store,260,142000,2018-06-11
+672,Izmir Distribution Center 672,Distribution Center,564,74000,2020-11-21
+673,Istanbul Regional Store 673,Regional Store,508,187000,2023-07-26
+674,Mexico City Fulfillment Hub 674,Fulfillment Hub,312,157000,2018-03-28
+675,Riyadh Distribution Center 675,Distribution Center,981,149000,2018-06-22
+676,Sao Paulo Distribution Center 676,Distribution Center,583,155000,2015-10-15
+677,Rome Distribution Center 677,Distribution Center,1112,10000,2018-07-06
+678,Alexandria Regional Store 678,Regional Store,2,165000,2017-08-02
+679,Beijing Regional Store 679,Regional Store,1127,122000,2022-04-08
+680,Los Angeles Regional Store 680,Regional Store,794,41000,2015-11-26
+681,Milan Regional Store 681,Regional Store,841,156000,2020-08-08
+682,Istanbul Fulfillment Hub 682,Fulfillment Hub,346,25000,2022-05-25
+683,Toronto Cold Storage 683,Cold Storage,95,125000,2017-04-21
+684,Luxor Regional Store 684,Regional Store,278,116000,2015-06-15
+685,Guangzhou Fulfillment Hub 685,Fulfillment Hub,532,10000,2021-06-16
+686,London Regional Store 686,Regional Store,406,78000,2020-08-02
+687,Doha Regional Store 687,Regional Store,232,28000,2020-05-02
+688,Doha Fulfillment Hub 688,Fulfillment Hub,16,189000,2023-06-16
+689,London Distribution Center 689,Distribution Center,838,161000,2015-10-24
+690,Shenzhen Fulfillment Hub 690,Fulfillment Hub,801,199000,2016-09-25
+691,Rome Cold Storage 691,Cold Storage,194,100000,2019-05-24
+692,Istanbul Regional Store 692,Regional Store,940,69000,2020-04-29
+693,Miami Regional Store 693,Regional Store,1174,191000,2023-11-04
+694,Dubai Cold Storage 694,Cold Storage,1200,64000,2020-11-19
+695,Amman Distribution Center 695,Distribution Center,234,85000,2016-11-15
+696,Munich Cold Storage 696,Cold Storage,513,31000,2023-03-08
+697,Jeddah Cross-dock 697,Cross-dock,64,165000,2018-11-15
+698,Kuwait City Regional Store 698,Regional Store,15,28000,2023-05-06
+699,Toronto Fulfillment Hub 699,Fulfillment Hub,1013,11000,2017-07-04
+700,London Fulfillment Hub 700,Fulfillment Hub,1162,167000,2022-08-03
+701,Munich Fulfillment Hub 701,Fulfillment Hub,243,168000,2020-01-29
+702,Muscat Fulfillment Hub 702,Fulfillment Hub,557,171000,2020-04-06
+703,Manchester Distribution Center 703,Distribution Center,29,172000,2024-05-25
+704,Assiut Fulfillment Hub 704,Fulfillment Hub,979,32000,2016-04-22
+705,Jeddah Cross-dock 705,Cross-dock,658,75000,2017-11-03
+706,Munich Cold Storage 706,Cold Storage,351,154000,2016-08-03
+707,Paris Distribution Center 707,Distribution Center,1164,65000,2022-12-30
+708,Alexandria Distribution Center 708,Distribution Center,164,156000,2023-03-03
+709,Singapore Cross-dock 709,Cross-dock,321,182000,2023-01-18
+710,Barcelona Regional Store 710,Regional Store,898,192000,2017-02-18
+711,Suez Cross-dock 711,Cross-dock,491,156000,2017-05-05
+712,Milan Cold Storage 712,Cold Storage,841,160000,2018-10-01
+713,Kuwait City Distribution Center 713,Distribution Center,285,121000,2022-05-27
+714,Rotterdam Fulfillment Hub 714,Fulfillment Hub,791,20000,2022-03-11
+715,Istanbul Cold Storage 715,Cold Storage,670,90000,2024-07-11
+716,Giza Cross-dock 716,Cross-dock,57,190000,2022-07-08
+717,Jeddah Cross-dock 717,Cross-dock,388,182000,2024-03-10
+718,Madrid Cold Storage 718,Cold Storage,357,51000,2017-05-30
+719,Luxor Fulfillment Hub 719,Fulfillment Hub,710,150000,2020-10-03
+720,Miami Distribution Center 720,Distribution Center,526,64000,2020-01-15
+721,Barcelona Distribution Center 721,Distribution Center,574,86000,2016-04-13
+722,Mexico City Regional Store 722,Regional Store,204,131000,2024-02-14
+723,Rotterdam Regional Store 723,Regional Store,1115,101000,2015-12-18
+724,New York Distribution Center 724,Distribution Center,900,122000,2023-03-19
+725,Delhi Fulfillment Hub 725,Fulfillment Hub,805,24000,2017-06-01
+726,Assiut Cross-dock 726,Cross-dock,331,62000,2016-12-20
+727,Jeddah Distribution Center 727,Distribution Center,820,163000,2020-09-17
+728,Dubai Regional Store 728,Regional Store,282,125000,2019-05-24
+729,Shanghai Fulfillment Hub 729,Fulfillment Hub,584,169000,2018-08-05
+730,Tokyo Regional Store 730,Regional Store,322,193000,2023-09-09
+731,Miami Regional Store 731,Regional Store,364,74000,2021-09-04
+732,Izmir Fulfillment Hub 732,Fulfillment Hub,780,56000,2020-10-15
+733,Seoul Regional Store 733,Regional Store,377,65000,2022-07-21
+734,Abu Dhabi Regional Store 734,Regional Store,877,116000,2022-09-14
+735,Dammam Fulfillment Hub 735,Fulfillment Hub,605,54000,2016-07-25
+736,Shanghai Fulfillment Hub 736,Fulfillment Hub,1178,81000,2019-02-19
+737,Kuwait City Regional Store 737,Regional Store,231,38000,2023-09-17
+738,Sydney Regional Store 738,Regional Store,1134,80000,2022-10-24
+739,Singapore Regional Store 739,Regional Store,159,189000,2015-05-21
+740,Dubai Fulfillment Hub 740,Fulfillment Hub,660,87000,2017-03-19
+741,Kuwait City Regional Store 741,Regional Store,447,153000,2017-05-25
+742,Houston Regional Store 742,Regional Store,903,88000,2019-11-06
+743,Delhi Fulfillment Hub 743,Fulfillment Hub,157,89000,2022-10-26
+744,New York Fulfillment Hub 744,Fulfillment Hub,306,133000,2019-07-20
+745,Assiut Fulfillment Hub 745,Fulfillment Hub,277,26000,2016-08-06
+746,Berlin Regional Store 746,Regional Store,1105,74000,2020-04-12
+747,Delhi Distribution Center 747,Distribution Center,643,32000,2016-12-15
+748,New York Regional Store 748,Regional Store,198,43000,2021-06-21
+749,Milan Fulfillment Hub 749,Fulfillment Hub,949,143000,2024-05-27
+750,Casablanca Regional Store 750,Regional Store,343,39000,2021-01-07
+751,Sydney Distribution Center 751,Distribution Center,270,44000,2023-10-12
+752,Sydney Regional Store 752,Regional Store,594,116000,2020-02-25
+753,Rome Cross-dock 753,Cross-dock,950,72000,2022-10-18
+754,New York Regional Store 754,Regional Store,1008,28000,2024-01-20
+755,Casablanca Cold Storage 755,Cold Storage,19,191000,2016-07-01
+756,Tokyo Distribution Center 756,Distribution Center,1078,185000,2021-05-07
+757,Riyadh Distribution Center 757,Distribution Center,1197,118000,2017-04-20
+758,Luxor Distribution Center 758,Distribution Center,386,107000,2015-08-15
+759,Munich Cross-dock 759,Cross-dock,621,162000,2017-02-07
+760,Lagos Regional Store 760,Regional Store,452,194000,2016-03-11
+761,Rome Distribution Center 761,Distribution Center,572,25000,2016-08-25
+762,Munich Regional Store 762,Regional Store,783,24000,2014-11-08
+763,Berlin Fulfillment Hub 763,Fulfillment Hub,781,69000,2024-05-08
+764,Paris Cold Storage 764,Cold Storage,570,64000,2019-02-16
+765,Milan Fulfillment Hub 765,Fulfillment Hub,571,179000,2016-06-03
+766,Beijing Cold Storage 766,Cold Storage,587,104000,2018-03-03
+767,Port Said Cross-dock 767,Cross-dock,490,163000,2022-02-23
+768,Miami Cold Storage 768,Cold Storage,148,135000,2021-01-06
+769,Sharjah Cross-dock 769,Cross-dock,446,146000,2015-04-16
+770,Delhi Fulfillment Hub 770,Fulfillment Hub,859,191000,2016-03-30
+771,Miami Regional Store 771,Regional Store,1174,119000,2020-02-23
+772,Port Said Fulfillment Hub 772,Fulfillment Hub,976,156000,2024-05-06
+773,Luxor Fulfillment Hub 773,Fulfillment Hub,1034,57000,2015-06-27
+774,Istanbul Fulfillment Hub 774,Fulfillment Hub,940,55000,2023-04-15
+775,Riyadh Regional Store 775,Regional Store,603,119000,2015-05-25
+776,Riyadh Regional Store 776,Regional Store,819,180000,2019-09-02
+777,Rome Distribution Center 777,Distribution Center,1004,14000,2017-01-20
+778,Tokyo Regional Store 778,Regional Store,268,102000,2018-12-17
+779,Muscat Fulfillment Hub 779,Fulfillment Hub,179,44000,2023-11-29
+780,Chennai Distribution Center 780,Distribution Center,320,177000,2016-11-29
+781,Mexico City Distribution Center 781,Distribution Center,636,106000,2021-01-30
+782,Hamburg Distribution Center 782,Distribution Center,944,13000,2018-01-26
+783,Cairo Regional Store 783,Regional Store,541,5000,2021-03-17
+784,Guangzhou Fulfillment Hub 784,Fulfillment Hub,1180,129000,2015-04-30
+785,Dubai Distribution Center 785,Distribution Center,390,50000,2017-09-20
+786,Kuwait City Fulfillment Hub 786,Fulfillment Hub,555,13000,2024-03-23
+787,Ankara Regional Store 787,Regional Store,1103,34000,2021-12-02
+788,Sao Paulo Cross-dock 788,Cross-dock,205,35000,2024-01-08
+789,Munich Fulfillment Hub 789,Fulfillment Hub,999,72000,2021-07-03
+790,Lagos Regional Store 790,Regional Store,182,145000,2016-08-11
+791,Riyadh Distribution Center 791,Distribution Center,1089,172000,2019-05-04
+792,Jeddah Regional Store 792,Regional Store,388,108000,2023-06-10
+793,Assiut Distribution Center 793,Distribution Center,763,189000,2021-07-07
+794,Shenzhen Distribution Center 794,Distribution Center,855,159000,2019-11-30
+795,Lagos Fulfillment Hub 795,Fulfillment Hub,452,37000,2023-05-02
+796,Abu Dhabi Distribution Center 796,Distribution Center,661,148000,2015-11-27
+797,Shenzhen Distribution Center 797,Distribution Center,909,50000,2024-04-02
+798,Hamburg Regional Store 798,Regional Store,1052,192000,2016-01-11
+799,Ankara Fulfillment Hub 799,Fulfillment Hub,131,170000,2024-08-10
+800,Cairo Distribution Center 800,Distribution Center,595,17000,2022-09-19
+801,Tokyo Cross-dock 801,Cross-dock,1024,38000,2019-08-07
+802,Lagos Regional Store 802,Regional Store,668,91000,2019-06-25
+803,Rotterdam Cold Storage 803,Cold Storage,35,149000,2015-02-09
+804,Sao Paulo Distribution Center 804,Distribution Center,151,112000,2017-11-28
+805,Jeddah Regional Store 805,Regional Store,982,21000,2017-01-17
+806,Ankara Regional Store 806,Regional Store,509,127000,2021-10-02
+807,Rotterdam Cross-dock 807,Cross-dock,845,131000,2016-09-22
+808,Guangzhou Fulfillment Hub 808,Fulfillment Hub,1072,186000,2022-09-24
+809,Seoul Fulfillment Hub 809,Fulfillment Hub,107,56000,2017-09-30
+810,Assiut Distribution Center 810,Distribution Center,547,12000,2023-03-03
+811,Kuwait City Regional Store 811,Regional Store,177,151000,2018-05-04
+812,Houston Regional Store 812,Regional Store,1011,142000,2022-03-16
+813,Giza Distribution Center 813,Distribution Center,543,106000,2021-05-18
+814,Hamburg Fulfillment Hub 814,Fulfillment Hub,1052,139000,2024-07-16
+815,New York Cold Storage 815,Cold Storage,360,39000,2019-12-20
+816,Abu Dhabi Fulfillment Hub 816,Fulfillment Hub,175,29000,2018-04-07
+817,Kuwait City Cross-dock 817,Cross-dock,1041,83000,2021-03-11
+818,Barcelona Cold Storage 818,Cold Storage,736,179000,2015-01-30
+819,Doha Distribution Center 819,Distribution Center,232,105000,2024-05-13
+820,Izmir Cross-dock 820,Cross-dock,834,129000,2021-06-21
+821,Kuwait City Regional Store 821,Regional Store,501,199000,2015-04-09
+822,Alexandria Fulfillment Hub 822,Fulfillment Hub,56,64000,2016-06-27
+823,Sao Paulo Fulfillment Hub 823,Fulfillment Hub,313,98000,2014-12-05
+824,Chicago Regional Store 824,Regional Store,901,138000,2021-05-12
+825,Shenzhen Distribution Center 825,Distribution Center,153,34000,2021-05-06
+826,London Distribution Center 826,Distribution Center,406,83000,2016-05-23
+827,Mexico City Fulfillment Hub 827,Fulfillment Hub,312,113000,2020-03-03
+828,Doha Regional Store 828,Regional Store,880,64000,2019-08-12
+829,Mansoura Fulfillment Hub 829,Fulfillment Hub,1032,47000,2019-07-18
+830,London Fulfillment Hub 830,Fulfillment Hub,946,90000,2020-11-16
+831,Delhi Fulfillment Hub 831,Fulfillment Hub,859,176000,2023-03-13
+832,Sydney Fulfillment Hub 832,Fulfillment Hub,108,86000,2023-10-20
+833,Amman Regional Store 833,Regional Store,1098,167000,2016-05-08
+834,Madrid Regional Store 834,Regional Store,195,136000,2024-02-03
+835,Cairo Fulfillment Hub 835,Fulfillment Hub,487,30000,2020-06-10
+836,Istanbul Regional Store 836,Regional Store,994,183000,2016-07-27
+837,Casablanca Regional Store 837,Regional Store,289,119000,2023-12-21
+838,Shenzhen Regional Store 838,Regional Store,261,115000,2018-06-07
+839,Rome Cross-dock 839,Cross-dock,32,140000,2019-03-08
+840,Tokyo Distribution Center 840,Distribution Center,430,13000,2024-04-26
+841,Cairo Regional Store 841,Regional Store,595,54000,2020-07-02
+842,Johannesburg Cross-dock 842,Cross-dock,561,159000,2016-03-12
+843,Mumbai Cross-dock 843,Cross-dock,48,127000,2015-06-23
+844,Paris Fulfillment Hub 844,Fulfillment Hub,246,80000,2022-11-15
+845,Mansoura Distribution Center 845,Distribution Center,6,95000,2018-03-25
+846,Sydney Distribution Center 846,Distribution Center,270,125000,2015-10-08
+847,Izmir Distribution Center 847,Distribution Center,726,99000,2015-03-13
+848,Dammam Distribution Center 848,Distribution Center,11,94000,2024-02-08
+849,New York Distribution Center 849,Distribution Center,198,112000,2020-06-05
+850,Suez Distribution Center 850,Distribution Center,653,59000,2019-12-14
+851,Izmir Fulfillment Hub 851,Fulfillment Hub,672,116000,2020-08-09
+852,Chennai Cold Storage 852,Cold Storage,1076,139000,2018-11-30
+853,Toronto Cross-dock 853,Cross-dock,689,143000,2024-02-28
+854,Rome Fulfillment Hub 854,Fulfillment Hub,1112,125000,2020-09-20
+855,Suez Regional Store 855,Regional Store,869,93000,2021-01-29
+856,Abu Dhabi Fulfillment Hub 856,Fulfillment Hub,661,132000,2023-08-05
+857,London Distribution Center 857,Distribution Center,460,145000,2014-10-25
+858,Hamburg Cross-dock 858,Cross-dock,134,65000,2017-12-06
+859,Chicago Fulfillment Hub 859,Fulfillment Hub,847,99000,2022-12-31
+860,Guangzhou Cross-dock 860,Cross-dock,1126,137000,2015-09-26
+861,Luxor Distribution Center 861,Distribution Center,440,134000,2018-01-13
+862,Delhi Fulfillment Hub 862,Fulfillment Hub,427,101000,2016-05-25
+863,Jeddah Distribution Center 863,Distribution Center,118,56000,2021-10-29
+864,Doha Fulfillment Hub 864,Fulfillment Hub,718,182000,2023-02-07
+865,Mumbai Regional Store 865,Regional Store,372,110000,2017-05-22
+866,Abu Dhabi Distribution Center 866,Distribution Center,13,110000,2021-07-25
+867,Jeddah Fulfillment Hub 867,Fulfillment Hub,10,96000,2022-04-12
+868,Berlin Distribution Center 868,Distribution Center,403,153000,2023-09-17
+869,Kuwait City Regional Store 869,Regional Store,555,63000,2023-12-05
+870,Riyadh Cross-dock 870,Cross-dock,549,187000,2019-04-12
+871,Berlin Regional Store 871,Regional Store,889,17000,2015-07-27
+872,Miami Cross-dock 872,Cross-dock,634,7000,2022-02-14
+873,Izmir Cold Storage 873,Cold Storage,942,104000,2020-02-25
+874,Madrid Distribution Center 874,Distribution Center,357,172000,2019-04-25
+875,Riyadh Regional Store 875,Regional Store,279,6000,2020-02-11
+876,Sydney Fulfillment Hub 876,Fulfillment Hub,648,137000,2021-02-18
+877,Casablanca Fulfillment Hub 877,Fulfillment Hub,127,81000,2017-08-11
+878,Sydney Regional Store 878,Regional Store,918,9000,2018-01-08
+879,Assiut Cold Storage 879,Cold Storage,223,77000,2018-02-26
+880,Casablanca Regional Store 880,Regional Store,1099,131000,2019-08-25
+881,Beijing Fulfillment Hub 881,Fulfillment Hub,1181,128000,2021-06-14
+882,Singapore Cross-dock 882,Cross-dock,645,170000,2015-03-15
+883,Singapore Distribution Center 883,Distribution Center,375,197000,2017-09-02
+884,Manchester Cross-dock 884,Cross-dock,407,15000,2021-12-18
+885,Paris Fulfillment Hub 885,Fulfillment Hub,516,172000,2015-02-02
+886,New York Distribution Center 886,Distribution Center,576,6000,2022-08-17
+887,Chicago Distribution Center 887,Distribution Center,91,195000,2022-05-15
+888,Istanbul Cold Storage 888,Cold Storage,238,155000,2017-12-06
+889,Paris Distribution Center 889,Distribution Center,948,190000,2020-12-12
+890,Jeddah Fulfillment Hub 890,Fulfillment Hub,64,18000,2019-08-14
+891,Seoul Distribution Center 891,Distribution Center,539,19000,2017-04-03
+892,Berlin Fulfillment Hub 892,Fulfillment Hub,1051,197000,2016-04-04
+893,Singapore Distribution Center 893,Distribution Center,105,59000,2024-04-06
+894,Milan Regional Store 894,Regional Store,1111,79000,2023-04-05
+895,London Distribution Center 895,Distribution Center,568,62000,2023-08-23
+896,Ankara Distribution Center 896,Distribution Center,509,35000,2016-03-04
+897,Guangzhou Distribution Center 897,Distribution Center,856,18000,2024-04-16
+898,Kuwait City Fulfillment Hub 898,Fulfillment Hub,933,31000,2020-12-15
+899,London Cross-dock 899,Cross-dock,568,170000,2019-11-02
+900,Guangzhou Distribution Center 900,Distribution Center,100,10000,2018-02-27
+901,Manchester Regional Store 901,Regional Store,1163,179000,2017-02-07
+902,Dammam Fulfillment Hub 902,Fulfillment Hub,11,47000,2017-12-29
+903,Lagos Distribution Center 903,Distribution Center,1046,122000,2016-07-01
+904,Rotterdam Distribution Center 904,Distribution Center,521,55000,2022-07-29
+905,Izmir Cross-dock 905,Cross-dock,618,178000,2024-02-19
+906,Cairo Fulfillment Hub 906,Fulfillment Hub,919,12000,2024-04-26
+907,Delhi Cross-dock 907,Cross-dock,1129,144000,2023-07-26
+908,Casablanca Regional Store 908,Regional Store,181,187000,2016-02-03
+909,Alexandria Distribution Center 909,Distribution Center,974,90000,2022-02-02
+910,Los Angeles Fulfillment Hub 910,Fulfillment Hub,794,92000,2023-03-30
+911,Jeddah Fulfillment Hub 911,Fulfillment Hub,442,34000,2019-10-26
+912,Berlin Fulfillment Hub 912,Fulfillment Hub,511,176000,2020-04-14
+913,Luxor Fulfillment Hub 913,Fulfillment Hub,926,191000,2018-07-29
+914,Assiut Cross-dock 914,Cross-dock,169,101000,2022-11-22
+915,Sharjah Cross-dock 915,Cross-dock,608,139000,2021-09-20
+916,Giza Regional Store 916,Regional Store,867,152000,2020-12-26
+917,Seoul Distribution Center 917,Distribution Center,647,74000,2014-11-18
+918,Tokyo Fulfillment Hub 918,Fulfillment Hub,538,5000,2024-04-02
+919,Milan Regional Store 919,Regional Store,625,30000,2019-12-15
+920,Lagos Fulfillment Hub 920,Fulfillment Hub,614,179000,2024-03-17
+921,Beijing Regional Store 921,Regional Store,965,160000,2021-06-23
+922,Sharjah Cross-dock 922,Cross-dock,986,23000,2019-12-02
+923,Ankara Fulfillment Hub 923,Fulfillment Hub,1103,161000,2022-03-20
+924,Madrid Distribution Center 924,Distribution Center,87,177000,2017-03-20
+925,Mansoura Cross-dock 925,Cross-dock,384,110000,2019-03-26
+926,Munich Cross-dock 926,Cross-dock,1053,92000,2015-01-13
+927,Kuwait City Distribution Center 927,Distribution Center,771,199000,2022-02-17
+928,Johannesburg Distribution Center 928,Distribution Center,453,175000,2017-12-24
+929,Seoul Distribution Center 929,Distribution Center,755,80000,2015-09-25
+930,Doha Cross-dock 930,Cross-dock,556,97000,2022-08-20
+931,Houston Distribution Center 931,Distribution Center,1065,188000,2017-01-31
+932,Istanbul Regional Store 932,Regional Store,670,184000,2016-12-28
+933,Singapore Cold Storage 933,Cold Storage,537,127000,2016-03-18
+934,Beijing Cold Storage 934,Cold Storage,749,131000,2020-09-25
+935,Abu Dhabi Distribution Center 935,Distribution Center,229,148000,2018-02-19
+936,Assiut Fulfillment Hub 936,Fulfillment Hub,925,61000,2020-05-30
+937,London Regional Store 937,Regional Store,244,183000,2018-03-07
+938,Manchester Regional Store 938,Regional Store,29,62000,2022-03-18
+939,Luxor Fulfillment Hub 939,Fulfillment Hub,62,167000,2018-06-22
+940,Hamburg Regional Store 940,Regional Store,80,164000,2022-08-08
+941,Abu Dhabi Cross-dock 941,Cross-dock,121,61000,2019-05-18
+942,Assiut Regional Store 942,Regional Store,61,162000,2014-12-07
+943,Los Angeles Cold Storage 943,Cold Storage,362,174000,2019-02-01
+944,Casablanca Cold Storage 944,Cold Storage,1153,101000,2017-03-15
+945,Doha Cross-dock 945,Cross-dock,124,110000,2019-08-15
+946,Alexandria Distribution Center 946,Distribution Center,812,104000,2016-01-07
+947,Lagos Cross-dock 947,Cross-dock,1046,13000,2022-03-16
+948,Sydney Cross-dock 948,Cross-dock,972,110000,2020-12-10
+949,Giza Cross-dock 949,Cross-dock,435,136000,2016-03-09
+950,Jeddah Fulfillment Hub 950,Fulfillment Hub,64,114000,2024-06-05
+951,Dammam Cross-dock 951,Cross-dock,443,102000,2018-03-30
+952,Lagos Cross-dock 952,Cross-dock,722,102000,2016-11-08
+953,Guangzhou Cold Storage 953,Cold Storage,910,109000,2014-10-15
+954,Riyadh Regional Store 954,Regional Store,171,186000,2017-03-21
+955,Los Angeles Fulfillment Hub 955,Fulfillment Hub,362,85000,2015-01-24
+956,Lagos Cross-dock 956,Cross-dock,722,48000,2019-07-19
+957,Delhi Cross-dock 957,Cross-dock,859,17000,2020-10-06
+958,Chennai Cross-dock 958,Cross-dock,374,174000,2018-06-08
+959,Kuwait City Distribution Center 959,Distribution Center,987,40000,2023-06-03
+960,Shenzhen Regional Store 960,Regional Store,963,86000,2024-04-22
+961,Cairo Regional Store 961,Regional Store,433,152000,2017-10-20
+962,Chennai Fulfillment Hub 962,Fulfillment Hub,644,39000,2021-01-26
+963,Barcelona Cold Storage 963,Cold Storage,574,50000,2018-09-30
+964,Beijing Cold Storage 964,Cold Storage,803,128000,2017-06-26
+965,Riyadh Regional Store 965,Regional Store,387,127000,2016-11-08
+966,Amman Cold Storage 966,Cold Storage,396,52000,2019-12-05
+967,Istanbul Fulfillment Hub 967,Fulfillment Hub,508,110000,2016-03-12
+968,Shanghai Cold Storage 968,Cold Storage,260,142000,2021-05-31
+969,Delhi Cold Storage 969,Cold Storage,697,48000,2023-07-02
+970,Doha Cross-dock 970,Cross-dock,1150,91000,2018-06-01
+971,Mexico City Distribution Center 971,Distribution Center,420,59000,2020-06-04
+972,Luxor Distribution Center 972,Distribution Center,1034,188000,2024-05-28
+973,Muscat Fulfillment Hub 973,Fulfillment Hub,557,79000,2021-09-25
+974,Chicago Regional Store 974,Regional Store,199,171000,2018-10-08
+975,Alexandria Cross-dock 975,Cross-dock,596,176000,2023-06-24
+976,Mansoura Regional Store 976,Regional Store,600,37000,2015-03-16
+977,Paris Regional Store 977,Regional Store,30,188000,2020-08-02
+978,New York Distribution Center 978,Distribution Center,576,14000,2017-04-10
+979,Rotterdam Distribution Center 979,Distribution Center,197,80000,2016-07-25
+980,New York Regional Store 980,Regional Store,954,36000,2019-11-18
+981,Alexandria Fulfillment Hub 981,Fulfillment Hub,650,13000,2021-10-25
+982,Mexico City Cold Storage 982,Cold Storage,366,112000,2022-01-23
+983,Port Said Regional Store 983,Regional Store,4,122000,2022-02-27
+984,Los Angeles Fulfillment Hub 984,Fulfillment Hub,686,118000,2017-08-19
+985,New York Cross-dock 985,Cross-dock,846,86000,2018-11-13
+986,Ankara Regional Store 986,Regional Store,509,158000,2015-11-26
+987,Assiut Regional Store 987,Regional Store,1087,101000,2020-11-12
+988,Lagos Cross-dock 988,Cross-dock,236,109000,2022-09-16
+989,Mexico City Cold Storage 989,Cold Storage,906,91000,2019-07-25
+990,Cairo Cross-dock 990,Cross-dock,595,45000,2017-11-13
+991,Seoul Distribution Center 991,Distribution Center,377,132000,2018-01-25
+992,Istanbul Cross-dock 992,Cross-dock,346,166000,2021-03-12
+993,Sydney Regional Store 993,Regional Store,540,64000,2021-05-31
+994,Sao Paulo Cold Storage 994,Cold Storage,97,95000,2019-06-25
+995,Berlin Distribution Center 995,Distribution Center,781,179000,2017-03-23
+996,Suez Fulfillment Hub 996,Fulfillment Hub,491,45000,2018-11-01
+997,Assiut Cross-dock 997,Cross-dock,817,87000,2018-01-05
+998,Berlin Regional Store 998,Regional Store,619,57000,2015-10-02
+999,Houston Regional Store 999,Regional Store,1173,71000,2018-10-14
+1000,Guangzhou Distribution Center 1000,Distribution Center,100,94000,2023-02-26
